@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#A80F28">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="越词：1016 个越南语单词。河内音 IPA、中文释义、谐音、例句、标准发音，离线可用。">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="越词">
+  <title>越词 · 每日越南语</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true">
+    <span class="ambient-one"></span>
+    <span class="ambient-two"></span>
+    <span class="ambient-three"></span>
+  </div>
+
+  <div class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#" data-action="nav" data-view="today" aria-label="越词首页">
+        <img class="brand-mark" src="icons/icon-192.png" width="42" height="42" alt="">
+        <span class="brand-copy">
+          <strong>越词</strong>
+          <small>VIỆT TỪ</small>
+        </span>
+      </a>
+      <button class="streak-pill" id="streak-pill" type="button" data-action="nav" data-view="me" aria-label="查看学习记录">
+        <span class="streak-flame" aria-hidden="true">🔥</span>
+        <span id="streak-text">0 天</span>
+      </button>
+    </header>
+
+    <main class="main" id="main">
+      <section class="view" id="view-today" data-view="today" aria-label="今日学习"></section>
+      <section class="view" id="view-library" data-view="library" aria-label="词库" hidden></section>
+      <section class="view" id="view-me" data-view="me" aria-label="我的学习" hidden></section>
+      <noscript>
+        <div class="empty-state">
+          <h2>需要启用 JavaScript</h2>
+          <p>请允许浏览器运行 JavaScript，才能使用每日单词和发音功能。</p>
+        </div>
+      </noscript>
+    </main>
+
+    <nav class="tabbar" aria-label="主导航">
+      <button class="nav-btn is-active" type="button" data-action="nav" data-view="today" aria-current="page">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 8h14M5 16h14"/><path d="M8 3c0 5-2 7-4 8 2 1 4 3 4 8M16 3c0 5 2 7 4 8-2 1-4 3-4 8"/></svg>
+        <span>今日</span>
+      </button>
+      <button class="nav-btn" type="button" data-action="nav" data-view="library">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z"/></svg>
+        <span>词库</span>
+      </button>
+      <button class="nav-btn" type="button" data-action="nav" data-view="me">
+        <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.5"/><path d="M5 21a7 7 0 0 1 14 0"/></svg>
+        <span>我的</span>
+      </button>
+    </nav>
+  </div>
+
+  <div class="sheet" id="sheet" hidden></div>
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+
+  <div class="modal" id="confirm" hidden>
+    <div class="modal-backdrop" data-action="cancel-reset"></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="confirm-title">
+      <div class="modal-icon" aria-hidden="true">↺</div>
+      <h2 id="confirm-title">清除学习记录？</h2>
+      <p>会清空已学单词、复习安排和连续天数，但保留你的设置。此操作无法撤销。</p>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" type="button" data-action="cancel-reset">取消</button>
+        <button class="btn btn-danger" type="button" data-action="confirm-reset">清除记录</button>
+      </div>
+    </div>
+  </div>
+
+  <audio id="player" preload="auto"></audio>
+
+  <script src="data/words.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

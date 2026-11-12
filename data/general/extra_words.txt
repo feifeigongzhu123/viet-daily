@@ -1,0 +1,390 @@
+không
+một
+hai
+ba
+bốn
+năm
+sáu
+bảy
+tám
+chín
+mười
+trăm
+nghìn
+triệu
+thứ nhất
+thứ hai
+thứ ba
+thứ tư
+thứ năm
+thứ sáu
+thứ bảy
+chủ nhật
+tháng giêng
+tháng hai
+tháng ba
+tháng tư
+tháng năm
+tháng sáu
+tháng bảy
+tháng tám
+tháng chín
+tháng mười
+tháng mười một
+tháng mười hai
+bố
+mẹ
+bố mẹ
+anh trai
+chị gái
+em trai
+em gái
+ông nội
+bà nội
+ông ngoại
+bà ngoại
+vợ
+chồng
+con
+con gái
+con trai
+cháu
+chú
+bác
+cô
+dì
+cậu
+mợ
+anh họ
+chị họ
+em họ
+gia đình
+bạn
+bạn bè
+người yêu
+hàng xóm
+đồng nghiệp
+sếp
+nhân viên
+sinh viên
+học sinh
+giáo viên
+bác sĩ
+y tá
+kỹ sư
+công nhân
+nông dân
+đầu bếp
+tài xế
+cảnh sát
+luật sư
+kế toán
+thư ký
+ca sĩ
+diễn viên
+nhà văn
+nhà báo
+đầu
+tóc
+mặt
+mắt
+mũi
+miệng
+tai
+răng
+lưỡi
+cổ
+vai
+tay
+chân
+bụng
+lưng
+ngực
+tim
+máu
+da
+xương
+cơm
+phở
+bánh mì
+bún
+cháo
+thịt
+cá
+trứng
+rau
+quả
+trái cây
+nước
+cà phê
+trà
+bia
+sữa
+đường
+muối
+tiêu
+nước mắm
+dầu
+tỏi
+hành
+ớt
+chanh
+chuối
+táo
+cam
+xoài
+dưa hấu
+thịt gà
+thịt bò
+thịt heo
+hải sản
+tôm
+cua
+mực
+bánh
+kẹo
+kem
+màu đỏ
+màu xanh
+màu vàng
+màu trắng
+màu đen
+màu nâu
+màu tím
+màu hồng
+màu cam
+màu xám
+chó
+mèo
+gà
+vịt
+chim
+heo
+bò
+trâu
+ngựa
+dê
+thỏ
+chuột
+rắn
+hổ
+voi
+khỉ
+cá voi
+côn trùng
+ong
+kiến
+nhà
+phòng
+cửa
+cửa sổ
+bàn
+ghế
+giường
+tủ
+bếp
+nhà tắm
+phòng ngủ
+phòng khách
+sân
+vườn
+tường
+mái nhà
+cầu thang
+đèn
+quạt
+điều hòa
+tivi
+máy tính
+điện thoại
+tủ lạnh
+máy giặt
+xe
+xe đạp
+xe máy
+ô tô
+tàu
+thuyền
+máy bay
+đường
+phố
+cầu
+sân bay
+ga
+khách sạn
+nhà hàng
+chợ
+siêu thị
+bệnh viện
+trường học
+công ty
+ngân hàng
+bưu điện
+công viên
+thư viện
+nhà ga
+trạm xe buýt
+hôm nay
+ngày mai
+hôm qua
+tuần
+tháng
+năm
+giờ
+phút
+giây
+buổi sáng
+buổi trưa
+buổi chiều
+buổi tối
+ban đêm
+cuối tuần
+ngày lễ
+sinh nhật
+mùa xuân
+mùa hạ
+mùa thu
+mùa đông
+trời
+mưa
+nắng
+gió
+mây
+bão
+tuyết
+sấm
+chớp
+nóng
+lạnh
+ấm
+mát
+sông
+biển
+núi
+cây
+hoa
+lá
+đất
+lửa
+không khí
+ánh sáng
+bóng tối
+ăn
+uống
+ngủ
+thức dậy
+đi
+đến
+về
+chạy
+đứng
+ngồi
+nằm
+nói
+nghe
+nhìn
+thấy
+biết
+hiểu
+học
+dạy
+làm
+mua
+bán
+trả tiền
+mở
+đóng
+cầm
+lấy
+cho
+gửi
+nhận
+tìm
+gặp
+yêu
+thích
+muốn
+cần
+nhớ
+quên
+cười
+khóc
+hát
+đọc
+viết
+vẽ
+chơi
+xem
+giúp
+thử
+chọn
+mặc
+cởi
+giặt
+nấu
+rửa
+lái xe
+đợi
+bắt đầu
+kết thúc
+làm việc
+nghỉ ngơi
+đi du lịch
+chụp ảnh
+nghe nhạc
+xem phim
+đọc sách
+tập thể dục
+đẹp
+xấu
+tốt
+vui
+buồn
+mệt
+khỏe
+nhanh
+chậm
+to
+nhỏ
+cao
+thấp
+dài
+ngắn
+rộng
+hẹp
+nặng
+nhẹ
+mới
+cũ
+đắt
+rẻ
+ngon
+dở
+sạch
+bẩn
+khó
+dễ
+quan trọng
+thông minh
+ngốc
+giàu
+nghèo
+hạnh phúc
+lo lắng
+sợ hãi
+tức giận
+thú vị
+buồn chán
+may mắn
+an toàn
+nguy hiểm
+khỏe mạnh
+ốm
+đau
+sốt
+ho
+cảm
+dị ứng
+thuốc
+bác sĩ gia đình
+nhà thuốc

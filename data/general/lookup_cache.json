@@ -1,0 +1,8217 @@
+{
+  "như": {
+    "ok": true,
+    "ipa": "ɲɨ˧˧",
+    "pos": "Liên từ",
+    "zh": [],
+    "en": "like; as; comparable to; as though; as if",
+    "example": "mang theo một số hành lí như quần áo, chăn màn, sách vở"
+  },
+  "với": {
+    "ok": true,
+    "ipa": "vəːj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to reach (out for something)",
+    "example": "\"Vắn tay với chẳng tới kèo, Cha mẹ anh nghèo chẳng với được em.\" (Cdao)"
+  },
+  "mình": {
+    "ok": true,
+    "ipa": "mïŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a torso",
+    "example": "thỉnh thoảng cậu lại đến nhà mình chơi nhé!"
+  },
+  "tôi": {
+    "ok": true,
+    "ipa": "toj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "我",
+      "ngã",
+      "俺"
+    ],
+    "en": "slave; domestic servant",
+    "example": "họ đang tôi gang thép"
+  },
+  "trên": {
+    "ok": true,
+    "ipa": "t͡ɕen˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "upper",
+    "example": "Đi lên trên bờ đê."
+  },
+  "cho": {
+    "ok": true,
+    "ipa": "t͡ɕɔ˧˧",
+    "pos": "Động từ",
+    "zh": [
+      "给",
+      "让"
+    ],
+    "en": "to give",
+    "example": "mẹ cho tôi tiền"
+  },
+  "ông": {
+    "ok": true,
+    "ipa": "ʔəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "祖父",
+      "祖考"
+    ],
+    "en": "grandfather",
+    "example": "mày sẽ biết tay ông!"
+  },
+  "mà": {
+    "ok": true,
+    "ipa": "maː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "but; however; nevertheless",
+    "example": "người mà tôi sắp kể là một nhà văn nổi tiếng"
+  },
+  "họ": {
+    "ok": true,
+    "ipa": "hɔ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "family name; surname",
+    "example": "họ ba ba thuộc bộ rùa"
+  },
+  "được": {
+    "ok": true,
+    "ipa": "ʔɗɨək̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to gain, to win",
+    "example": "thóc đã được nắng"
+  },
+  "một": {
+    "ok": true,
+    "ipa": "mot̚˧˨ʔ",
+    "pos": "Lượng từ",
+    "zh": [
+      "一"
+    ],
+    "en": "one",
+    "example": "một, chạp, giêng, hai"
+  },
+  "có": {
+    "ok": true,
+    "ipa": "kɔ˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to have, to possess",
+    "example": "xác định số liệu bên có"
+  },
+  "này": {
+    "ok": true,
+    "ipa": "naj˨˩",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "this",
+    "example": "Này là em ruột, này là em dâu (Truyện Kiều)"
+  },
+  "tại": {
+    "ok": true,
+    "ipa": "taːj˧˨ʔ",
+    "pos": "Giới từ",
+    "zh": [
+      "在"
+    ],
+    "en": "to be located at; to be located in; to be located on",
+    "example": "Sinh tại Hà Nội."
+  },
+  "bởi": {
+    "ok": true,
+    "ipa": "ʔɓəːj˧˩",
+    "pos": "Liên từ",
+    "zh": [],
+    "en": "from",
+    "example": "\"Trăng lu vì bởi áng mây, Đôi ta cách trở vì dây tơ hồng.\" (Cdao)"
+  },
+  "từ": {
+    "ok": true,
+    "ipa": "tɨ˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "从",
+      "词"
+    ],
+    "en": "from, since",
+    "example": "từ giữ đền"
+  },
+  "nhưng": {
+    "ok": true,
+    "ipa": "ɲɨŋ˧˧",
+    "pos": "Liên từ",
+    "zh": [],
+    "en": "but; yet",
+    "example": "Bé nhưng can đảm."
+  },
+  "nóng": {
+    "ok": true,
+    "ipa": "nawŋ͡m˧˦",
+    "pos": "Tính từ",
+    "zh": [
+      "温暖",
+      "热"
+    ],
+    "en": "hot (temperature)",
+    "example": "tông màu nóng"
+  },
+  "những gì": {
+    "ok": false,
+    "reason": "404"
+  },
+  "một số": {
+    "ok": true,
+    "ipa": "mot̚˧˨ʔ so˧˦",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "a number of; some; several; certain",
+    "example": "thu thập một số chứng cứ."
+  },
+  "nó": {
+    "ok": true,
+    "ipa": "nɔ˧˦",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "he; him; she; her",
+    "example": "Thằng cháu nó ngoan, dễ bảo."
+  },
+  "hoặc": {
+    "ok": true,
+    "ipa": "hwak̚˧˨ʔ",
+    "pos": "Liên từ",
+    "zh": [],
+    "en": "or",
+    "example": "Những ý kiến sai lầm hoặc thiên lệch"
+  },
+  "các": {
+    "ok": true,
+    "ipa": "kaːk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "所"
+    ],
+    "en": "Plural marker",
+    "example": "Trao các cho đối tác sau khi gặp mặt."
+  },
+  "anh": {
+    "ok": true,
+    "ipa": "ʔajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "elder brother",
+    "example": "\"Chồng gì anh, vợ gì tôi, Chẳng qua là cái nợ đời chi đây!\" (Cdao)"
+  },
+  "của": {
+    "ok": true,
+    "ipa": "kuə˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "的"
+    ],
+    "en": "property; belongings",
+    "example": "Người làm ra của, của không làm ra người. (tục ngữ)"
+  },
+  "để": {
+    "ok": true,
+    "ipa": "ʔɗe˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to place; to set",
+    "example": "vết thương để lại sẹo"
+  },
+  "và": {
+    "ok": true,
+    "ipa": "vaː˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "and",
+    "example": "cô bé ấy hát rất hay, và xinh nữa"
+  },
+  "trong": {
+    "ok": true,
+    "ipa": "t͡ɕawŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "内"
+    ],
+    "en": "clear and thus presumably clean",
+    "example": "Người trong nhà."
+  },
+  "chúng tôi": {
+    "ok": true,
+    "ipa": "t͡ɕʊwŋ͡m˧˦ toj˧˧",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "we/us (exclusive); compare chúng ta (inclusive, including the listener)",
+    "example": "chúng tôi xin chân thành cảm ơn bạn đọc"
+  },
+  "có thể": {
+    "ok": true,
+    "ipa": "kɔ˧˦ tʰe˧˩",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "possibly",
+    "example": "Tự mình tham gia sản xuất trong phạm vi có thể (Trường Chinh)"
+  },
+  "của họ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ra": {
+    "ok": true,
+    "ipa": "zaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to go out, to leave",
+    "example": "nấu ăn chẳng ra gì"
+  },
+  "khác": {
+    "ok": true,
+    "ipa": "xaːk̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "different, other",
+    "example": "Hai chiếc áo khác màu."
+  },
+  "làm": {
+    "ok": true,
+    "ipa": "laːm˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to do",
+    "example": "Làm nhà."
+  },
+  "thời gian": {
+    "ok": true,
+    "ipa": "tʰəːj˨˩ zaːn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "time (the inevitable passing of events from past to present then future)",
+    "example": "thời gian và không gian đều là vô tận"
+  },
+  "sẽ": {
+    "ok": true,
+    "ipa": "sɛ˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "marks the future tense",
+    "example": "Mai sẽ bàn tiếp."
+  },
+  "nếu": {
+    "ok": true,
+    "ipa": "new˧˦",
+    "pos": "Liên từ",
+    "zh": [
+      "如果"
+    ],
+    "en": "if (supposing that)",
+    "example": "nếu việc này bị đổ bể thì tất việc kia cũng không thành"
+  },
+  "như thế nào": {
+    "ok": false,
+    "reason": "404"
+  },
+  "môi": {
+    "ok": true,
+    "ipa": "moj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "吻"
+    ],
+    "en": "lip",
+    "example": "lành làm gáo vỡ làm môi (tng)"
+  },
+  "không": {
+    "ok": true,
+    "ipa": "xəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "不",
+      "bất"
+    ],
+    "en": "Negates the meaning of the modified verb or adjective: not",
+    "example": "quan niệm sắc sắc, không không của đạo Phật"
+  },
+  "nói": {
+    "ok": true,
+    "ipa": "nɔj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to speak, to talk, to say, to tell",
+    "example": ""
+  },
+  "bộ": {
+    "ok": true,
+    "ipa": "ʔɓo˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "部首",
+      "bộ thủ"
+    ],
+    "en": "a collection of multiple copies",
+    "example": "bộ nó thì làm ăn gì!"
+  },
+  "ba": {
+    "ok": true,
+    "ipa": "ʔɓaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "father",
+    "example": "thưa ba con đi học!"
+  },
+  "muốn": {
+    "ok": true,
+    "ipa": "muən˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to want",
+    "example": "muốn được điểm cao"
+  },
+  "không khí": {
+    "ok": true,
+    "ipa": "xəwŋ͡m˧˧ xi˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "air (mixture of gases making up the atmosphere of the Earth)",
+    "example": "không khí cuộc họp hết sức căng thẳng"
+  },
+  "cũng": {
+    "ok": true,
+    "ipa": "kʊwŋ͡m˦ˀ˥",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "also; too",
+    "example": "nó cũng nghĩ như anh"
+  },
+  "cuối": {
+    "ok": true,
+    "ipa": "kuəj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "end, terminal part",
+    "example": "cuối tuần"
+  },
+  "đọc": {
+    "ok": true,
+    "ipa": "ʔɗawk͡p̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to read, to pronounce",
+    "example": "các kĩ sư đang đọc bản thiết kế"
+  },
+  "đặt": {
+    "ok": true,
+    "ipa": "ʔɗat̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to place; to put; to lay",
+    "example": "hai nước đã đặt quan hệ ngoại giao"
+  },
+  "chơi": {
+    "ok": true,
+    "ipa": "t͡ɕəːj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to play (an instrument, a sport, etc.)",
+    "example": "hai đứa chơi với nhau từ nhỏ"
+  },
+  "tay": {
+    "ok": true,
+    "ipa": "taj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "手",
+      "thủ"
+    ],
+    "en": "hand",
+    "example": "Cánh tay."
+  },
+  "lớn": {
+    "ok": true,
+    "ipa": "ləːn˧˦",
+    "pos": "Tính từ",
+    "zh": [
+      "大",
+      "巨"
+    ],
+    "en": "big; large",
+    "example": "Cây này lớn nhanh quá!"
+  },
+  "chính tả": {
+    "ok": true,
+    "ipa": "t͡ɕïŋ˧˦ taː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "orthography",
+    "example": "Viết sai chính tả."
+  },
+  "cổng": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "gate (door-like structure outside; doorway, opening, or passage in a fence or wall)",
+    "example": "thay cổng máy in"
+  },
+  "đất": {
+    "ok": true,
+    "ipa": "ʔɗət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "earth; soil; dirt",
+    "example": "người bẩn, kì ra đầy đất"
+  },
+  "thêm": {
+    "ok": true,
+    "ipa": "tʰem˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "additional",
+    "example": "tôi thêm một chút muối"
+  },
+  "thậm chí": {
+    "ok": true,
+    "ipa": "tʰəm˧˨ʔ t͡ɕi˧˦",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "even",
+    "example": "đã không giúp được gì, thậm chí còn phá"
+  },
+  "ở đây": {
+    "ok": false,
+    "reason": "404"
+  },
+  "phải": {
+    "ok": true,
+    "ipa": "faːj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "right (side, direction) (in bên phải)",
+    "example": "mặt phải của tấm vải"
+  },
+  "cao": {
+    "ok": true,
+    "ipa": "kaːw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "high or tall",
+    "example": "nhận cày mấy chục cao ruộng"
+  },
+  "như vậy": {
+    "ok": true,
+    "ipa": "ɲɨ˧˧ vəj˧˨ʔ",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "such, like that",
+    "example": "Anh làm như vậy là sai."
+  },
+  "xin": {
+    "ok": true,
+    "ipa": "sin˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to ask for; to beg for; to request",
+    "example": "nó xin mẹ cho đi chơi"
+  },
+  "theo": {
+    "ok": true,
+    "ipa": "tʰɛw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to follow",
+    "example": "Lẽo đẽo theo sau."
+  },
+  "hành động": {
+    "ok": true,
+    "ipa": "hajŋ̟˨˩ ʔɗəwŋ͡m˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to act",
+    "example": "Có hành động quả cảm."
+  },
+  "người đàn ông": {
+    "ok": false,
+    "reason": "404"
+  },
+  "thay đổi": {
+    "ok": true,
+    "ipa": "tʰaj˧˧ ʔɗoj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to change, to alter, to modify",
+    "example": "Thay đổi chương trình."
+  },
+  "lý do tại sao": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ánh sáng": {
+    "ok": true,
+    "ipa": "ʔajŋ̟˧˦ saːŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "light",
+    "example": "Ánh sáng mặt trời."
+  },
+  "tắt": {
+    "ok": true,
+    "ipa": "tat̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "(of fire) to be out; to put out; (of light source) to stop glowing",
+    "example": "Lửa tắt."
+  },
+  "cần": {
+    "ok": true,
+    "ipa": "kən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to need",
+    "example": "\"Có con mà gả chồng gần, Có bát canh cần nó cũng đem cho.\" (Cdao)"
+  },
+  "loại": {
+    "ok": true,
+    "ipa": "lwaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "species, kind, type, category, sort",
+    "example": "Loại vải tốt."
+  },
+  "hình ảnh": {
+    "ok": true,
+    "ipa": "hïŋ˨˩ ʔajŋ̟˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "form and shadow",
+    "example": "Hình ảnh người mẹ ở quê hương."
+  },
+  "thử": {
+    "ok": true,
+    "ipa": "tʰɨ˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to try doing something and see if it works",
+    "example": "Thử vặn xem có được không."
+  },
+  "đi": {
+    "ok": true,
+    "ipa": "ʔɗi˧˧",
+    "pos": "Động từ",
+    "zh": [
+      "到",
+      "đáo"
+    ],
+    "en": "to go",
+    "example": "ông cụ đã đi rồi"
+  },
+  "động vật": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˧˨ʔ vət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "动物"
+    ],
+    "en": "an animal",
+    "example": "Người là động vật bậc cao nhất."
+  },
+  "một lần nữa": {
+    "ok": false,
+    "reason": "404"
+  },
+  "điểm": {
+    "ok": true,
+    "ipa": "ʔɗiəm˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "metric for evaluation; point, mark, grade, score, etc.",
+    "example": "qua hai điểm chỉ có thể kẻ được một đường thẳng và chỉ một mà thôi"
+  },
+  "mẹ": {
+    "ok": true,
+    "ipa": "mɛ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "mother",
+    "example": "Nhớ mẹ."
+  },
+  "thế giới": {
+    "ok": true,
+    "ipa": "tʰe˧˦ zəːj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "world",
+    "example": "thế giới tư bản"
+  },
+  "tự": {
+    "ok": true,
+    "ipa": "tɨ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a Chinese character",
+    "example": "ông tự"
+  },
+  "gần": {
+    "ok": true,
+    "ipa": "ɣən˨˩",
+    "pos": "Tính từ",
+    "zh": [
+      "近"
+    ],
+    "en": "near; nearby; close (to)",
+    "example": "hai người có họ gần với nhau"
+  },
+  "xây dựng": {
+    "ok": true,
+    "ipa": "səj˧˧ zɨŋ˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to build, to construct",
+    "example": "họ đang xây dựng toà nhà"
+  },
+  "cha": {
+    "ok": true,
+    "ipa": "t͡ɕaː˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "父親",
+      "爸爸"
+    ],
+    "en": "father",
+    "example": "nghe cha giảng đạo"
+  },
+  "bất kỳ": {
+    "ok": true,
+    "ipa": "ʔɓət̚˧˦ ki˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "alternative spelling of bất kì",
+    "example": "kẻ một đường thẳng bất kỳ"
+  },
+  "công việc": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ viək̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "work (labour, employment, occupation, job)",
+    "example": "công việc nặng nhọc/vất vả"
+  },
+  "mới": {
+    "ok": true,
+    "ipa": "məːj˧˦",
+    "pos": "Tính từ",
+    "zh": [
+      "新",
+      "tân"
+    ],
+    "en": "new (recently made or created)",
+    "example": "thằng mới"
+  },
+  "nơi": {
+    "ok": true,
+    "ipa": "nəːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "place",
+    "example": "Nơi đây đã xảy ra những trận ác chiến."
+  },
+  "một phần": {
+    "ok": false,
+    "reason": "404"
+  },
+  "thực hiện": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˨ʔ hiən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to realize; to carry out; to bring about; to implement",
+    "example": "anh ấy đã thực hiện lời hứa với tôi"
+  },
+  "trở lại": {
+    "ok": true,
+    "ipa": "t͡ɕəː˧˩ laːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to return, to come back, to go back",
+    "example": "Trở lại nơi cũ"
+  },
+  "sau khi": {
+    "ok": true,
+    "ipa": "saw˧˧ xi˧˧",
+    "pos": "Giới từ",
+    "zh": [],
+    "en": "after",
+    "example": "Sau khi nghe xong câu chuyện, mặt nó buồn rười rượi."
+  },
+  "chỉ": {
+    "ok": true,
+    "ipa": "t͡ɕi˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "thread",
+    "example": "chiếc nhẫn vàng hai chỉ"
+  },
+  "chung quanh": {
+    "ok": true,
+    "ipa": "t͡ɕʊwŋ͡m˧˧ kwajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "synonym of xung quanh (“around; surrounding”)",
+    "example": "bạn bè chung quanh"
+  },
+  "ít": {
+    "ok": true,
+    "ipa": "ʔit̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "few, little",
+    "example": "Ít người đến dự."
+  },
+  "năm": {
+    "ok": true,
+    "ipa": "nam˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "five",
+    "example": "Một năm có bốn mùa: xuân, hạ, thu, đông với những nét đặc trưng riêng biệt."
+  },
+  "đến": {
+    "ok": true,
+    "ipa": "ʔɗen˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to arrive, to come",
+    "example": "Đến nhà vừa thấy tin nhà."
+  },
+  "chương trình": {
+    "ok": true,
+    "ipa": "t͡ɕɨəŋ˧˧ t͡ɕïŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a program",
+    "example": "chương trình toán lớp 10"
+  },
+  "tốt": {
+    "ok": true,
+    "ipa": "tot̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "good, as in high-quality, well-made, well executed, good-natured or ethical; compare hay (“good as in inventive, brilliant or entertaining”) and giỏi (“good as in skilled or competent”)",
+    "example": "văn hay chữ tốt"
+  },
+  "của chúng tôi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "cung cấp cho": {
+    "ok": false,
+    "reason": "404"
+  },
+  "dưới": {
+    "ok": true,
+    "ipa": "zɨəj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "Lower in space: under, below, down",
+    "example": "Đi xuống dưới thung lũng."
+  },
+  "mỗi": {
+    "ok": true,
+    "ipa": "moj˦ˀ˥",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "each; every",
+    "example": "Mỗi bàn bốn người."
+  },
+  "thông qua": {
+    "ok": true,
+    "ipa": "tʰəwŋ͡m˧˧ kwaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to pass; to let through; to approve",
+    "example": "ủng hộ đồng bào bị lũ lụt thông qua quỹ ''tấm lòng vàng''"
+  },
+  "câu": {
+    "ok": true,
+    "ipa": "kəw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "short for bồ câu (“dove”)",
+    "example": "bài thơ có tám câu, mỗi câu bảy chữ"
+  },
+  "hình thức": {
+    "ok": true,
+    "ipa": "hïŋ˨˩ tʰɨk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "model, form",
+    "example": "Hình thức của cuốn sách rất đẹp."
+  },
+  "tuyệt vời": {
+    "ok": true,
+    "ipa": "twiət̚˧˨ʔ vəːj˨˩",
+    "pos": "Tính từ",
+    "zh": [
+      "太棒"
+    ],
+    "en": "wonderful; splendid",
+    "example": "Anh dũng tuyệt vời."
+  },
+  "nghi": {
+    "ok": true,
+    "ipa": "ŋi˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to doubt, to suspect",
+    "example": "chị nghi hắn là kẻ phản bội"
+  },
+  "giúp": {
+    "ok": true,
+    "ipa": "zup̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to help; to aid",
+    "example": "lời nói của ông đã giúp anh ấy tỉnh ngộ"
+  },
+  "thấp": {
+    "ok": true,
+    "ipa": "tʰəp̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "short in terms of height",
+    "example": "mắc bệnh thấp"
+  },
+  "dòng": {
+    "ok": true,
+    "ipa": "zawŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "current, stream",
+    "example": "dòng văn học lãng mạn"
+  },
+  "khác nhau": {
+    "ok": true,
+    "ipa": "xaːk̚˧˦ ɲaw˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "different",
+    "example": ""
+  },
+  "lần lượt": {
+    "ok": true,
+    "ipa": "lən˨˩ lɨət̚˧˨ʔ",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "in turn, by roster",
+    "example": "Xếp hàng lần lượt."
+  },
+  "nguyên nhân": {
+    "ok": true,
+    "ipa": "ŋwiən˧˧ ɲən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cause, reason",
+    "example": "Tìm hiểu nguyên nhân."
+  },
+  "nhiều": {
+    "ok": true,
+    "ipa": "ɲiəw˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "many, much; a lot",
+    "example": ""
+  },
+  "di chuyển": {
+    "ok": true,
+    "ipa": "zi˧˧ t͡ɕwiən˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to transfer, to move",
+    "example": "Di chuyển đến chỗ ở mới."
+  },
+  "trước": {
+    "ok": true,
+    "ipa": "t͡ɕɨək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "before (earlier than in time)",
+    "example": "Em trước."
+  },
+  "có nghĩa là": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ngay": {
+    "ok": true,
+    "ipa": "ŋaj˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "direct; straight",
+    "example": "nó đối xử tệ ngay với cả mẹ nó"
+  },
+  "cậu bé": {
+    "ok": true,
+    "ipa": "kəw˧˨ʔ ʔɓɛ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "young boy; little brat",
+    "example": ""
+  },
+  "cũ": {
+    "ok": true,
+    "ipa": "ku˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "old, but not ancient; compare cổ (“ancient”) and già (of a lifeform)",
+    "example": "Bộ quần áo cũ."
+  },
+  "như nhau": {
+    "ok": true,
+    "ipa": "ɲɨ˧˧ ɲaw˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "resembling; similar to",
+    "example": ""
+  },
+  "quá": {
+    "ok": true,
+    "ipa": "kwaː˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "very, excessively",
+    "example": "To quá."
+  },
+  "cô": {
+    "ok": true,
+    "ipa": "ko˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a paternal aunt (father's sister)",
+    "example": "cô trông cháu giúp anh một tí nhé!"
+  },
+  "khi": {
+    "ok": true,
+    "ipa": "xi˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "when",
+    "example": "Chữ cái khi trông rất giống con chữ X trong bảng chữ cái Latinh của chúng ta."
+  },
+  "tất cả": {
+    "ok": true,
+    "ipa": "tət̚˧˦ kaː˧˩",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "all, everything, everybody",
+    "example": "Mua tất cả."
+  },
+  "của bạn": {
+    "ok": false,
+    "reason": "404"
+  },
+  "lên": {
+    "ok": true,
+    "ipa": "len˧˧",
+    "pos": "Động từ",
+    "zh": [
+      "丄",
+      "上"
+    ],
+    "en": "to go up, come up, rise",
+    "example": "bé đã lên hai"
+  },
+  "sử dụng": {
+    "ok": true,
+    "ipa": "sɨ˧˩ zʊwŋ͡m˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to utilize; to employ",
+    "example": "Sử dụng tài liệu để viết sách."
+  },
+  "cách": {
+    "ok": true,
+    "ipa": "kajk̟̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "way, manner, fashion",
+    "example": "tiếng Nga có sáu cách"
+  },
+  "về": {
+    "ok": true,
+    "ipa": "ve˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to come back or go back (to somewhere one belongs or to some place that is one's own)",
+    "example": "ông cụ đã về rồi"
+  },
+  "sau đó": {
+    "ok": true,
+    "ipa": "saw˧˧ ʔɗɔ˧˦",
+    "pos": "Từ phụ trợ / khác",
+    "zh": [],
+    "en": "later (on); afterwards; thereafter; after that; since that time; since that moment",
+    "example": "Sau đó cảnh sát đã tìm thấy chiếc xe hơi của bà ta."
+  },
+  "viết": {
+    "ok": true,
+    "ipa": "viət̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to write",
+    "example": "bé vừa viết 10 chữ a"
+  },
+  "hai": {
+    "ok": true,
+    "ipa": "haːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "two",
+    "example": "hai người"
+  },
+  "hơn": {
+    "ok": true,
+    "ipa": "həːn˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "more, -er, to a greater degree or extent",
+    "example": "giành lấy phần hơn về mình"
+  },
+  "xem": {
+    "ok": true,
+    "ipa": "sɛm˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to see; to look at; to watch; to read",
+    "example": "Xem chợ."
+  },
+  "thấy": {
+    "ok": true,
+    "ipa": "tʰəj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to succeed in gathering information through the senses",
+    "example": "anh ấy đã thấy cái sai của mình"
+  },
+  "điều": {
+    "ok": true,
+    "ipa": "ʔɗiəw˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "something to say or tell",
+    "example": "Quả điều có hạt nằm bên ngoài trông rất đặc biệt."
+  },
+  "ngày": {
+    "ok": true,
+    "ipa": "ŋaj˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "天",
+      "号"
+    ],
+    "en": "day (period of 24 hours; period from midnight to the following midnight; rotational period of a planet; part of a day period which one spends at one's job, school, etc.)",
+    "example": "một năm dương lịch có 365 ngày"
+  },
+  "đã làm": {
+    "ok": false,
+    "reason": "404"
+  },
+  "số": {
+    "ok": true,
+    "ipa": "so˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "number",
+    "example": "chia động từ ở ngôi thứ ba, số ít"
+  },
+  "âm thanh": {
+    "ok": true,
+    "ipa": "ʔəm˧˧ tʰajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sound",
+    "example": ""
+  },
+  "không có": {
+    "ok": true,
+    "ipa": "xəwŋ˧˧ kɔ˧˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "",
+    "example": "Tôi không có giữ trái banh."
+  },
+  "nhân dân": {
+    "ok": true,
+    "ipa": "ɲən˧˧ zən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "people, population",
+    "example": "Bất kì việc gì cũng vì lợi ích của nhân dân mà làm (Hồ Chí Minh)"
+  },
+  "nhất": {
+    "ok": true,
+    "ipa": "ɲət̚˧˦",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "first",
+    "example": "Dốt đến chữ nhất là một cũng không biết."
+  },
+  "của tôi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "biết": {
+    "ok": true,
+    "ipa": "ʔɓiət̚˧˦",
+    "pos": "Động từ",
+    "zh": [
+      "知"
+    ],
+    "en": "to know; to be aware of",
+    "example": "tôi biết ông ta"
+  },
+  "gọi": {
+    "ok": true,
+    "ipa": "ɣɔj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to call or hail",
+    "example": "xã gọi anh đi nhập ngũ"
+  },
+  "đầu tiên": {
+    "ok": true,
+    "ipa": "ʔɗəw˨˩ tiən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "first",
+    "example": ""
+  },
+  "bên": {
+    "ok": true,
+    "ipa": "ʔɓen˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "side (one half of something or someone)",
+    "example": "bên tình bên hiếu"
+  },
+  "tìm": {
+    "ok": true,
+    "ipa": "tim˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to search, to seek, to look for",
+    "example": "Tìm trẻ lạc."
+  },
+  "xuống": {
+    "ok": true,
+    "ipa": "suəŋ˧˦",
+    "pos": "Động từ",
+    "zh": [
+      "下",
+      "丅"
+    ],
+    "en": "to go downwards; to descend",
+    "example": "Xuống núi."
+  },
+  "đứng": {
+    "ok": true,
+    "ipa": "ʔɗɨŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to stand",
+    "example": "Ông là người đứng đầu trong các bậc hiền triết."
+  },
+  "bây giờ": {
+    "ok": true,
+    "ipa": "ʔɓəj˧˧ zəː˨˩",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "now",
+    "example": "Bây giờ là tám giờ."
+  },
+  "riêng": {
+    "ok": true,
+    "ipa": "ziəŋ˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "private; personal",
+    "example": "Phòng riêng."
+  },
+  "đầu": {
+    "ok": true,
+    "ipa": "ʔɗəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "head",
+    "example": "Vấn đề đau đầu."
+  },
+  "nên": {
+    "ok": true,
+    "ipa": "nen˧˧",
+    "pos": "Động từ",
+    "zh": [
+      "必须",
+      "tất",
+      "tu"
+    ],
+    "en": "to develop into; to change into",
+    "example": "Nên dậy sớm mà tập thể dục."
+  },
+  "trang": {
+    "ok": true,
+    "ipa": "t͡ɕaːŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "page",
+    "example": "bông trang"
+  },
+  "câu trả lời": {
+    "ok": false,
+    "reason": "404"
+  },
+  "tìm thấy": {
+    "ok": true,
+    "ipa": "tim˨˩ tʰəj˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "to find; to discover",
+    "example": ""
+  },
+  "phát triển": {
+    "ok": true,
+    "ipa": "faːt̚˧˦ t͡ɕiən˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to develop, to expand",
+    "example": "Phát triển sản xuất nông nghiệp."
+  },
+  "nghiên cứu": {
+    "ok": true,
+    "ipa": "ŋiən˧˧ kiw˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to research; to study intensively",
+    "example": "Nghiên cứu tình hình."
+  },
+  "vẫn": {
+    "ok": true,
+    "ipa": "vən˦ˀ˥",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "still; yet",
+    "example": "Đã bảo thôi, nó vẫn cứ làm."
+  },
+  "trường": {
+    "ok": true,
+    "ipa": "t͡ɕɨəŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "school (an institution dedicated to teaching and learning)",
+    "example": "Trong bảng tính này, mỗi cột được coi là một trường dữ liệu riêng biệt."
+  },
+  "học": {
+    "ok": true,
+    "ipa": "hawk͡p̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to study; to learn",
+    "example": "Ngôn ngữ học là ngành nghiên cứu có hệ thống về cấu trúc và sự phát triển của ngôn ngữ."
+  },
+  "nhà máy": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ maj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "factory, plant",
+    "example": "Nhà máy cơ khí."
+  },
+  "thực phẩm": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˨ʔ fəm˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "食品"
+    ],
+    "en": "foodstuff",
+    "example": ""
+  },
+  "ánh nắng mặt trời": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bốn": {
+    "ok": true,
+    "ipa": "ʔɓon˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "four",
+    "example": "Một năm có bốn mùa."
+  },
+  "bìa": {
+    "ok": true,
+    "ipa": "ʔɓiə˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "book cover",
+    "example": "mua ba bìa đậu"
+  },
+  "giữa": {
+    "ok": true,
+    "ipa": "zɨə˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "in the middle; in the center; amidst; between; among",
+    "example": "ngồi giữa hai người bạn"
+  },
+  "giữ": {
+    "ok": true,
+    "ipa": "zɨ˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to keep; to hold and maintain as one's own",
+    "example": "Say quá, không giữ nổi chén rượu."
+  },
+  "nhà nước": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ nɨək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "state (a political entity that regulates society and the population within a territory)",
+    "example": "Nhà nước Việt Nam."
+  },
+  "mắt": {
+    "ok": true,
+    "ipa": "mat̚˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "眼"
+    ],
+    "en": "eye",
+    "example": "xích xe đạp quá chùng nên phải chặt bỏ bớt hai mắt"
+  },
+  "không bao giờ": {
+    "ok": true,
+    "ipa": "xəwŋ͡m˧˧ ʔɓaːw˧˧ zəː˨˩",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "never",
+    "example": "Tôi không bao giờ giết người."
+  },
+  "cuối cùng": {
+    "ok": true,
+    "ipa": "kuəj˧˦ kʊwŋ͡m˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "final; last; ultimate",
+    "example": "Những ngày cuối cùng của đời sinh viên."
+  },
+  "nghĩ": {
+    "ok": true,
+    "ipa": "ŋi˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [
+      "想"
+    ],
+    "en": "to think, to contemplate",
+    "example": "nghĩ cách đối phó"
+  },
+  "cây": {
+    "ok": true,
+    "ipa": "kəj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "plant with a hard trunk or stem, such as a woody tree or bamboo, as opposed to cỏ (“(soft-stemmed) grass”)",
+    "example": "còn chừng ba cây nữa là đến nơi"
+  },
+  "cho phép": {
+    "ok": true,
+    "ipa": "t͡ɕɔ˧˧ fɛp̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to allow; to permit",
+    "example": "Cho phép khai thác mỏ."
+  },
+  "qua": {
+    "ok": true,
+    "ipa": "kwaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "through, across (from one side to the other)",
+    "example": "Qua đã nói với bậu, nhưng bậu chẳng nghe."
+  },
+  "thành phố": {
+    "ok": true,
+    "ipa": "tʰajŋ̟˨˩ fo˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a city",
+    "example": "Thành phố về đêm tràn ngập ánh đèn lung linh."
+  },
+  "bắt đầu": {
+    "ok": true,
+    "ipa": "ʔɓat̚˧˦ ʔɗəw˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to begin; to start",
+    "example": "bắt đầu từ nay"
+  },
+  "cứng": {
+    "ok": true,
+    "ipa": "kɨŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "hard; firm; rigid",
+    "example": "chịu cứng, không cãi vào đâu được"
+  },
+  "câu chuyện": {
+    "ok": true,
+    "ipa": "kəw˧˧ t͡ɕwiən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a story; tale",
+    "example": "Câu chuyện thương tâm."
+  },
+  "trang trại": {
+    "ok": true,
+    "ipa": "t͡ɕaːŋ˧˧ t͡ɕaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "farm",
+    "example": ""
+  },
+  "cưa": {
+    "ok": true,
+    "ipa": "kɨə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a saw (tool)",
+    "example": "Bác thợ mộc hối hả dùng chiếc cưa dể xẻ những tấm gỗ lớn thành các vật dụng gia bỉ."
+  },
+  "đến nay": {
+    "ok": false,
+    "reason": "404"
+  },
+  "biển": {
+    "ok": true,
+    "ipa": "ʔɓiən˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sea; ocean",
+    "example": "Nước biển."
+  },
+  "còn lại": {
+    "ok": true,
+    "ipa": "kɔn˨˩ laːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the part remaining after a portion has been removed; the remainder",
+    "example": ""
+  },
+  "vẽ": {
+    "ok": true,
+    "ipa": "vɛ˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to draw; to paint",
+    "example": "vẽ đường chỉ lối cho tôi"
+  },
+  "trong khi": {
+    "ok": true,
+    "ipa": "t͡ɕawŋ͡m˧˧ xi˧˧",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "while",
+    "example": "Trong khi ăn, không nói chuyện."
+  },
+  "báo chí": {
+    "ok": true,
+    "ipa": "ʔɓaːw˧˦ t͡ɕi˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the press",
+    "example": "Công tác báo chí."
+  },
+  "chạy": {
+    "ok": true,
+    "ipa": "t͡ɕaj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to run (to move quickly)",
+    "example": "cậu bé đang chạy"
+  },
+  "thực": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "true, real",
+    "example": "cảnh vật nửa thực nửa hư"
+  },
+  "phía bắc": {
+    "ok": true,
+    "ipa": "fiə˧˥ ɓak˧˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "cuộc sống": {
+    "ok": true,
+    "ipa": "kuək̚˧˨ʔ səwŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "life",
+    "example": "Cuộc sống lam lũ, vất vả."
+  },
+  "đêm": {
+    "ok": true,
+    "ipa": "ʔɗem˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "night",
+    "example": "Làm việc vào buổi đêm."
+  },
+  "cuốn sách": {
+    "ok": false,
+    "reason": "404"
+  },
+  "khoa học": {
+    "ok": true,
+    "ipa": "xwaː˧˧ hawk͡p̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "science",
+    "example": "Khoa học đóng vai trò then chốt trong công cuộc hiện đại hoá đất nước."
+  },
+  "mất": {
+    "ok": true,
+    "ipa": "mət̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to lose something",
+    "example": "Mất chiếc xe đạp."
+  },
+  "phòng": {
+    "ok": true,
+    "ipa": "fawŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a room",
+    "example": "Phòng làm việc của giám đốc."
+  },
+  "ăn": {
+    "ok": true,
+    "ipa": "ʔan˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to eat",
+    "example": "chiếc áo đen ăn với màu da trắng"
+  },
+  "người bạn": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ý tưởng": {
+    "ok": true,
+    "ipa": "ʔi˧˦ tɨəŋ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "idea, thought",
+    "example": "Ý tưởng cao xa."
+  },
+  "núi": {
+    "ok": true,
+    "ipa": "nuj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a mountain",
+    "example": "Đồi núi nhấp nhô."
+  },
+  "cá": {
+    "ok": true,
+    "ipa": "kaː˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "魚",
+      "ngư"
+    ],
+    "en": "fish (vertebrate animal)",
+    "example": "mua 5 cân cá"
+  },
+  "ngăn chặn": {
+    "ok": true,
+    "ipa": "ŋan˧˧ t͡ɕan˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to prevent; to block; to stop",
+    "example": "Ngăn chặn bọn đầu cơ buôn vải."
+  },
+  "một lần": {
+    "ok": true,
+    "ipa": "mo̰ʔt˨˩ lə̤n˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "cơ sở": {
+    "ok": true,
+    "ipa": "kəː˧˧ səː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "foundation; base; basis (of an idea or the like)",
+    "example": "gây dựng cơ sở"
+  },
+  "ngựa": {
+    "ok": true,
+    "ipa": "ŋɨə˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "馬",
+      "mã"
+    ],
+    "en": "a horse (members of the species Equus ferus)",
+    "example": "môn nhảy ngựa"
+  },
+  "nghe": {
+    "ok": true,
+    "ipa": "ŋɛ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to hear (to perceive sounds through the ear)",
+    "example": "nó nghe lời cha mẹ"
+  },
+  "khuôn mặt": {
+    "ok": true,
+    "ipa": "xuən˧˧ mat̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "face; facial appearance",
+    "example": "khuôn mặt trái xoan"
+  },
+  "gỗ": {
+    "ok": true,
+    "ipa": "ɣo˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wood, timber",
+    "example": "Đốn gỗ."
+  },
+  "cắt": {
+    "ok": true,
+    "ipa": "kat̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to sever using a sharp object; to cut, snip, slit, trim, clip, shear, etc.",
+    "example": "nhanh như cắt"
+  },
+  "mở": {
+    "ok": true,
+    "ipa": "məː˧˩",
+    "pos": "Động từ",
+    "zh": [
+      "开"
+    ],
+    "en": "to open, be open (a door, lid, path, source code)",
+    "example": "tương lai đầy hứa hẹn của tôi đang mở ra trước mắt"
+  },
+  "chính": {
+    "ok": true,
+    "ipa": "t͡ɕïŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "exactly; precisely",
+    "example": "đi theo lối cổng chính"
+  },
+  "chắc chắn": {
+    "ok": true,
+    "ipa": "t͡ɕak̚˧˦ t͡ɕan˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "resilient, firm, stable",
+    "example": "Nền móng rất chắc chắn."
+  },
+  "cùng": {
+    "ok": true,
+    "ipa": "kʊwŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the end, limit",
+    "example": "Chuột chạy cùng sào (tục ngữ)."
+  },
+  "dường như": {
+    "ok": true,
+    "ipa": "zɨəŋ˨˩ ɲɨ˧˧",
+    "pos": "Từ phụ trợ / khác",
+    "zh": [],
+    "en": "to appear; to seem; to look",
+    "example": "Dường như anh ấy đã hồi phục hoàn toàn sau chấn thương."
+  },
+  "tiếp theo": {
+    "ok": true,
+    "ipa": "tiəp̚˧˦ tʰɛw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to follow; to be next",
+    "example": "Việc làm tiếp theo."
+  },
+  "trẻ em": {
+    "ok": true,
+    "ipa": "t͡ɕɛ˧˩ ʔɛm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "children; kids",
+    "example": "Săn sóc trẻ em."
+  },
+  "ví dụ": {
+    "ok": true,
+    "ipa": "vi˧˦ zu˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "example, instance",
+    "example": "Ví dụ trời mưa thì phải ở nhà."
+  },
+  "trắng": {
+    "ok": true,
+    "ipa": "t͡ɕaŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [
+      "白",
+      "bạch"
+    ],
+    "en": "white",
+    "example": "có gì thì chị cứ nói trắng ra"
+  },
+  "giảm bớt": {
+    "ok": true,
+    "ipa": "zaːm˧˩ ʔɓəːt̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to reduce; to decrease",
+    "example": ""
+  },
+  "giấy": {
+    "ok": true,
+    "ipa": "zəj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "paper (material for writing on)",
+    "example": "Sách này dùng giấy rất trắng"
+  },
+  "nhóm": {
+    "ok": true,
+    "ipa": "ɲɔm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "group",
+    "example": "bà đang nhóm bếp nấu cơm"
+  },
+  "luôn luôn": {
+    "ok": true,
+    "ipa": "luən˧˧ luən˧˧",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "always",
+    "example": "cuộc sống luôn luôn thay đổi"
+  },
+  "đánh dấu": {
+    "ok": true,
+    "ipa": "ʔɗajŋ̟˧˦ zəw˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to mark",
+    "example": "đánh dấu những chỗ cần nhớ"
+  },
+  "cả hai": {
+    "ok": false,
+    "reason": "404"
+  },
+  "cho đến khi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "những": {
+    "ok": true,
+    "ipa": "ɲɨŋ˦ˀ˥",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "Plural marker.",
+    "example": "Phải học ngoại ngữ ngay từ những năm đầu tuổi thiếu niên."
+  },
+  "thư": {
+    "ok": true,
+    "ipa": "tʰɨ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "letter",
+    "example": "thư cho người yêu"
+  },
+  "nhạc": {
+    "ok": true,
+    "ipa": "ɲaːk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "music (as a hobby or object of enjoyment)",
+    "example": "Học nhạc."
+  },
+  "thường": {
+    "ok": true,
+    "ipa": "tʰɨəŋ˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "frequent; usual; ordinary; common; average",
+    "example": "nó thường cho tôi một quyển sách mới"
+  },
+  "dặm": {
+    "ok": true,
+    "ipa": "zam˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "mile (measure of length)",
+    "example": "sai một li đi một dặm (tng)"
+  },
+  "sông": {
+    "ok": true,
+    "ipa": "səwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "川",
+      "xuyên",
+      "河",
+      "hà"
+    ],
+    "en": "river (large stream which drains a landmass)",
+    "example": "Sông có khúc, người có lúc (tục ngữ)."
+  },
+  "xe": {
+    "ok": true,
+    "ipa": "sɛ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wheeled vehicle (except for airplanes)",
+    "example": "xe điếu"
+  },
+  "chăm sóc": {
+    "ok": true,
+    "ipa": "t͡ɕam˧˧ sawk͡p̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to look after; to take care of",
+    "example": "Chăm sóc người bệnh."
+  },
+  "thứ hai": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ haːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "second",
+    "example": "Mọi người thường cảm thấy hối hả và bận rộn hơn vào ngày thứ hai đầu tuần."
+  },
+  "đủ": {
+    "ok": true,
+    "ipa": "ʔɗu˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "sufficiently; enough",
+    "example": "Hai nghìn đồng là đủ."
+  },
+  "đồng bằng": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˨˩ ʔɓaŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "plain",
+    "example": ""
+  },
+  "cô gái": {
+    "ok": true,
+    "ipa": "ko˧˧ ɣaːj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "girl",
+    "example": "Cô gái đó đẹp quá."
+  },
+  "thông thường": {
+    "ok": true,
+    "ipa": "tʰəwŋ͡m˧˧ tʰɨəŋ˨˩",
+    "pos": "Tính từ",
+    "zh": [
+      "通常"
+    ],
+    "en": "common; ordinary; usual",
+    "example": "thông thường, cứ 5 giờ là ông đã tỉnh giấc"
+  },
+  "chân": {
+    "ok": true,
+    "ipa": "t͡ɕən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "foot",
+    "example": "hai nhà chung nhau một chân lợn"
+  },
+  "trẻ": {
+    "ok": true,
+    "ipa": "t͡ɕɛ˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "young",
+    "example": "Thời trẻ."
+  },
+  "trên đây": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bao giờ": {
+    "ok": true,
+    "ipa": "ʔɓaːw˧˧ zəː˨˩",
+    "pos": "Đại từ",
+    "zh": [],
+    "en": "when, how long until",
+    "example": "Bao giờ mới biết kết quả?"
+  },
+  "sẵn sàng": {
+    "ok": true,
+    "ipa": "san˦ˀ˥ saːŋ˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "ready; prepared",
+    "example": "Xe cộ đã sẵn sàng."
+  },
+  "màu đỏ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "danh sách": {
+    "ok": true,
+    "ipa": "zajŋ̟˧˧ sajk̟̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "list",
+    "example": "Danh sách thí sinh"
+  },
+  "mặc dù": {
+    "ok": true,
+    "ipa": "mak̚˧˨ʔ zu˨˩",
+    "pos": "Liên từ",
+    "zh": [],
+    "en": "although; though",
+    "example": "mặc dù trời mưa, nó vẫn đi"
+  },
+  "nói chuyện": {
+    "ok": true,
+    "ipa": "nɔj˧˦ t͡ɕwiən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to talk, to speak",
+    "example": "các ông đang nói chuyện thời sự"
+  },
+  "cảm thấy": {
+    "ok": true,
+    "ipa": "kaːm˧˩ tʰəj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to feel",
+    "example": ""
+  },
+  "chim": {
+    "ok": true,
+    "ipa": "t͡ɕim˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "屌",
+      "鳥"
+    ],
+    "en": "bird (animal of the class Aves)",
+    "example": "Bà mẹ đang tắm cho đứa bé và dặn dò con phải giữ gìn vệ sinh sạch sẽ cho cái chim nhỏ."
+  },
+  "sớm": {
+    "ok": true,
+    "ipa": "səːm˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "早",
+      "很快"
+    ],
+    "en": "early",
+    "example": "đi từ sớm"
+  },
+  "cơ thể": {
+    "ok": true,
+    "ipa": "kəː˧˧ tʰe˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "human body, organism",
+    "example": "suy nhược cơ thể"
+  },
+  "trực tiếp": {
+    "ok": true,
+    "ipa": "t͡ɕɨk̚˧˨ʔ tiəp̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "direct; straight",
+    "example": "Trực tiếp đề nghị với chính quyền."
+  },
+  "đặt ra": {
+    "ok": true,
+    "ipa": "ʔɗat̚˧˨ʔ zaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to address; to raise; to ask",
+    "example": ""
+  },
+  "con chó": {
+    "ok": false,
+    "reason": "404"
+  },
+  "gia đình": {
+    "ok": true,
+    "ipa": "zaː˧˧ ʔɗïŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an immediate family; a household",
+    "example": "vụ việc được xử lí theo kiểu gia đình"
+  },
+  "bài hát": {
+    "ok": true,
+    "ipa": "ʔɓaːj˨˩ haːt̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "song",
+    "example": ""
+  },
+  "lại": {
+    "ok": true,
+    "ipa": "laːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "once more, indicates an action or state is resumed",
+    "example": "tôi lại đằng nhà ông bà đây!"
+  },
+  "cửa": {
+    "ok": true,
+    "ipa": "kɨə˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "door or window",
+    "example": "cửa chính"
+  },
+  "đo lường": {
+    "ok": true,
+    "ipa": "ʔɗɔ˧˧ lɨəŋ˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to measure, to find out a quantity by comparing it to some standard",
+    "example": ""
+  },
+  "sản phẩm": {
+    "ok": true,
+    "ipa": "saːn˧˩ fəm˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "product",
+    "example": "đứa con là sản phẩm của tình yêu"
+  },
+  "đen": {
+    "ok": true,
+    "ipa": "ʔɗɛn˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "of the color black",
+    "example": "Nốt đen có độ dài bằng nửa nốt trắng trong âm nhạc."
+  },
+  "chữ số": {
+    "ok": true,
+    "ipa": "t͡ɕɨ˦ˀ˥ so˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a digit",
+    "example": "tìm số có hai chữ số chia hết cho 5"
+  },
+  "ngắn": {
+    "ok": true,
+    "ipa": "ŋan˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "short or brief in terms of length or duration",
+    "example": "giường ngắn"
+  },
+  "câu hỏi": {
+    "ok": true,
+    "ipa": "kəw˧˧ hɔj˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "question",
+    "example": "Câu hỏi của giám khảo khó quá."
+  },
+  "gió": {
+    "ok": true,
+    "ipa": "zɔ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wind (movement of air)",
+    "example": "quạt tản gió"
+  },
+  "xảy ra": {
+    "ok": true,
+    "ipa": "sa̰j˧˩˧ zaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "tàu": {
+    "ok": true,
+    "ipa": "taw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "one of several types of vehicle or craft, usually large, designed for navigation in or on water, in air, on rails, or through outer space",
+    "example": "một con ngựa đau, cả tàu không ăn cỏ (tng)"
+  },
+  "đá": {
+    "ok": true,
+    "ipa": "ʔɗaː˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "rock, stone",
+    "example": "ông ấy đá lắm, không cho ai cái gì bao giờ"
+  },
+  "hoàn thành": {
+    "ok": true,
+    "ipa": "hwaːn˨˩ tʰajŋ̟˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to finish, to complete",
+    "example": "tôi đã hoàn thành nhiệm vụ được giao"
+  },
+  "một nửa": {
+    "ok": false,
+    "reason": "404"
+  },
+  "nam": {
+    "ok": true,
+    "ipa": "naːm˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "男",
+      "南"
+    ],
+    "en": "south",
+    "example": "Đoàn phim đang tuyển nam diễn viên chính."
+  },
+  "lửa": {
+    "ok": true,
+    "ipa": "lɨə˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "火",
+      "hỏa"
+    ],
+    "en": "fire (chemical reaction)",
+    "example": "Đốt lửa ."
+  },
+  "vấn đề": {
+    "ok": true,
+    "ipa": "vən˧˦ ʔɗe˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "problem",
+    "example": "Giải quyết mấy vấn đề."
+  },
+  "khu vực": {
+    "ok": true,
+    "ipa": "xu˧˧ vɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "zone; area",
+    "example": "Khu vực hành chính."
+  },
+  "mảnh": {
+    "ok": true,
+    "ipa": "majŋ̟˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "piece; bit; fragment; esp. of a flat surface, e.g. a garden or piece of paper",
+    "example": "Mảnh bát."
+  },
+  "vượt qua": {
+    "ok": true,
+    "ipa": "vɨət̚˧˨ʔ kwaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to cross",
+    "example": ""
+  },
+  "toàn bộ": {
+    "ok": true,
+    "ipa": "twaːn˨˩ ʔɓo˧˨ʔ",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "everything, all",
+    "example": "thừa kế toàn bộ gia sản"
+  },
+  "đường phố": {
+    "ok": true,
+    "ipa": "ʔɗɨəŋ˨˩ fo˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "street",
+    "example": "đường phố đông đúc"
+  },
+  "vua": {
+    "ok": true,
+    "ipa": "vuə˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "王",
+      "vương"
+    ],
+    "en": "monarch (ruler)",
+    "example": "phép vua thua lệ làng (tng)"
+  },
+  "ở lại": {
+    "ok": true,
+    "ipa": "ʔəː˧˩ laːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to remain, to stay",
+    "example": ""
+  },
+  "nhân": {
+    "ok": true,
+    "ipa": "ɲən˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "仁",
+      "仁慈"
+    ],
+    "en": "mercy; humanity; benevolence",
+    "example": "nhân tế bào"
+  },
+  "tất nhiên": {
+    "ok": true,
+    "ipa": "tət̚˧˦ ɲiən˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "of course",
+    "example": "Muốn tiến bộ tất nhiên phải cố gắng nhiều."
+  },
+  "đầy đủ": {
+    "ok": true,
+    "ipa": "ʔɗəj˨˩ ʔɗu˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "adequate; enough; sufficient; complete; full",
+    "example": "Ăn uống đầy đủ."
+  },
+  "quyết định": {
+    "ok": true,
+    "ipa": "kwiət̚˧˦ ʔɗïŋ˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to decide",
+    "example": "thời tiết là một trong những yếu tố quyết định năng suất cây trồng"
+  },
+  "đối tượng": {
+    "ok": true,
+    "ipa": "ʔɗoj˧˦ tɨəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a subject, usually a human one, to study or experiment on",
+    "example": "anh ấy đang thuộc diện đối tượng Đảng"
+  },
+  "lực": {
+    "ok": true,
+    "ipa": "lɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "force",
+    "example": "Thế và lực."
+  },
+  "bánh xe": {
+    "ok": true,
+    "ipa": "ʔɓajŋ̟˧˦ sɛ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wheel (on a motorized or non-motorized vehicle)",
+    "example": "Chiếc bánh xe bị hỏng nên không quay được."
+  },
+  "sâu": {
+    "ok": true,
+    "ipa": "səw˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "深"
+    ],
+    "en": "deep (having its bottom far down)",
+    "example": "Một con sâu bỏ rầu nồi canh (tục ngữ)"
+  },
+  "bề mặt": {
+    "ok": true,
+    "ipa": "ʔɓe˨˩ mat̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "surface",
+    "example": ""
+  },
+  "mặt trăng": {
+    "ok": true,
+    "ipa": "mat̚˧˨ʔ t͡ɕaŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "alternative letter-case form of Mặt Trăng",
+    "example": "Mặt Trăng tròn nhô lên, tỏa sáng xanh khu rừng."
+  },
+  "màu xanh": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đảo": {
+    "ok": true,
+    "ipa": "ʔɗaːw˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "island",
+    "example": "đi đảo qua đảo lại như người say rượu"
+  },
+  "kiểm tra": {
+    "ok": true,
+    "ipa": "kiəm˧˩ t͡ɕaː˧˧",
+    "pos": "Động từ",
+    "zh": [
+      "检查"
+    ],
+    "en": "a test or quiz; compare thi (“exam”, finals or entrance exams)",
+    "example": "Kiểm tra việc thi hành các chính sách."
+  },
+  "ghi": {
+    "ok": true,
+    "ipa": "ɣi˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to write something for the record",
+    "example": "bẻ ghi"
+  },
+  "bận rộn": {
+    "ok": true,
+    "ipa": "ʔɓən˧˨ʔ zon˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "busy",
+    "example": ""
+  },
+  "phổ biến": {
+    "ok": true,
+    "ipa": "fo˧˩ ʔɓiən˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "to popularise; to publicise",
+    "example": "một hiện tượng phổ biến"
+  },
+  "hệ thống": {
+    "ok": true,
+    "ipa": "he˧˨ʔ tʰəwŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a system",
+    "example": "hệ thống phân loại thực vật"
+  },
+  "vàng": {
+    "ok": true,
+    "ipa": "vaːŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "金"
+    ],
+    "en": "yellow",
+    "example": "Đeo dây chuyền vàng."
+  },
+  "thuyền": {
+    "ok": true,
+    "ipa": "tʰwiən˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "舟",
+      "chu"
+    ],
+    "en": "boat",
+    "example": "\"Thuyền ơi có nhớ bến chăng, Bến thì một dạ khăng khăng đợi thuyền.\" (Cdao)"
+  },
+  "máy bay": {
+    "ok": true,
+    "ipa": "maj˧˦ ʔɓaj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "aircraft, (specifically) airplane",
+    "example": "Máy bay chở khách đang cất cánh lao vút lên bầu trời xanh giữa nắng xuân rực rỡ nắng."
+  },
+  "khô": {
+    "ok": true,
+    "ipa": "xo˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "dry (free from liquid or moisture)",
+    "example": "tiếng lên đạn nghe khô"
+  },
+  "thay": {
+    "ok": true,
+    "ipa": "tʰaj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to change; to replace",
+    "example": "anh thay cha dạy dỗ đàn em nhỏ"
+  },
+  "tự hỏi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "cười": {
+    "ok": true,
+    "ipa": "kɨəj˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "smile",
+    "example": "Cô ấy nở một nụ cười thật rạng rỡ để chào đón tất cả mọi khách mời của bữa tiệc."
+  },
+  "ran": {
+    "ok": true,
+    "ipa": "zaːn˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to resound; to spread widely",
+    "example": "Pháo ran."
+  },
+  "ngàn": {
+    "ok": true,
+    "ipa": "ŋaːn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "alternative form of nghìn (“thousand”)",
+    "example": "vượt suối băng ngàn"
+  },
+  "trò chơi": {
+    "ok": true,
+    "ipa": "t͡ɕɔ˨˩ t͡ɕəːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a game (playful or competitive activity)",
+    "example": "Ngày hội bày ra nhiều trò chơi."
+  },
+  "đánh đồng": {
+    "ok": true,
+    "ipa": "ʔɗajŋ̟˧˦ ʔɗəwŋ͡m˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to mix up with something or somebody else, or to regard as indistinguishable",
+    "example": "đánh đồng người tốt với kẻ xấu"
+  },
+  "bỏ lỡ": {
+    "ok": true,
+    "ipa": "ʔɓɔ˧˩ ləː˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to miss out",
+    "example": "Ông đã bỏ lỡ một cơ hội tốt trong sự nghiệp của mình."
+  },
+  "mang": {
+    "ok": true,
+    "ipa": "maːŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to carry",
+    "example": "tiếng mang tác"
+  },
+  "hình dạng": {
+    "ok": true,
+    "ipa": "hïŋ˨˩ zaːŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "shape; form",
+    "example": "Cùng một hình dạng, nhưng khác nhau về kích thước."
+  },
+  "nhiệt": {
+    "ok": true,
+    "ipa": "ɲiət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "heat",
+    "example": "cơ thể bị nhiệt"
+  },
+  "lốp xe": {
+    "ok": false,
+    "reason": "404"
+  },
+  "tuyết": {
+    "ok": true,
+    "ipa": "twiət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "snow (precipitation)",
+    "example": "Tuyết rơi dày nửa mét"
+  },
+  "mang lại": {
+    "ok": true,
+    "ipa": "maːŋ˧˧ la̰ːʔj˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "vâng": {
+    "ok": true,
+    "ipa": "vəŋ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to obey (other's words, commands); to listen to; to comply with",
+    "example": "(- nhớ học bài nhé!) - vâng!"
+  },
+  "điền": {
+    "ok": true,
+    "ipa": "ʔɗiən˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to fill in",
+    "example": "Hành khách điền các thông tin vào tờ khai"
+  },
+  "xa": {
+    "ok": true,
+    "ipa": "saː˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "远"
+    ],
+    "en": "far",
+    "example": "Yêu nhau xa cũng nên gần. (Ca dao)"
+  },
+  "đông": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "winter",
+    "example": "quan hệ Đông - Tây"
+  },
+  "đơn vị": {
+    "ok": true,
+    "ipa": "ʔɗəːn˧˧ vi˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "unit (part of whole)",
+    "example": "đơn vị từ vựng"
+  },
+  "ngôn ngữ": {
+    "ok": true,
+    "ipa": "ŋon˧˧ ŋɨ˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "language",
+    "example": "Ngôn ngữ là phương tiện giao tiếp quan trọng nhất."
+  },
+  "sơn": {
+    "ok": true,
+    "ipa": "səːn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "Toxicodendron succedaneum",
+    "example": "Sơn Nam chướng khí."
+  },
+  "điện": {
+    "ok": true,
+    "ipa": "ʔɗiən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "electricity",
+    "example": "điện Diên Hồng"
+  },
+  "thị trấn": {
+    "ok": true,
+    "ipa": "tʰi˧˨ʔ t͡ɕən˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "commune-level town (Vietnamese administrative unit)",
+    "example": "Thị trấn nhỏ vùng biên giới luôn nhộn nhịp kẻ bán người mua mỗi khi đến phiên chợ lùi."
+  },
+  "bay": {
+    "ok": true,
+    "ipa": "ʔɓaj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to fly (travel through the air)",
+    "example": "Người thợ nề dùng chiếc bay để trát vôi vữa lên bức tường gạch."
+  },
+  "nhất định": {
+    "ok": true,
+    "ipa": "ɲət̚˧˦ ʔɗïŋ˧˨ʔ",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "fixed, certain, given",
+    "example": "có một số kinh nghiệm nhất định"
+  },
+  "giảm": {
+    "ok": true,
+    "ipa": "zaːm˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to decrease",
+    "example": "Giảm tức tô."
+  },
+  "dẫn": {
+    "ok": true,
+    "ipa": "zən˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to lead (someone) to a place",
+    "example": "nhà trai dẫn lễ vật sang nhà gái"
+  },
+  "máy": {
+    "ok": true,
+    "ipa": "maj˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "机器"
+    ],
+    "en": "to move around",
+    "example": "nó máy tôi lẻn đi chơi"
+  },
+  "đợi": {
+    "ok": true,
+    "ipa": "ʔɗəːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to wait for, to await",
+    "example": "Đợi ngớt mưa hãy đi."
+  },
+  "sao": {
+    "ok": true,
+    "ipa": "saːw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "why",
+    "example": "bát canh nổi đầy sao"
+  },
+  "kêu": {
+    "ok": true,
+    "ipa": "kew˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to call for someone to see or help you",
+    "example": "chú chim non đang kêu"
+  },
+  "tối": {
+    "ok": true,
+    "ipa": "toj˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "dark (lack of light)",
+    "example": "đầu óc tối, nói mãi mà vẫn không hiểu"
+  },
+  "kế hoạch": {
+    "ok": true,
+    "ipa": "ke˧˦ hwajk̟̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a plan",
+    "example": "Kế hoạch kinh tế."
+  },
+  "hộp": {
+    "ok": true,
+    "ipa": "hop̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "small-sized container",
+    "example": "Hộp phấn."
+  },
+  "con số": {
+    "ok": true,
+    "ipa": "kɔn˧˧ so˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "number; figure",
+    "example": "kim giờ chỉ vào con số 12"
+  },
+  "lĩnh vực": {
+    "ok": true,
+    "ipa": "lïŋ˦ˀ˥ vɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "field; domain; sphere",
+    "example": "Lĩnh vực kinh tế."
+  },
+  "danh từ": {
+    "ok": true,
+    "ipa": "zajŋ̟˧˧ tɨ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a noun (grammatical category)",
+    "example": "'bàn', 'ghế', 'đêm', 'ngày', 'Hà Nội' là những danh từ"
+  },
+  "chính xác": {
+    "ok": true,
+    "ipa": "t͡ɕïŋ˧˦ saːk̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "correct; precise; exact; accurate",
+    "example": "Đây là câu trả lời chính xác."
+  },
+  "phần còn lại": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bảng": {
+    "ok": true,
+    "ipa": "ʔɓaːŋ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a board such as a blackboard or whiteboard",
+    "example": "Bảng yết thị."
+  },
+  "thể": {
+    "ok": true,
+    "ipa": "tʰe˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "opportunity; swoop",
+    "example": "Thể đặc."
+  },
+  "xong": {
+    "ok": true,
+    "ipa": "sawŋ͡m˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to end, to complete",
+    "example": "tiến không được mà lùi cũng không xong"
+  },
+  "vẻ đẹp": {
+    "ok": false,
+    "reason": "404"
+  },
+  "chứa": {
+    "ok": true,
+    "ipa": "t͡ɕɨə˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to contain; to hold",
+    "example": "câu chuyện này chứa đầy mâu thuẫn"
+  },
+  "ổ đĩa": {
+    "ok": true,
+    "ipa": "ʔo˧˩ ʔɗiə˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "drive; disc",
+    "example": "Cắm ổ đĩa ngoài vào máy tính để lưu trữ thêm dữ liệu."
+  },
+  "tuần": {
+    "ok": true,
+    "ipa": "twən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a decade of age",
+    "example": "xe tuần đường"
+  },
+  "thức": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "food; (also, chiefly in compounds) drink",
+    "example": "thằng bé vẫn đang thức"
+  },
+  "đã": {
+    "ok": true,
+    "ipa": "ʔɗaː˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "having completed this action, perfect aspect",
+    "example": "Đau chóng đã chầy (tục ngữ)."
+  },
+  "màu xanh lá cây": {
+    "ok": false,
+    "reason": "404"
+  },
+  "oh": {
+    "ok": false,
+    "reason": "404"
+  },
+  "nhanh chóng": {
+    "ok": true,
+    "ipa": "ɲajŋ̟˧˧ t͡ɕawŋ͡m˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "rapid; quick; swift",
+    "example": "Giải quyết công việc nhanh chóng."
+  },
+  "miễn phí": {
+    "ok": true,
+    "ipa": "miən˦ˀ˥ fi˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "free of charge",
+    "example": "trẻ em dưới 6 tuổi được khám chữa bệnh miễn phí"
+  },
+  "phút": {
+    "ok": true,
+    "ipa": "fut̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "minute (unit of time)",
+    "example": "Góc này có số đo là 30 phút."
+  },
+  "đặc biệt": {
+    "ok": true,
+    "ipa": "ʔɗak̚˧˨ʔ ʔɓiət̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "special; unusual",
+    "example": "Một vinh dự đặc biệt."
+  },
+  "ấm áp": {
+    "ok": true,
+    "ipa": "ʔəm˧˦ ʔaːp̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "cozy; warm",
+    "example": "Nắng xuân ấm áp."
+  },
+  "mạnh mẽ": {
+    "ok": true,
+    "ipa": "majŋ̟˧˨ʔ mɛ˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "strong; powerful",
+    "example": "sức sống mạnh mẽ"
+  },
+  "tâm": {
+    "ok": true,
+    "ipa": "təm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the heart (humanity or compassion)",
+    "example": "tâm hình chữ nhật"
+  },
+  "sau": {
+    "ok": true,
+    "ipa": "saw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "rear, hind, back",
+    "example": "ngồi ở hàng ghế sau nên hơi khó nhìn"
+  },
+  "đại dương": {
+    "ok": true,
+    "ipa": "ʔɗaːj˧˨ʔ zɨəŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "大洋"
+    ],
+    "en": "an ocean (one of the large bodies of water)",
+    "example": "tàu vượt đại dương"
+  },
+  "đuôi": {
+    "ok": true,
+    "ipa": "ʔɗuəj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tail",
+    "example": "Đuôi cá."
+  },
+  "không gian": {
+    "ok": true,
+    "ipa": "xəwŋ͡m˧˧ zaːn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "space",
+    "example": "Con tàu vũ trụ bay trong không gian."
+  },
+  "sản xuất": {
+    "ok": true,
+    "ipa": "saːn˧˩ swət̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "production",
+    "example": "Để sống còn, loài người lại phải sản xuất mới có ăn, có mặc (Hồ Chí Minh)"
+  },
+  "thực tế": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˨ʔ te˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "reality, real life",
+    "example": "thực tế không ai làm như vậy"
+  },
+  "giờ": {
+    "ok": true,
+    "ipa": "zəː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "unit for specifying a point in time in terms of hours",
+    "example": "bốn giờ năm (phút)"
+  },
+  "tốt hơn": {
+    "ok": false,
+    "reason": "404"
+  },
+  "tốt nhất": {
+    "ok": false,
+    "reason": "404"
+  },
+  "nhớ": {
+    "ok": true,
+    "ipa": "ɲəː˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to remember",
+    "example": "nhớ về chuyện cũ"
+  },
+  "trăm": {
+    "ok": true,
+    "ipa": "t͡ɕam˧˧",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "hundred",
+    "example": "một trăm"
+  },
+  "đúng": {
+    "ok": true,
+    "ipa": "ʔɗʊwŋ͡m˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "not wrong or improper; right, correct, accurate, precise, proper, etc.",
+    "example": "Khai đúng sự thật."
+  },
+  "bước": {
+    "ok": true,
+    "ipa": "ʔɓɨək̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to step",
+    "example": "tôi đã bước sang tuổi mười tám"
+  },
+  "giư": {
+    "ok": false,
+    "reason": "404"
+  },
+  "mặt đất": {
+    "ok": true,
+    "ipa": "mat̚˧˨ʔ ʔɗət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "surface of the earth; ground surface",
+    "example": "Cỏ lan trên mặt đất."
+  },
+  "quan tâm": {
+    "ok": true,
+    "ipa": "kwaːn˧˧ təm˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to care about; to be interested in; to take interest in",
+    "example": "Cha mẹ luôn luôn quan tâm đến đạo đức và việc học tập của con cái."
+  },
+  "tây": {
+    "ok": true,
+    "ipa": "təj˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "west",
+    "example": "Mặt trời đã ngả về tây."
+  },
+  "đạt": {
+    "ok": true,
+    "ipa": "ʔɗaːt̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to reach; to attain",
+    "example": "Dùng chữ đạt."
+  },
+  "hát": {
+    "ok": true,
+    "ipa": "haːt̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to sing",
+    "example": "cô ấy đang hát"
+  },
+  "động từ": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˧˨ʔ tɨ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a verb (word that indicates an action, event, or a state)",
+    "example": "'đi', 'ăn', 'học tập', 'phát triển' đều là động từ"
+  },
+  "lắng nghe": {
+    "ok": true,
+    "ipa": "laŋ˧˦ ŋɛ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to listen attentively; to be all ears",
+    "example": "các em học sinh đang lắng nghe bài giảng"
+  },
+  "buổi sáng": {
+    "ok": true,
+    "ipa": "ʔɓuəj˧˩ saːŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "morning",
+    "example": "Bận bịu suốt cả buổi sáng."
+  },
+  "sáu": {
+    "ok": true,
+    "ipa": "saw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "six",
+    "example": "Sáu trang."
+  },
+  "mười": {
+    "ok": true,
+    "ipa": "mɨəj˨˩",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "ten",
+    "example": "Hai năm rõ mười."
+  },
+  "đơn giản": {
+    "ok": true,
+    "ipa": "ʔɗəːn˧˧ zaːn˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "simple (uncomplicated)",
+    "example": "họ đã đơn giản các thủ tục"
+  },
+  "du lịch": {
+    "ok": true,
+    "ipa": "zu˧˧ lïk̟̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "tourism",
+    "example": "(phục vụ cho việc du lịch)."
+  },
+  "nguyên âm": {
+    "ok": true,
+    "ipa": "ŋwiən˧˧ ʔəm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "vowel",
+    "example": "a, e, i là những nguyên âm"
+  },
+  "chống lại": {
+    "ok": true,
+    "ipa": "t͡ɕəwŋ͡m˧˦ laːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to resist; to oppose; to be against",
+    "example": ""
+  },
+  "chiến tranh": {
+    "ok": true,
+    "ipa": "t͡ɕiən˧˦ t͡ɕajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "war (conflict involving organized use of arms)",
+    "example": "chiến tranh lạnh"
+  },
+  "mô hình": {
+    "ok": true,
+    "ipa": "mo˧˧ hïŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "model",
+    "example": "mô hình của câu đơn"
+  },
+  "hướng": {
+    "ok": true,
+    "ipa": "hɨəŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "direction",
+    "example": "Chúng tôi đang hướng mọi người quan tâm tới vấn đề chính"
+  },
+  "tiền": {
+    "ok": true,
+    "ipa": "tiən˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "錢",
+      "錢幣",
+      "前"
+    ],
+    "en": "money",
+    "example": "Tiền lưng gạo bị."
+  },
+  "tình yêu": {
+    "ok": true,
+    "ipa": "tïŋ˨˩ ʔiəw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "love; passion",
+    "example": "Tình yêu đất nước."
+  },
+  "chậm": {
+    "ok": true,
+    "ipa": "t͡ɕəm˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "slow",
+    "example": "Xe chạy chậm trên đường."
+  },
+  "phục vụ": {
+    "ok": true,
+    "ipa": "fʊwk͡p̚˧˨ʔ vu˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to serve, to attend to",
+    "example": "hết lòng phục vụ nhân dân"
+  },
+  "bản đồ": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˩ ʔɗo˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "map",
+    "example": "Bản đồ Việt Nam."
+  },
+  "mưa": {
+    "ok": true,
+    "ipa": "mɨə˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "雨"
+    ],
+    "en": "rain",
+    "example": "trời đang mưa"
+  },
+  "quy tắc": {
+    "ok": true,
+    "ipa": "kwi˧˧ tak̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a rule (especially a rule of thumb), a code or a principle",
+    "example": "Tôn trọng quy tắc thi đấu"
+  },
+  "kéo": {
+    "ok": true,
+    "ipa": "kɛw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to pull",
+    "example": "dùng kéo để cắt vải"
+  },
+  "xuất hiện": {
+    "ok": true,
+    "ipa": "swət̚˧˦ hiən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to appear; to become visible",
+    "example": "Xuất hiện một tầng lớp mới trong xã hội."
+  },
+  "lạnh": {
+    "ok": true,
+    "ipa": "lajŋ̟˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [
+      "冷"
+    ],
+    "en": "cold (having a low temperature)",
+    "example": "dùng gam màu lạnh"
+  },
+  "phối": {
+    "ok": true,
+    "ipa": "foj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to correspond (to); to conform (to); to match",
+    "example": "phối giống"
+  },
+  "đường": {
+    "ok": true,
+    "ipa": "ʔɗɨəŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "road; street; path; route; trace",
+    "example": "ngọt như đường"
+  },
+  "thông báo": {
+    "ok": true,
+    "ipa": "tʰəwŋ͡m˧˧ ʔɓaːw˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to tell; to report; to advise; to announce",
+    "example": "ban thường vụ ra thông báo"
+  },
+  "giọng nói": {
+    "ok": true,
+    "ipa": "zawŋ͡m˧˨ʔ nɔj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "voice",
+    "example": ""
+  },
+  "săn": {
+    "ok": true,
+    "ipa": "san˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to hunt; to hunt down",
+    "example": "Chỉ săn."
+  },
+  "có thể xảy ra": {
+    "ok": false,
+    "reason": "404"
+  },
+  "năng lượng": {
+    "ok": true,
+    "ipa": "naŋ˧˧ lɨəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "能",
+      "量"
+    ],
+    "en": "energy",
+    "example": "Năng lượng không tự sinh ra, không tự mất đi."
+  },
+  "anh trai": {
+    "ok": true,
+    "ipa": "ʔajŋ̟˧˧ t͡ɕaːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "elder brother",
+    "example": "nhà có hai anh trai"
+  },
+  "trứng": {
+    "ok": true,
+    "ipa": "t͡ɕɨŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "egg (body housing an embryo; egg of domestic fowl as food item; ovum)",
+    "example": "kì rụng trứng"
+  },
+  "đi xe": {
+    "ok": false,
+    "reason": "404"
+  },
+  "giường": {
+    "ok": true,
+    "ipa": "zɨəŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bed (piece of furniture)",
+    "example": ""
+  },
+  "tin": {
+    "ok": true,
+    "ipa": "tin˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to believe; to trust; to have faith",
+    "example": "quá trình xử lí tin"
+  },
+  "pin": {
+    "ok": true,
+    "ipa": "pin˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "battery",
+    "example": "Mua đôi pin ."
+  },
+  "có lẽ": {
+    "ok": true,
+    "ipa": "kɔ˧˦ lɛ˦ˀ˥",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "maybe; perhaps; probably; possibly",
+    "example": "Có lẽ anh ta không đến."
+  },
+  "chọn": {
+    "ok": true,
+    "ipa": "t͡ɕɔn˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to choose; to select; to pick",
+    "example": "Chọn nghề."
+  },
+  "vuông": {
+    "ok": true,
+    "ipa": "vuəŋ˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "square",
+    "example": "một vuông vải"
+  },
+  "tính": {
+    "ok": true,
+    "ipa": "tïŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to calculate",
+    "example": "anh chị đang tính chuyện làm ăn xa"
+  },
+  "lý do": {
+    "ok": true,
+    "ipa": "li˧˦ zɔ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a reason (that which causes: a cause)",
+    "example": "Tuyên bố lý do của cuộc họp."
+  },
+  "đột ngột": {
+    "ok": true,
+    "ipa": "ʔɗot̚˧˨ʔ ŋot̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "suddenly",
+    "example": "Cảm đột ngột."
+  },
+  "đại diện": {
+    "ok": true,
+    "ipa": "ʔɗaːj˧˨ʔ ziən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "representative; agent; spokesman",
+    "example": "ông đại diện cho họ nhà trai lên phát biểu"
+  },
+  "chiều dài": {
+    "ok": true,
+    "ipa": "t͡ɕiəw˨˩ zaːj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "length (distance from end to end)",
+    "example": "Chu vi hình chữ nhật bằng chiều dài cộng chiều rộng nhân đôi."
+  },
+  "tiêu đề": {
+    "ok": true,
+    "ipa": "tiəw˧˧ ʔɗe˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "heading; title; headline",
+    "example": "tiêu đề của cuốn sách"
+  },
+  "khu": {
+    "ok": true,
+    "ipa": "xu˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "district, area, zone",
+    "example": "chổng khu"
+  },
+  "giải quyết": {
+    "ok": true,
+    "ipa": "zaːj˧˩ kwiət̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to resolve",
+    "example": "Giải quyết khó khăn."
+  },
+  "nghệ thuật": {
+    "ok": true,
+    "ipa": "ŋe˧˨ʔ tʰwət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "art",
+    "example": "nghệ thuật vị nghệ thuật/nhân sinh/luân lí/xã hội/tôn giáo"
+  },
+  "kích thước": {
+    "ok": true,
+    "ipa": "kïk̟̚˧˦ tʰɨək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "size; measurement; dimension",
+    "example": "Những cỗ máy cùng loại nhưng khác nhau về kích thước."
+  },
+  "vòng tròn": {
+    "ok": true,
+    "ipa": "vawŋ͡m˨˩ t͡ɕɔn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "circle",
+    "example": ""
+  },
+  "trọng lượng": {
+    "ok": true,
+    "ipa": "t͡ɕawŋ͡m˧˨ʔ lɨəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "weight",
+    "example": "môi trường không trọng lượng"
+  },
+  "chung": {
+    "ok": true,
+    "ipa": "t͡ɕʊwŋ͡m˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "a surname from Chinese",
+    "example": "Của chung."
+  },
+  "đôi": {
+    "ok": true,
+    "ipa": "ʔɗoj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "double",
+    "example": "Đôi bạn thân."
+  },
+  "chia": {
+    "ok": true,
+    "ipa": "t͡ɕiə˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to divide",
+    "example": "cách chia động từ trong tiếng Pháp"
+  },
+  "băng": {
+    "ok": true,
+    "ipa": "ʔɓaŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "non-hail ice",
+    "example": "bãi đất đã bị ngập băng"
+  },
+  "âm tiết": {
+    "ok": true,
+    "ipa": "ʔəm˧˧ tiət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a syllable",
+    "example": "'sạch sành sanh' là từ láy có ba âm tiết"
+  },
+  "bao gồm": {
+    "ok": true,
+    "ipa": "ʔɓaːw˧˧ ɣom˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to include, to comprise, to contain",
+    "example": "bài viết này bao gồm ba phần chính"
+  },
+  "sóng": {
+    "ok": true,
+    "ipa": "sawŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wave (moving disturbance in the level of a body of liquid)",
+    "example": "Mặt hồ gợn sóng."
+  },
+  "bóng": {
+    "ok": true,
+    "ipa": "ʔɓawŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a ball",
+    "example": "chụp bóng"
+  },
+  "tim": {
+    "ok": true,
+    "ipa": "tim˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "心"
+    ],
+    "en": "(anatomy, cardiology) a heart",
+    "example": "đo từ tim đường ra"
+  },
+  "hiện nay": {
+    "ok": true,
+    "ipa": "hiən˧˨ʔ naj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "now, presently, nowadays",
+    "example": "Hiện nay bác ấy đã nghỉ hưu."
+  },
+  "khiêu vũ": {
+    "ok": true,
+    "ipa": "xiəw˧˧ vu˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to dance with a partner, particularly as in ballroom dance",
+    "example": "cô ấy đang khiêu vũ"
+  },
+  "rơi": {
+    "ok": true,
+    "ipa": "zəːj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to fall (from a height)",
+    "example": "Quả mít tụt nõ rơi từ trên cây xuống."
+  },
+  "động cơ": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˧˨ʔ kəː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "state of someone's mind when committing a crime; motive, intent",
+    "example": "Động cơ phản lực."
+  },
+  "vị trí": {
+    "ok": true,
+    "ipa": "vi˧˨ʔ t͡ɕi˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "location",
+    "example": "Đánh vào vị trí của địch."
+  },
+  "buồm": {
+    "ok": true,
+    "ipa": "ʔɓuəm˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a sail",
+    "example": "Những cánh buồm trắng no gió giúp con thuyền lướt sóng ra khơi một cách mạnh mẽ."
+  },
+  "cánh tay": {
+    "ok": true,
+    "ipa": "kajŋ̟˧˦ taj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "arm",
+    "example": "những cánh tay giơ lên"
+  },
+  "nặng": {
+    "ok": true,
+    "ipa": "naŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "heavy",
+    "example": "Từ 'mẹ' trong tiếng Việt mang thanh nặng, tạo nên một âm hưởng chắc chắn."
+  },
+  "tài liệu": {
+    "ok": true,
+    "ipa": "taːj˨˩ liəw˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "document",
+    "example": "Tài liệu học tập."
+  },
+  "ngồi": {
+    "ok": true,
+    "ipa": "ŋoj˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to sit",
+    "example": "anh ấy đang ngồi"
+  },
+  "rừng": {
+    "ok": true,
+    "ipa": "zɨŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "丛林"
+    ],
+    "en": "forest",
+    "example": "Vào rừng hái củi."
+  },
+  "cửa sổ": {
+    "ok": true,
+    "ipa": "kɨə˧˩ so˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "window",
+    "example": "Mở cửa sổ để lấy ánh sáng tự nhiên cho căn phòng."
+  },
+  "cuộc đua": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đào tạo": {
+    "ok": true,
+    "ipa": "ʔɗaːw˨˩ taːw˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to vocationally train",
+    "example": "họ đang đào tạo chuyên gia"
+  },
+  "ngủ": {
+    "ok": true,
+    "ipa": "ŋu˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to sleep",
+    "example": "bé đã ngủ rồi"
+  },
+  "phần": {
+    "ok": true,
+    "ipa": "fən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a part of something that may or may not be divided from a larger whole; a part, a portion, a ration, etc.",
+    "example": "nói thế thì cũng có phần đúng"
+  },
+  "cửa hàng": {
+    "ok": true,
+    "ipa": "kɨə˧˩ haːŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "shop, store",
+    "example": "thuê cửa hàng"
+  },
+  "chứng minh": {
+    "ok": true,
+    "ipa": "t͡ɕɨŋ˧˦ mïŋ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to prove (to demonstrate that something is true; to give proof for)",
+    "example": "chứng minh một định lí"
+  },
+  "đơn độc": {
+    "ok": true,
+    "ipa": "ʔɗəːn˧˧ ʔɗəwk͡p̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "alone; solitary",
+    "example": "sống đơn độc một mình"
+  },
+  "tập thể dục": {
+    "ok": false,
+    "reason": "no-ipa"
+  },
+  "bắt": {
+    "ok": true,
+    "ipa": "ʔɓat̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to seize; to catch",
+    "example": "công nhân bắt đinh ốc vào tà vẹt"
+  },
+  "tường": {
+    "ok": true,
+    "ipa": "tɨəŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wall (defensive rampart)",
+    "example": "Chưa tường thực hư."
+  },
+  "bầu trời": {
+    "ok": true,
+    "ipa": "ʔɓəw˨˩ t͡ɕəːj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the vault of heaven; firmament",
+    "example": "Bầu trời xanh thắm"
+  },
+  "mount": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hội đồng quản trị": {
+    "ok": true,
+    "ipa": "hoj˧˨ʔ ʔɗəwŋ͡m˨˩ kwaːn˧˩ t͡ɕi˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a board of directors",
+    "example": "họp hội đồng quản trị của công ti"
+  },
+  "niềm vui": {
+    "ok": true,
+    "ipa": "niə̤m˨˩ vuj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "bằng văn bản": {
+    "ok": false,
+    "reason": "404"
+  },
+  "mùa đông": {
+    "ok": true,
+    "ipa": "muə˨˩ ʔɗəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "winter",
+    "example": ""
+  },
+  "hoang dã": {
+    "ok": true,
+    "ipa": "hwaːŋ˧˧ zaː˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [
+      "野性"
+    ],
+    "en": "deserted place; wilderness",
+    "example": "động vật hoang dã"
+  },
+  "cụ": {
+    "ok": true,
+    "ipa": "ku˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "great grandparent",
+    "example": "ngày giỗ cụ"
+  },
+  "cỏ": {
+    "ok": true,
+    "ipa": "kɔ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "grass",
+    "example": "Đi cắt cỏ cho trâu ăn."
+  },
+  "kính": {
+    "ok": true,
+    "ipa": "kïŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "glass that comes in thinnish, flattish sheets (as opposed to, for example, a thick block or a globular shape), used to make doors, windows, eyewear, lenses, etc.; compare thuỷ tinh (“glass as a substance in general”)",
+    "example": "cháu kính bác chai rượu ngon"
+  },
+  "bò": {
+    "ok": true,
+    "ipa": "ʔɓɔ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bovine",
+    "example": "con cua đang bò"
+  },
+  "cạnh": {
+    "ok": true,
+    "ipa": "kajŋ̟˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a defining edge",
+    "example": "không tì ngực vào cạnh bàn"
+  },
+  "lần": {
+    "ok": true,
+    "ipa": "lən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "time; instance; occurrence",
+    "example": "Bước lần theo ngọn tiểu khê (Truyện Kiều)"
+  },
+  "mềm": {
+    "ok": true,
+    "ipa": "mem˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "soft",
+    "example": "đấu tranh cũng phải có lúc mềm lúc cứng"
+  },
+  "dấu hiệu": {
+    "ok": true,
+    "ipa": "zəw˧˦ hiəw˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a telltale sign",
+    "example": "Dấu hiệu liên lạc."
+  },
+  "vui vẻ": {
+    "ok": true,
+    "ipa": "vuj˧˧ vɛ˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "happy; joyful",
+    "example": "Cười vui vẻ."
+  },
+  "khí": {
+    "ok": true,
+    "ipa": "xi˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "gas",
+    "example": "Khí các- bô-ních.."
+  },
+  "thời tiết": {
+    "ok": true,
+    "ipa": "tʰəːj˨˩ tiət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "weather",
+    "example": "dự báo thời tiết"
+  },
+  "sáng": {
+    "ok": true,
+    "ipa": "saːŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "morning",
+    "example": "diễn đạt không được sáng"
+  },
+  "kết thúc": {
+    "ok": true,
+    "ipa": "ket̚˧˦ tʰʊwk͡p̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "end (extreme part)",
+    "example": "bộ phim đã kết thúc"
+  },
+  "tháng": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "month",
+    "example": "Hoa gạo nở tháng ba."
+  },
+  "triệu": {
+    "ok": true,
+    "ipa": "t͡ɕiəw˧˨ʔ",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "a surname from Chinese",
+    "example": "Triệu bất tường"
+  },
+  "chịu": {
+    "ok": true,
+    "ipa": "t͡ɕiw˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to endure; to suffer; to tolerate; to put up with",
+    "example": "các cháu chịu sự quản lí của bố mẹ"
+  },
+  "hạnh phúc": {
+    "ok": true,
+    "ipa": "hajŋ̟˧˨ʔ fʊwk͡p̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "happy",
+    "example": "Đường lên hạnh phúc rộng thênh thang (Hồ Chí Minh)"
+  },
+  "hoa": {
+    "ok": true,
+    "ipa": "hwaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "flower; flowering plant",
+    "example": "ba lạng hai hoa"
+  },
+  "hy vọng": {
+    "ok": true,
+    "ipa": "hi˧˧ vawŋ͡m˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "Alternative spelling of hi vọng.",
+    "example": ""
+  },
+  "mặc": {
+    "ok": true,
+    "ipa": "mak̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to wear or put on (a top or bottom)",
+    "example": "chị mặc nó, muốn đi đâu thì đi"
+  },
+  "thương mại": {
+    "ok": true,
+    "ipa": "tʰɨəŋ˧˧ maːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "trade; commerce",
+    "example": "Tăng cường hoạt động thương mại biên giới."
+  },
+  "ra đi": {
+    "ok": true,
+    "ipa": "zaː˧˧ ʔɗi˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to depart, to leave",
+    "example": ""
+  },
+  "lạ": {
+    "ok": true,
+    "ipa": "laː˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "strange; unfamiliar",
+    "example": "Trông đẹp lạ."
+  },
+  "chuyến đi": {
+    "ok": true,
+    "ipa": "t͡ɕwiən˧˦ ʔɗi˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "trip, visit",
+    "example": ""
+  },
+  "văn phòng": {
+    "ok": true,
+    "ipa": "van˧˧ fawŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "office (room used for non-manual work)",
+    "example": "Anh ấy là thư kí đánh máy ở văn phòng một trường đại học."
+  },
+  "giai điệu": {
+    "ok": true,
+    "ipa": "zaːj˧˧ ʔɗiəw˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "melody",
+    "example": "bài hát có giai điệu sâu lắng"
+  },
+  "nhận": {
+    "ok": true,
+    "ipa": "ɲən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to receive; to get; to obtain",
+    "example": "nó đã nhận khuyết điểm"
+  },
+  "biểu tượng": {
+    "ok": true,
+    "ipa": "ʔɓiəw˧˩ tɨəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "symbol; representation; icon",
+    "example": "chim bồ câu là biểu tượng của hoà bình"
+  },
+  "miệng": {
+    "ok": true,
+    "ipa": "miəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "口",
+      "khẩu"
+    ],
+    "en": "mouth",
+    "example": "Ăn ngon miệng."
+  },
+  "chết": {
+    "ok": true,
+    "ipa": "t͡ɕet̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to die; to decease; to perish",
+    "example": "con số chết"
+  },
+  "hàng": {
+    "ok": true,
+    "ipa": "haːŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "line; row",
+    "example": "áo lụa quần hàng"
+  },
+  "rắc rối": {
+    "ok": true,
+    "ipa": "zak̚˧˦ zoj˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "complicated; complex; intricate; troublesome",
+    "example": "Việc rắc rối giải quyết mãi chưa xong."
+  },
+  "hét lên": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đã viết": {
+    "ok": false,
+    "reason": "404"
+  },
+  "trừ": {
+    "ok": true,
+    "ipa": "t͡ɕɨ˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to exclude",
+    "example": "chủ nhà trừ tiền công của người giúp việc"
+  },
+  "hạt giống": {
+    "ok": true,
+    "ipa": "haːt̚˧˨ʔ zəwŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a seed",
+    "example": "Chọn các đội hạt giống để chia bảng thi đấu"
+  },
+  "tham gia": {
+    "ok": true,
+    "ipa": "tʰaːm˧˧ zaː˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to participate, to take part",
+    "example": "Tham gia kháng chiến."
+  },
+  "đề nghị": {
+    "ok": true,
+    "ipa": "ʔɗe˨˩ ŋi˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to propose, to suggest",
+    "example": "đề nghị mọi người phát biểu ý kiến"
+  },
+  "sạch": {
+    "ok": true,
+    "ipa": "sajk̟̚˧˨ʔ",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "clean",
+    "example": "Áo sạch."
+  },
+  "nghỉ": {
+    "ok": true,
+    "ipa": "ŋi˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to take a break",
+    "example": "mọi người nghỉ giải lao"
+  },
+  "phụ nữ": {
+    "ok": true,
+    "ipa": "fu˧˨ʔ nɨ˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "woman (adult female human)",
+    "example": "ngày quốc tế phụ nữ"
+  },
+  "sân": {
+    "ok": true,
+    "ipa": "sən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a yard",
+    "example": "Bà cụ già lại bế cháu ra sân (Nguyên Hồng)"
+  },
+  "dầu": {
+    "ok": true,
+    "ipa": "zəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "oil",
+    "example": "Cây dầu cổ thụ toả bóng mát cả một góc rừng."
+  },
+  "đòn": {
+    "ok": true,
+    "ipa": "ʔɗɔn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "lever, carrying pole",
+    "example": "gói mấy đòn bánh tét"
+  },
+  "xấu": {
+    "ok": true,
+    "ipa": "səw˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "ugly; hideous",
+    "example": "Chữ xấu."
+  },
+  "máu": {
+    "ok": true,
+    "ipa": "maw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "blood (vital liquid flowing in animal bodies)",
+    "example": "một giọt máu đào hơn ao nước lã (tng)"
+  },
+  "chạm": {
+    "ok": true,
+    "ipa": "t͡ɕaːm˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to touch; to make physical contact",
+    "example": "chạm hình rồng lên đôi chân sập"
+  },
+  "tăng": {
+    "ok": true,
+    "ipa": "taŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to increase",
+    "example": "vị tăng cao niên"
+  },
+  "phần trăm": {
+    "ok": true,
+    "ipa": "fən˨˩ t͡ɕam˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the hundredths place",
+    "example": "Ba mươi phần trăm. (30%)"
+  },
+  "trộn": {
+    "ok": true,
+    "ipa": "t͡ɕon˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to mix, to blend",
+    "example": "Trộn vữa xây nhà."
+  },
+  "dây": {
+    "ok": true,
+    "ipa": "zəj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "rope; cord; wire; string",
+    "example": "Dây rút."
+  },
+  "đội": {
+    "ok": true,
+    "ipa": "ʔɗoj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "team",
+    "example": "đội nắp hầm chui lên"
+  },
+  "nâu": {
+    "ok": true,
+    "ipa": "nəw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "brown (having a brown color)",
+    "example": "củ nâu"
+  },
+  "vườn": {
+    "ok": true,
+    "ipa": "vɨən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "garden",
+    "example": "Vườn hoa."
+  },
+  "chi phí": {
+    "ok": true,
+    "ipa": "t͡ɕi˧˧ fi˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "a cost; expenditure; expense; outlay",
+    "example": "tôi chi phí khá nhiều tiền cho vụ vận chuyển này"
+  },
+  "thua": {
+    "ok": true,
+    "ipa": "tʰuə˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to lose",
+    "example": "nó đang thua tôi 2 điểm"
+  },
+  "gửi": {
+    "ok": true,
+    "ipa": "ɣɨj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to send",
+    "example": "tôi đã gửi khoản tiền vay nóng cho chị ấy"
+  },
+  "phù hợp với": {
+    "ok": false,
+    "reason": "404"
+  },
+  "chảy": {
+    "ok": true,
+    "ipa": "t͡ɕaj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to flow; stream; trickle",
+    "example": "nước đá đang chảy"
+  },
+  "kiểm soát": {
+    "ok": true,
+    "ipa": "kiəm˧˩ swaːt̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to keep under control or in check",
+    "example": "Kiểm soát giấy tờ."
+  },
+  "công bằng": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ ʔɓaŋ˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "just; fair",
+    "example": "đối xử công bằng"
+  },
+  "số thập phân": {
+    "ok": true,
+    "ipa": "so˧˦ tʰəp̚˧˨ʔ fən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "decimal number",
+    "example": "1,22 (= R) là một số thập phân"
+  },
+  "tai": {
+    "ok": true,
+    "ipa": "taːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "ear",
+    "example": "ông ta tai cho nó mấy cái"
+  },
+  "thu thập": {
+    "ok": true,
+    "ipa": "tʰu˧˧ tʰəp̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to collect; to gather",
+    "example": "thu thập dữ liệu"
+  },
+  "lưu": {
+    "ok": true,
+    "ipa": "liw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to detain; to keep",
+    "example": "Chưa về, còn lưu lại ít hôm."
+  },
+  "đã phá vỡ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "giết": {
+    "ok": true,
+    "ipa": "ziət̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to kill",
+    "example": "kẻ cướp giết người"
+  },
+  "hồ": {
+    "ok": true,
+    "ipa": "ho˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "lake",
+    "example": "hồ Hoàn Kiếm nằm ở trung tâm Hà Nội"
+  },
+  "mùa xuân": {
+    "ok": true,
+    "ipa": "muə˨˩ swən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "spring",
+    "example": "Mùa xuân, trăm hoa đua nở."
+  },
+  "trung": {
+    "ok": true,
+    "ipa": "t͡ɕʊwŋ͡m˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "short for trung thành (“loyal”)",
+    "example": "người miền Trung"
+  },
+  "quan sát": {
+    "ok": true,
+    "ipa": "kwaːn˧˧ saːt̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to observe",
+    "example": "Đài quan sát."
+  },
+  "con": {
+    "ok": true,
+    "ipa": "kɔn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "child (daughter or son)",
+    "example": "Sinh con."
+  },
+  "quy mô": {
+    "ok": true,
+    "ipa": "kwi˧˧ mo˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "scale, scope",
+    "example": "công trình xây dựng khá quy mô"
+  },
+  "thời điểm": {
+    "ok": true,
+    "ipa": "tʰəːj˨˩ ʔɗiəm˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "point in/of time; timing; date",
+    "example": ""
+  },
+  "thẳng": {
+    "ok": true,
+    "ipa": "tʰaŋ˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "straight",
+    "example": "Đoạn đường rất thẳng."
+  },
+  "phụ âm": {
+    "ok": true,
+    "ipa": "fu˧˨ʔ ʔəm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "consonant",
+    "example": ""
+  },
+  "phương pháp": {
+    "ok": true,
+    "ipa": "fɨəŋ˧˧ faːp̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "method, way, system",
+    "example": ""
+  },
+  "cơ quan": {
+    "ok": true,
+    "ipa": "kəː˧˧ kwaːn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "mechanism; mechanics",
+    "example": "mắt là cơ quan thị giác"
+  },
+  "từ điển": {
+    "ok": true,
+    "ipa": "tɨ˨˩ ʔɗiən˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "辭典",
+      "詞典",
+      "词典",
+      "từ điển"
+    ],
+    "en": "dictionary",
+    "example": "Hãy tra cứu bộ từ điển mở Wiktionary."
+  },
+  "sưa": {
+    "ok": true,
+    "ipa": "sɨə˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "timber trees of the genus Dalbergia (D. tonkinensis and D. boniana)",
+    "example": "\"Thương ai ra đứng đầu cầu, Lược sưa biếng chải, gương tàu biếng soi.\" (Cdao)"
+  },
+  "trả": {
+    "ok": true,
+    "ipa": "t͡ɕaː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to return; to give back",
+    "example": "trả tiền thừa cho khách"
+  },
+  "tốc độ": {
+    "ok": true,
+    "ipa": "təwk͡p̚˧˦ ʔɗo˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "speed",
+    "example": "Xe chạy hết tốc độ."
+  },
+  "váy": {
+    "ok": true,
+    "ipa": "vaj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "skirt; dress (women's garment)",
+    "example": "tôi đang váy tai"
+  },
+  "điện toán đám mây": {
+    "ok": true,
+    "ipa": "ʔɗiən˧˨ʔ twaːn˧˦ ʔɗaːm˧˦ məj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cloud computing",
+    "example": "Máy tính này sử dụng các dịch vụ điện toán đám mây chứ không cài sẵn phần mềm."
+  },
+  "yên tĩnh": {
+    "ok": true,
+    "ipa": "ʔiən˧˧ tïŋ˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [
+      "安静"
+    ],
+    "en": "quiet, peaceful",
+    "example": "trưa hè yên tĩnh"
+  },
+  "quốc gia": {
+    "ok": true,
+    "ipa": "kuək̚˧˦ zaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "state, nation, country",
+    "example": "tư tưởng quốc gia hẹp hòi"
+  },
+  "lên cao": {
+    "ok": true,
+    "ipa": "len˧˧ kaːw˧˧",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "bất ngờ": {
+    "ok": true,
+    "ipa": "ʔɓət̚˧˦ ŋəː˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "sudden, unexpected",
+    "example": "Cuộc gặp gỡ bất ngờ."
+  },
+  "mát mẻ": {
+    "ok": true,
+    "ipa": "maːt̚˧˦ mɛ˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "cool",
+    "example": ""
+  },
+  "thiết kế": {
+    "ok": true,
+    "ipa": "tʰiət̚˧˦ ke˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to design",
+    "example": "Xây dựng theo thiết kế mới."
+  },
+  "người nghèo": {
+    "ok": false,
+    "reason": "404"
+  },
+  "sắt": {
+    "ok": true,
+    "ipa": "sat̚˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "鐵",
+      "铁"
+    ],
+    "en": "iron (chemical element)",
+    "example": "có công mài sắt, có ngày nên kim (tng)"
+  },
+  "thí nghiệm": {
+    "ok": true,
+    "ipa": "tʰi˧˦ ŋiəm˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "experiment, test",
+    "example": "thí nghiệm giống lúa mới"
+  },
+  "rất nhiều": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đơn": {
+    "ok": true,
+    "ipa": "ʔɗəːn˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "application, petition, request",
+    "example": "nổi đơn đầy người"
+  },
+  "phẳng": {
+    "ok": true,
+    "ipa": "faŋ˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "flat; level; even",
+    "example": "hình học phẳng"
+  },
+  "thanh": {
+    "ok": true,
+    "ipa": "tʰajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sound; tone; noise",
+    "example": "thanh huyền"
+  },
+  "hai mươi": {
+    "ok": true,
+    "ipa": "haːj˧˧ mɨəj˧˧",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "twenty",
+    "example": "Mua hai mươi cái bút chì."
+  },
+  "da": {
+    "ok": true,
+    "ipa": "zaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "skin (outer covering of the body)",
+    "example": "Cây da cổ thụ rủ bóng bên hồ."
+  },
+  "nếp": {
+    "ok": true,
+    "ipa": "nep̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "glutinous rice",
+    "example": "Nếp áo, nếp khăn.."
+  },
+  "nụ cười": {
+    "ok": true,
+    "ipa": "nu˧˨ʔ kɨəj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a smile",
+    "example": ""
+  },
+  "nhảy": {
+    "ok": true,
+    "ipa": "ɲaj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to hop",
+    "example": "đang nói chuyện này lại nhảy ngay sang chuyện khác"
+  },
+  "bé": {
+    "ok": true,
+    "ipa": "ʔɓɛ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "small; little; tiny",
+    "example": "bé lại đây với mẹ nào!"
+  },
+  "lỗ": {
+    "ok": true,
+    "ipa": "lo˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "hole made through a layer of material, by piercing, punching, poking, tearing, etc.; compare hố (“pit”, dug hole)",
+    "example": "tham bữa giỗ, lỗ bữa cày (tng)"
+  },
+  "tám": {
+    "ok": true,
+    "ipa": "taːm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "eight",
+    "example": "Cơm gạo tám."
+  },
+  "đáp ứng": {
+    "ok": true,
+    "ipa": "ʔɗaːp̚˧˦ ʔɨŋ˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to respond (positively to); to meet (needs); to satisfy",
+    "example": "yêu cầu không được đáp ứng"
+  },
+  "làng": {
+    "ok": true,
+    "ipa": "laːŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "村",
+      "里"
+    ],
+    "en": "a village (rural habitation of size between a hamlet and a town)",
+    "example": "Luỹ tre quanh làng."
+  },
+  "gốc": {
+    "ok": true,
+    "ipa": "ɣəwk͡p̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "foot (of a tree, etc.)",
+    "example": "cây bị bật gốc"
+  },
+  "mua": {
+    "ok": true,
+    "ipa": "muə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to buy; to purchase",
+    "example": "Dọc bờ suối, những bụi cây mua nở hoa tím rực rỡ dưới nắng xuân."
+  },
+  "nâng cao": {
+    "ok": true,
+    "ipa": "nəŋ˧˧ kaːw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to raise the level of or to improve",
+    "example": "Nâng cao nhiệt tình cách mạng."
+  },
+  "kim loại": {
+    "ok": true,
+    "ipa": "kim˧˧ lwaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "metal",
+    "example": "Sắt và đồng là những loại kim loại được ứng dụng phổ biến trong đời sống."
+  },
+  "liệu": {
+    "ok": true,
+    "ipa": "liəw˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to think about; to consider; to weigh in one's mind",
+    "example": "tôi đã liệu mọi việc đâu vào đấy"
+  },
+  "đẩy": {
+    "ok": true,
+    "ipa": "ʔɗəj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to push, to shove, to thrust",
+    "example": "nhà máy đã đẩy năng suất lên cao"
+  },
+  "bảy": {
+    "ok": true,
+    "ipa": "ʔɓaj˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "seven",
+    "example": "Bảy chiếc."
+  },
+  "thứ ba": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ ʔɓaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "third",
+    "example": "Hẹn gặp lại bạn vào buổi chiều ngày thứ ba nhé."
+  },
+  "có trách nhiệm": {
+    "ok": false,
+    "reason": "404"
+  },
+  "lông": {
+    "ok": true,
+    "ipa": "ləwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "non-head, non-beard, non-mustache and non-whisker hair or feathers; fur, coat or plumage",
+    "example": "Lông chân."
+  },
+  "được tổ chức": {
+    "ok": false,
+    "reason": "404"
+  },
+  "mô tả": {
+    "ok": true,
+    "ipa": "mo˧˧ taː˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to describe",
+    "example": "đoạn văn mô tả cảnh mùa thu Hà Nội"
+  },
+  "nấu ăn": {
+    "ok": true,
+    "ipa": "nəw˧˦ ʔan˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to cook; to do the cooking",
+    "example": "mẹ em đang nấu ăn"
+  },
+  "đoạn": {
+    "ok": true,
+    "ipa": "ʔɗwaːn˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "line segment",
+    "example": "hắn đã đoạn tình với vợ con"
+  },
+  "kết quả": {
+    "ok": true,
+    "ipa": "ket̚˧˦ kwaː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "result",
+    "example": "quan hệ giữa nguyên nhân và kết quả"
+  },
+  "an toàn": {
+    "ok": true,
+    "ipa": "ʔaːn˧˧ twaːn˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "safe",
+    "example": "an toàn giao thông"
+  },
+  "mèo": {
+    "ok": true,
+    "ipa": "mɛw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cat",
+    "example": "Nuôi mèo để bắt chuột."
+  },
+  "sàn": {
+    "ok": true,
+    "ipa": "saːn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "floor",
+    "example": "Sàn gác."
+  },
+  "thế kỷ": {
+    "ok": true,
+    "ipa": "tʰe˧˦ ki˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "Alternative spelling of thế kỉ.",
+    "example": ""
+  },
+  "xem xét": {
+    "ok": true,
+    "ipa": "sɛm˧˧ sɛt̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to examine; to consider; to review",
+    "example": "Xem xét tình hình."
+  },
+  "đồi": {
+    "ok": true,
+    "ipa": "ʔɗoj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "hill (elevated location)",
+    "example": "Đồi chè."
+  },
+  "bit": {
+    "ok": true,
+    "ipa": "ʔɓit̚˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bit",
+    "example": "một byte bằng 8 bit"
+  },
+  "pháp luật": {
+    "ok": true,
+    "ipa": "faːp̚˧˦ lwət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "law",
+    "example": "Buôn bán hàng thuốc đúng pháp luật hiện hành (Nguyễn Khải)"
+  },
+  "bản sao": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˩ saːw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "copy, duplicate",
+    "example": "Bản sao bằng tốt nghiệp."
+  },
+  "bờ biển": {
+    "ok": true,
+    "ipa": "ɓə̤ː˨˩ ɓiə̰n˧˩˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "im lặng": {
+    "ok": true,
+    "ipa": "ʔim˧˧ laŋ˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "to be silent; to be quiet",
+    "example": "im lặng quan sát"
+  },
+  "cát": {
+    "ok": true,
+    "ipa": "kaːt̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sand",
+    "example": "thứ nhiễu nhỏ cát"
+  },
+  "nhiệt độ": {
+    "ok": true,
+    "ipa": "ɲiət̚˧˨ʔ ʔɗo˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "temperature",
+    "example": "nước sôi ở nhiệt độ 100OC"
+  },
+  "cuộn": {
+    "ok": true,
+    "ipa": "kuən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to coil, to whirl, to flutter, to billow",
+    "example": "con rắn đang cuộn mình"
+  },
+  "cụm từ": {
+    "ok": true,
+    "ipa": "kum˧˨ʔ tɨ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a phrase",
+    "example": "thành ngữ là cụm từ cố định"
+  },
+  "ngón tay": {
+    "ok": true,
+    "ipa": "ŋɔn˧˦ taj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "finger (extremity of the hand)",
+    "example": ""
+  },
+  "giá trị": {
+    "ok": true,
+    "ipa": "zaː˧˦ t͡ɕi˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "value, worth",
+    "example": "hợp đồng đã hết giá trị"
+  },
+  "ngành công nghiệp": {
+    "ok": false,
+    "reason": "404"
+  },
+  "cuộc chiến": {
+    "ok": true,
+    "ipa": "kuək̚˧˨ʔ t͡ɕiən˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "war; fight; battle",
+    "example": "cuộc chiến giành giật thị trường"
+  },
+  "lời nói dối": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đánh bại": {
+    "ok": true,
+    "ipa": "ʔɗajŋ̟˧˦ ʔɓaːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to defeat",
+    "example": "Đánh bại cuộc chiến tranh xâm lược."
+  },
+  "kích thích": {
+    "ok": true,
+    "ipa": "kïk̟̚˧˦ tʰïk̟̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to stimulate; to incite; to excite",
+    "example": "mùi thơm kích thích các giác quan"
+  },
+  "tự nhiên": {
+    "ok": true,
+    "ipa": "tɨ˧˨ʔ ɲiən˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "自然"
+    ],
+    "en": "nature",
+    "example": "Quy luật của tự nhiên."
+  },
+  "vốn": {
+    "ok": true,
+    "ipa": "von˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "capital; funds (liquid money that can be used for funding or investment)",
+    "example": "Các doanh nghiệp có vốn đầu tư nước ngoài (PVKhải)"
+  },
+  "ghế": {
+    "ok": true,
+    "ipa": "ɣe˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "seat (A piece of furniture made for sitting)",
+    "example": "được cất nhắc vào ghế chủ tịch"
+  },
+  "trái cây": {
+    "ok": true,
+    "ipa": "t͡ɕaːj˧˦ kəj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "fruits",
+    "example": "Giỏ trái cây."
+  },
+  "nguy hiểm": {
+    "ok": true,
+    "ipa": "ŋwi˧˧ hiəm˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "dangerous; hazardous",
+    "example": "Kẻ thù nguy hiểm."
+  },
+  "sẽ không": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ý nghĩa": {
+    "ok": true,
+    "ipa": "ʔi˧˦ ŋiə˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "meaning (symbolic value of something)",
+    "example": "Bài thơ có ý nghĩa châm biếm."
+  },
+  "dày": {
+    "ok": true,
+    "ipa": "zaj˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "thick, deep, dense",
+    "example": "quyển sách dày 100 trang"
+  },
+  "giàu": {
+    "ok": true,
+    "ipa": "zaw˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "rich; affluent; wealthy",
+    "example": "Nhà giàu."
+  },
+  "quá trình": {
+    "ok": true,
+    "ipa": "kwaː˧˦ t͡ɕïŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "process",
+    "example": "Quá trình xây dựng xã hội xã hội chủ nghĩa."
+  },
+  "người lính": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hoạt động": {
+    "ok": true,
+    "ipa": "hwaːt̚˧˨ʔ ʔɗəwŋ͡m˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "activity, event",
+    "example": "ngày ấy, ông hoạt động bí mật trong lòng địch"
+  },
+  "riêng biệt": {
+    "ok": true,
+    "ipa": "ziəŋ˧˧ ʔɓiət̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "special; distinct",
+    "example": "Đặc điểm riêng biệt."
+  },
+  "khó khăn": {
+    "ok": true,
+    "ipa": "xɔ˧˦ xan˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "difficult, hard",
+    "example": "Sức khỏe kém là một khó khăn cho công tác."
+  },
+  "xin vui lòng": {
+    "ok": false,
+    "reason": "404"
+  },
+  "trưa": {
+    "ok": true,
+    "ipa": "t͡ɕɨə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "noon, midday",
+    "example": "Mặt Trời lên cao nhất vào buổi trưa."
+  },
+  "bảo vệ": {
+    "ok": true,
+    "ipa": "ʔɓaːw˧˩ ve˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to protect",
+    "example": "các chiến sĩ đang bảo vệ đảo xa"
+  },
+  "thực hành": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˨ʔ hajŋ̟˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to practise",
+    "example": "đội cứu hoả đang thực hành chữa cháy tại một toà nhà của thành phố"
+  },
+  "cây trồng": {
+    "ok": true,
+    "ipa": "kəj˧˧ t͡ɕəwŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cultivated crops",
+    "example": "Lựa chọn giống cây trồng."
+  },
+  "hiện đại": {
+    "ok": true,
+    "ipa": "hiən˧˨ʔ ʔɗaːj˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "modern",
+    "example": "Nền văn học hiện đại"
+  },
+  "sinh viên": {
+    "ok": true,
+    "ipa": "sïŋ˧˧ viən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a postsecondary/undergraduate student",
+    "example": "Phải làm cho sinh viên, học sinh nắm được những kiến thức hiện đại nhất."
+  },
+  "nhấn": {
+    "ok": true,
+    "ipa": "ɲən˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to press (on)",
+    "example": "Nhấn phím đàn."
+  },
+  "góc": {
+    "ok": true,
+    "ipa": "ɣawk͡p̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a corner (space in the angle between converging lines or walls)",
+    "example": "tổng các góc trong một tam giác là 180°"
+  },
+  "cung cấp": {
+    "ok": true,
+    "ipa": "kʊwŋ͡m˧˧ kəp̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to supply; to provide",
+    "example": "chính phủ cung cấp lương thực cho đồng bào bị lũ lụt"
+  },
+  "xác định vị trí": {
+    "ok": false,
+    "reason": "404"
+  },
+  "yếu tố": {
+    "ok": true,
+    "ipa": "ʔiəw˧˦ to˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "factor, element",
+    "example": "yếu tố con người quyết định sự phát triển của xã hội"
+  },
+  "vòng": {
+    "ok": true,
+    "ipa": "vawŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "circle; ring",
+    "example": "dạo một vòng quanh phố"
+  },
+  "nhân vật": {
+    "ok": true,
+    "ipa": "ɲən˧˧ vət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a figure (person)",
+    "example": "một nhân vật quan trọng"
+  },
+  "chỉ ra": {
+    "ok": false,
+    "reason": "404"
+  },
+  "con người": {
+    "ok": true,
+    "ipa": "kɔn˧˧ ŋɨəj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "human, human being",
+    "example": "Cuộc sống của con người."
+  },
+  "hiệu lực": {
+    "ok": true,
+    "ipa": "hiəw˧˨ʔ lɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "effect; efficacy",
+    "example": "lời nói của ông ta rất có hiệu lực"
+  },
+  "côn trùng": {
+    "ok": true,
+    "ipa": "kon˧˧ t͡ɕʊwŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an insect",
+    "example": "tiếng côn trùng kêu rả rích"
+  },
+  "nguyên tử": {
+    "ok": true,
+    "ipa": "ŋwiən˧˧ tɨ˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "原",
+      "子"
+    ],
+    "en": "an atom",
+    "example": "Nguyên tử oxi."
+  },
+  "lịch sử": {
+    "ok": true,
+    "ipa": "lïk̟̚˧˨ʔ sɨ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "history (aggregate of past events; school subject)",
+    "example": "Lịch sử thế giới."
+  },
+  "radio": {
+    "ok": true,
+    "ipa": "zaː˧˧ ɗi˧˧ o˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": "Ông tôi vẫn có thói quen nghe tin tức qua radio."
+  },
+  "mong đợi": {
+    "ok": true,
+    "ipa": "mawŋ͡m˧˧ ʔɗəːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to expect; to wait (for)",
+    "example": ""
+  },
+  "xương": {
+    "ok": true,
+    "ipa": "sɨəŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "骨"
+    ],
+    "en": "bone",
+    "example": "xương quạt"
+  },
+  "tưởng tượng": {
+    "ok": true,
+    "ipa": "tɨəŋ˧˩ tɨəŋ˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to imagine",
+    "example": "Nhà thơ, nhà tiểu thuyết giàu tưởng tượng"
+  },
+  "đường sắt": {
+    "ok": true,
+    "ipa": "ʔɗɨəŋ˨˩ sat̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "railroad; railway",
+    "example": "cải tạo hệ thống đường sắt"
+  },
+  "do đó": {
+    "ok": true,
+    "ipa": "zɔ˧˧ ʔɗɔ˧˦",
+    "pos": "Phó từ",
+    "zh": [],
+    "en": "therefore; thus; hence; as a result; as such",
+    "example": ""
+  },
+  "nhẹ nhàng": {
+    "ok": true,
+    "ipa": "ɲɛ˧˨ʔ ɲaːŋ˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "light; gentle; soft",
+    "example": "tâm hồn nhẹ nhàng, khoan khoái"
+  },
+  "đồng ý": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˨˩ ʔi˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to agree, to consent",
+    "example": "Đồng ý cộng tác."
+  },
+  "người phụ nữ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "đội trưởng": {
+    "ok": true,
+    "ipa": "ʔɗoj˧˨ʔ t͡ɕɨəŋ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a captain (one of the athletes on a sports team designated to make decisions)",
+    "example": "đội trưởng đội bóng"
+  },
+  "cần thiết": {
+    "ok": true,
+    "ipa": "kən˨˩ tʰiət̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "necessary; essential, urgent need, urgent necessity",
+    "example": "Việc cần thiết."
+  },
+  "đoán": {
+    "ok": true,
+    "ipa": "ʔɗwaːn˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to guess; to predict; to surmise; to divine",
+    "example": "Cụ đoán tài lắm (Nguyễn Đình Thi)"
+  },
+  "sắc nét": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hàng xóm": {
+    "ok": true,
+    "ipa": "haːŋ˨˩ sɔm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "neighbour",
+    "example": "Người hàng xóm."
+  },
+  "cánh": {
+    "ok": true,
+    "ipa": "kajŋ̟˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wing",
+    "example": "máy bay cánh cụp cánh xoè"
+  },
+  "ngô": {
+    "ok": true,
+    "ipa": "ŋo˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "corn, maize",
+    "example": "Ông mãnh lúa ngô, bà cô đậu nành. (tục ngữ)"
+  },
+  "tạo": {
+    "ok": true,
+    "ipa": "taːw˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to create, to make, to form, to cause",
+    "example": "Con người tạo ra mọi thứ của cải vật chất."
+  },
+  "chuỗi": {
+    "ok": true,
+    "ipa": "t͡ɕuəj˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "chain, string, series",
+    "example": "một chuỗi tiền xu"
+  },
+  "bài thơ": {
+    "ok": true,
+    "ipa": "ʔɓaːj˨˩ tʰəː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "poem",
+    "example": "Tôi bắt đầu học thuộc lòng một số bài thơ của cụ Phan Bội Châu."
+  },
+  "rửa": {
+    "ok": true,
+    "ipa": "zɨə˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to wash something non-fabric and non-rice",
+    "example": "Rửa rau."
+  },
+  "chuông": {
+    "ok": true,
+    "ipa": "t͡ɕuəŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "钟",
+      "chung"
+    ],
+    "en": "a bell",
+    "example": "Đúc chuông."
+  },
+  "đám đông": {
+    "ok": true,
+    "ipa": "ʔɗaːm˧˦ ʔɗəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "crowd; mob",
+    "example": ""
+  },
+  "so sánh": {
+    "ok": true,
+    "ipa": "sɔ˧˧ sajŋ̟˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to compare",
+    "example": "Để gần mà so sánh, ta thấy đồng"
+  },
+  "phụ thuộc": {
+    "ok": true,
+    "ipa": "fu˧˨ʔ tʰuək̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to depend (on); to be dependent (on)",
+    "example": "Kinh tế phụ thuộc."
+  },
+  "thịt": {
+    "ok": true,
+    "ipa": "tʰit̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "human or animal flesh, especially meat, but mostly except fish and shellfish",
+    "example": "mẹ tôi thịt một con gà trống để đãi khách"
+  },
+  "chà": {
+    "ok": true,
+    "ipa": "t͡ɕaː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to rub, to cleanse",
+    "example": "thả chà"
+  },
+  "nổi tiếng": {
+    "ok": true,
+    "ipa": "noj˧˩ tiəŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "celebrated, illustrious, famous, well-known",
+    "example": "Nổi tiếng là tay ngang ngạnh"
+  },
+  "cảnh": {
+    "ok": true,
+    "ipa": "kajŋ̟˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "scenery; view; landscape",
+    "example": "Tiếng nhạc gõ cảnh vang khắp đình làng."
+  },
+  "mỏng": {
+    "ok": true,
+    "ipa": "mawŋ͡m˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "thin, slender, slim",
+    "example": "dàn mỏng lực lượng"
+  },
+  "đồng đô la": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ống": {
+    "ok": true,
+    "ipa": "ʔəwŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tube, pipe, duct",
+    "example": "Ở bầu thì tròn, ở ống thì dài. (tục ngữ)"
+  },
+  "sợ hãi": {
+    "ok": true,
+    "ipa": "səː˧˨ʔ haːj˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "scared, afraid",
+    "example": "Trời sấm sét, trẻ con sợ hãi."
+  },
+  "tam giác": {
+    "ok": true,
+    "ipa": "taːm˧˧ zaːk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "triangle",
+    "example": ""
+  },
+  "hành tinh": {
+    "ok": true,
+    "ipa": "hajŋ̟˨˩ tïŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a planet",
+    "example": "Trái Đất là một hành tinh nằm trong Hệ Mặt Trời"
+  },
+  "nhanh": {
+    "ok": true,
+    "ipa": "ɲajŋ̟˧˧",
+    "pos": "Tính từ",
+    "zh": [
+      "快"
+    ],
+    "en": "fast; quick",
+    "example": "Xe chạy nhanh."
+  },
+  "đồng hồ": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˨˩ ho˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a clock or watch",
+    "example": "Đồng hồ đeo tay."
+  },
+  "trưởng": {
+    "ok": true,
+    "ipa": "t͡ɕɨəŋ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "head; leader",
+    "example": "Anh ấy là trưởng phòng kinh doanh."
+  },
+  "nhập": {
+    "ok": true,
+    "ipa": "ɲəp̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to join (a group)",
+    "example": "Số nhập trội hơn số xuất."
+  },
+  "tươi": {
+    "ok": true,
+    "ipa": "tɨəj˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "fresh; new and untainted",
+    "example": "cả nhà được một bữa ăn tươi"
+  },
+  "thuộc địa": {
+    "ok": true,
+    "ipa": "tʰuək̚˧˨ʔ ʔɗiə˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "colony",
+    "example": ""
+  },
+  "tìm kiếm": {
+    "ok": true,
+    "ipa": "tim˨˩ kiəm˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to look for; to search (for); to seek",
+    "example": "Tìm kiếm tài liệu về khởi nghĩa Tây Sơn."
+  },
+  "cà vạt": {
+    "ok": true,
+    "ipa": "kaː˨˩ vaːt̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a necktie",
+    "example": "thắt cà vạt"
+  },
+  "súng": {
+    "ok": true,
+    "ipa": "sʊwŋ͡m˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "water lily",
+    "example": "Loài Súng sen"
+  },
+  "sa mạc": {
+    "ok": true,
+    "ipa": "saː˧˧ maːk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "沙漠"
+    ],
+    "en": "desert",
+    "example": "Sa mạc Sahara là vùng đất khô hạn và nóng bỏng nhất Trái Đất."
+  },
+  "thang máy": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˧ maj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "lift; elevator",
+    "example": "Sử dụng thang máy giúp việc di chuyển trong các toà nhà cao tầng trở nên thuận tiện."
+  },
+  "hiện tại": {
+    "ok": true,
+    "ipa": "hiən˧˨ʔ taːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "现在"
+    ],
+    "en": "the present",
+    "example": "Hiện tại đang ngay thực tại, đang xảy ra.Tiếp đến tương lai (Phạm Văn Đồng)"
+  },
+  "chủ": {
+    "ok": true,
+    "ipa": "t͡ɕu˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "boss; head; manager; master",
+    "example": "quan hệ giữa chủ và thợ"
+  },
+  "theo dõi": {
+    "ok": true,
+    "ipa": "tʰɛw˧˧ zɔj˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to keep an eye on; to keep track (of); to monitor; to watch",
+    "example": "Công an theo dõi tên lưu manh."
+  },
+  "bờ": {
+    "ok": true,
+    "ipa": "ʔɓəː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "shore, bank",
+    "example": "Ai mà nói dối cùng chồng thì trời giáng hạ cây hồng bờ ao. (ca dao)"
+  },
+  "in": {
+    "ok": true,
+    "ipa": "ʔin˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to print",
+    "example": "những kỉ niệm in sâu trong tâm trí tôi"
+  },
+  "tại chỗ": {
+    "ok": true,
+    "ipa": "taːj˧˨ʔ t͡ɕo˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "on the spot; immediate",
+    "example": "Mang hàng đến bán tại chỗ."
+  },
+  "phân chia": {
+    "ok": true,
+    "ipa": "fən˧˧ t͡ɕiə˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to divide, to split up",
+    "example": "người bố phân chia tài sản cho các con"
+  },
+  "ủng hộ": {
+    "ok": true,
+    "ipa": "ʔʊwŋ͡m˧˩ ho˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to support; to back",
+    "example": "Dân chúng không ủng hộ, việc gì làm cũng không nên (Hồ Chí Minh)"
+  },
+  "kết nối": {
+    "ok": true,
+    "ipa": "ket̚˧˦ noj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to connect, to link",
+    "example": "Kết nối Internet."
+  },
+  "tờ": {
+    "ok": true,
+    "ipa": "təː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sheet",
+    "example": "Tờ báo."
+  },
+  "hợp âm": {
+    "ok": true,
+    "ipa": "həːp̚˧˨ʔ ʔəm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "chord",
+    "example": "Tiếng hợp âm piano vang lên tạo nên một bầu không khí thật lãng mạn."
+  },
+  "chất": {
+    "ok": true,
+    "ipa": "t͡ɕət̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "substance; matter; material",
+    "example": "sự biến đổi về chất"
+  },
+  "bài": {
+    "ok": true,
+    "ipa": "ʔɓaːj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "card, playing card, card game",
+    "example": "Bài văn."
+  },
+  "chi tiêu": {
+    "ok": true,
+    "ipa": "t͡ɕi˧˧ tiəw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to spend; to pay out; to disburse",
+    "example": "chi tiêu một món tiền lớn"
+  },
+  "ban đầu": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˧ ʔɗəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "beginning; the get-go",
+    "example": "Ban đầu gặp nhiều khó khăn."
+  },
+  "chất béo": {
+    "ok": true,
+    "ipa": "t͡ɕət̚˧˦ ʔɓɛw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "fat; compare mỡ (“fat as part of flesh”)",
+    "example": "thức ăn có nhiều chất béo"
+  },
+  "chia sẻ": {
+    "ok": true,
+    "ipa": "t͡ɕiə˧˧ sɛ˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to share",
+    "example": "ban giám đốc chia sẻ một phần lợi nhuận cho nhân viên"
+  },
+  "trạm": {
+    "ok": true,
+    "ipa": "t͡ɕaːm˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "stop, station",
+    "example": "Trạm giao liên."
+  },
+  "phí": {
+    "ok": true,
+    "ipa": "fi˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to waste; to squander; to spend",
+    "example": "Dùng phí thì giờ."
+  },
+  "thích hợp": {
+    "ok": true,
+    "ipa": "tʰïk̟̚˧˦ həːp̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "suitable; matching; fitting",
+    "example": "Giải pháp thích hợp với đời sống tập thể."
+  },
+  "phân khúc": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bánh mì": {
+    "ok": true,
+    "ipa": "ʔɓajŋ̟˧˦ mi˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "三明治",
+      "tam",
+      "minh",
+      "trì"
+    ],
+    "en": "bread, especially Saigon-style short baguettes with filling",
+    "example": "Cửa hàng bán bánh mì."
+  },
+  "nô lệ": {
+    "ok": true,
+    "ipa": "no˧˧ le˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "a slave, especially a non-East-Asian one, forced into slavery for their ethnicity or social status",
+    "example": "sống nô lệ vào đồng tiền"
+  },
+  "ngay lập tức": {
+    "ok": true,
+    "ipa": "ŋaj˧˧ ləp̚˧˨ʔ tɨk̚˧˦",
+    "pos": "Trạng từ",
+    "zh": [],
+    "en": "immediately, posthaste",
+    "example": "đi ngay lập tức"
+  },
+  "thị trường": {
+    "ok": true,
+    "ipa": "tʰi˧˨ʔ t͡ɕɨəŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a market (geographical area where a commercial demand exists)",
+    "example": "Xưa thực dân Pháp định biến Đông Dương thành thị trường độc chiếm của chúng."
+  },
+  "mức độ": {
+    "ok": true,
+    "ipa": "mɨk̚˧˦ ʔɗo˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "level; degree",
+    "example": "Ăn tiêu có mức độ."
+  },
+  "vịt": {
+    "ok": true,
+    "ipa": "vit̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "duck (aquatic bird of the family Anatidae)",
+    "example": "Đàn vịt đang bơi lội tung tăng dưới ao sen và kêu cạp cạp."
+  },
+  "cư": {
+    "ok": true,
+    "ipa": "kɨ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "Sino-Vietnamese reading of 居",
+    "example": "Có an cư mới lập được nghiệp."
+  },
+  "gà": {
+    "ok": true,
+    "ipa": "ɣaː˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "鸡"
+    ],
+    "en": "chicken (bird)",
+    "example": "Bán gà ngày gió, bán chó ngày mưa. (tục ngữ)"
+  },
+  "thân yêu": {
+    "ok": true,
+    "ipa": "tʰən˧˧ ʔiəw˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "familiarly dear or beloved",
+    "example": "Nhật kí thân yêu,\nHôm nay hắn cứ nhìn trộm mình suốt cả buổi học."
+  },
+  "kẻ thù": {
+    "ok": true,
+    "ipa": "kɛ˧˩ tʰu˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "enemy; foe",
+    "example": "Kẻ thù xâm lược."
+  },
+  "ly": {
+    "ok": true,
+    "ipa": "li˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cup; glass",
+    "example": "Sai mộl ly đi một dặm. (tục ngữ)"
+  },
+  "bài phát biểu": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hỗ trợ": {
+    "ok": true,
+    "ipa": "ho˦ˀ˥ t͡ɕəː˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to help each other; to support",
+    "example": "Hỗ trợ bạn bè, hỗ trợ cho đồng đội kịp thời."
+  },
+  "phạm vi": {
+    "ok": true,
+    "ipa": "faːm˧˨ʔ vi˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "范围"
+    ],
+    "en": "range; scope; realm; extent",
+    "example": "Phạm vi nghiên cứu của khoa học xã hội rất lớn (Phạm Văn Đồng)"
+  },
+  "trả lời": {
+    "ok": true,
+    "ipa": "t͡ɕaː˧˩ ləːj˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to answer; to reply; to respond",
+    "example": "Hỏi câu nào, trả lời câu ấy."
+  },
+  "chuyển động": {
+    "ok": true,
+    "ipa": "t͡ɕwiən˧˩ ʔɗəwŋ͡m˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to move",
+    "example": "động cơ chuyển động ầm ầm"
+  },
+  "thiên nhiên": {
+    "ok": true,
+    "ipa": "tʰiən˧˧ ɲiən˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "天然"
+    ],
+    "en": "nature",
+    "example": "Cảnh thiên nhiên tươi đẹp."
+  },
+  "hơi nước": {
+    "ok": true,
+    "ipa": "həːj˧˧ nɨək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "water vapour; steam",
+    "example": ""
+  },
+  "con đường": {
+    "ok": true,
+    "ipa": "kɔn˧˧ ɗɨə̤ŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": "Con đường đi ra chợ."
+  },
+  "chất lỏng": {
+    "ok": true,
+    "ipa": "t͡ɕət̚˧˦ lawŋ͡m˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a liquid; fluid; solution",
+    "example": ""
+  },
+  "đăng nhập": {
+    "ok": true,
+    "ipa": "ʔɗaŋ˧˧ ɲəp̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to log in, to sign in",
+    "example": "tôi đã đăng nhập mật khẩu"
+  },
+  "răng": {
+    "ok": true,
+    "ipa": "zaŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tooth",
+    "example": "Chân răng kẽ tóc."
+  },
+  "vỏ": {
+    "ok": true,
+    "ipa": "vɔ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cover, bark, shell, sheath, husk, skin, peel, pot, crust",
+    "example": "thay vỏ xe"
+  },
+  "oxy": {
+    "ok": true,
+    "ipa": "əwk˧˥ si˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "alternative spelling of oxi (“oxygen”) (chemical element)",
+    "example": ""
+  },
+  "cổ": {
+    "ok": true,
+    "ipa": "ko˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "neck",
+    "example": "Khăn quàng cổ."
+  },
+  "thương": {
+    "ok": true,
+    "ipa": "tʰɨəŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "long-handled spear",
+    "example": "Chàng dũng sĩ cầm ngọn thương dài xông pha giữa trận mạc."
+  },
+  "mùa": {
+    "ok": true,
+    "ipa": "muə˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "season",
+    "example": "Bốn mùa xuân hạ thu đông."
+  },
+  "kỹ năng": {
+    "ok": true,
+    "ipa": "ki˦ˀ˥ naŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "technical skill",
+    "example": ""
+  },
+  "giải pháp": {
+    "ok": true,
+    "ipa": "zaːj˧˩ faːp̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "solution (to a problem)",
+    "example": "Mười điều giải pháp vừa công bố chấn động năm châu một lập trường (Sóng hồng)"
+  },
+  "nam châm": {
+    "ok": true,
+    "ipa": "naːm˧˧ t͡ɕəm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a magnet (piece of material that attracts some metals by magnetism)",
+    "example": "Nam châm điện."
+  },
+  "bạc": {
+    "ok": true,
+    "ipa": "ʔɓaːk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "silver",
+    "example": "đồng bạc trắng"
+  },
+  "chi nhánh": {
+    "ok": true,
+    "ipa": "t͡ɕi˧˧ ɲajŋ̟˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tributary (of a river)",
+    "example": "công ti mới mở thêm chi nhánh"
+  },
+  "cảm ơn": {
+    "ok": true,
+    "ipa": "kaːm˧˩ ʔəːn˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "alternative form of cám ơn (“thank you”)",
+    "example": "Nói lời cảm ơn khi nhận được sự giúp đỡ."
+  },
+  "đặc biệt là": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hậu tố": {
+    "ok": true,
+    "ipa": "həw˧˨ʔ to˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "suffix",
+    "example": "Ful là hậu tố của từ tiếng Anh beautiful."
+  },
+  "trận đấu": {
+    "ok": true,
+    "ipa": "t͡ɕən˧˨ʔ ʔɗəw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a match; competition",
+    "example": "Trận đấu quốc tế"
+  },
+  "to": {
+    "ok": true,
+    "ipa": "tɔ˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "big, large",
+    "example": "Nhà to."
+  },
+  "em gái": {
+    "ok": true,
+    "ipa": "ʔɛm˧˧ ɣaːj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "younger sister",
+    "example": "Cô ấy là em gái bạn tôi."
+  },
+  "sung": {
+    "ok": true,
+    "ipa": "sʊwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sycamore, fig",
+    "example": "lòng vả cũng như lòng sung (tng)"
+  },
+  "thép": {
+    "ok": true,
+    "ipa": "tʰɛp̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "steel",
+    "example": "Luyện thép."
+  },
+  "thảo luận": {
+    "ok": true,
+    "ipa": "tʰaːw˧˩ lwən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to discuss",
+    "example": "Thảo luận kế hoạch công tác."
+  },
+  "về phía trước": {
+    "ok": false,
+    "reason": "404"
+  },
+  "hướng dẫn": {
+    "ok": true,
+    "ipa": "hɨəŋ˧˦ zən˦ˀ˥",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to guide; to lead",
+    "example": "cô giáo đang hướng dẫn học sinh làm bài tập"
+  },
+  "kinh nghiệm": {
+    "ok": true,
+    "ipa": "kïŋ˧˧ ŋiəm˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "experience (collection of events and/or activities from which an individual or group may gather knowledge; the knowledge thus gathered)",
+    "example": "Có kinh nghiệm mà không có lí luận, cũng như một mắt sáng, một mắt mờ (Hồ Chí Minh)"
+  },
+  "táo": {
+    "ok": true,
+    "ipa": "taːw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "apple",
+    "example": "Quả táo chín đỏ treo lủng lẳng trên cành cây."
+  },
+  "áo": {
+    "ok": true,
+    "ipa": "ʔaːw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "top",
+    "example": "Tráng một lớp áo men lên bề mặt bình gốm."
+  },
+  "khối lượng": {
+    "ok": true,
+    "ipa": "xoj˧˦ lɨəŋ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "weight",
+    "example": "Khối lượng của một túi bột giặt là 2 ki-lô-gam."
+  },
+  "tương tự": {
+    "ok": true,
+    "ipa": "tɨəŋ˧˧ tɨ˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "similar to, alike to",
+    "example": "Hạt mứt lạc tương tự cái trứng chim bồ câu."
+  },
+  "thẻ": {
+    "ok": true,
+    "ipa": "tʰɛ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "stick used in the traditional game of pitch-pot",
+    "example": "Người xưa chưa biết dùng giấy, viết trên thẻ tre."
+  },
+  "trượt": {
+    "ok": true,
+    "ipa": "t͡ɕɨət̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to slip",
+    "example": "Trượt vấn đáp."
+  },
+  "buổi tối": {
+    "ok": true,
+    "ipa": "ʔɓuəj˧˩ toj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "evening",
+    "example": ""
+  },
+  "giành chiến thắng": {
+    "ok": false,
+    "reason": "404"
+  },
+  "mơ": {
+    "ok": true,
+    "ipa": "məː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to dream",
+    "example": "hấp trứng gà với lá mơ"
+  },
+  "điều kiện": {
+    "ok": true,
+    "ipa": "ʔɗiəw˨˩ kiən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "状况"
+    ],
+    "en": "condition, terms",
+    "example": ""
+  },
+  "ban nhạc": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˧ ɲaːk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "band (a group of musicians)",
+    "example": "ban nhạc rock"
+  },
+  "thức ăn chăn nuôi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "công cụ": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ ku˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tool",
+    "example": "công cụ sản xuất"
+  },
+  "cơ bản": {
+    "ok": true,
+    "ipa": "kəː˧˧ ʔɓaːn˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "basic; essential; fundamental",
+    "example": "Sản xuất ra của cải vật chất ngày càng nhiều là một vấn đề cơ bản (Trường Chinh)"
+  },
+  "tổng số": {
+    "ok": true,
+    "ipa": "təwŋ͡m˧˩ so˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "total amount; total",
+    "example": "Tổng số học sinh của trường."
+  },
+  "cũng không": {
+    "ok": false,
+    "reason": "404"
+  },
+  "thung lũng": {
+    "ok": true,
+    "ipa": "tʰʊwŋ͡m˧˧ lʊwŋ͡m˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a valley",
+    "example": "bản làng nằm lọt trong thung lũng"
+  },
+  "tiếp tục": {
+    "ok": true,
+    "ipa": "tiəp̚˧˦ tʊwk͡p̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to continue; to keep on",
+    "example": "Nghỉ một lát lại tiếp tục làm."
+  },
+  "khối": {
+    "ok": true,
+    "ipa": "xoj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "block; mass; piece",
+    "example": "đơn vị đo thể tích là mét khối (m³)"
+  },
+  "mũ": {
+    "ok": true,
+    "ipa": "mu˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "hat; cap; helmet",
+    "example": "a mũ 3 (a³)"
+  },
+  "mùi": {
+    "ok": true,
+    "ipa": "muj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "smell; odor; scent",
+    "example": "ăn cho biết mùi"
+  },
+  "biểu đồ": {
+    "ok": true,
+    "ipa": "ʔɓiəw˧˩ ʔɗo˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a diagram (graph or chart)",
+    "example": "Biểu đồ hình bánh này thể hiện thị phần của các hãng xe hơi trên thị trường."
+  },
+  "thành công": {
+    "ok": true,
+    "ipa": "tʰajŋ̟˨˩ kəwŋ͡m˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to succeed",
+    "example": "Thí nghiệm thành công."
+  },
+  "công ty": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ ti˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "公司",
+      "công ti"
+    ],
+    "en": "Alternative spelling of công ti.",
+    "example": "lập công ty"
+  },
+  "bán": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "half-; semi-; hemi-",
+    "example": "nó bán cả danh dự"
+  },
+  "sự kiện": {
+    "ok": true,
+    "ipa": "sɨ˧˨ʔ kiən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an event",
+    "example": "Cách mạng tháng Tám là một sự kiện lịch sử lớn."
+  },
+  "thỏa thuận": {
+    "ok": true,
+    "ipa": "tʰwaː˧˩ tʰwən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to agree (to something); to consent (to something); to come to an agreement",
+    "example": "Kẻ mua người bán đã thỏa thuận về giá cả."
+  },
+  "bơi": {
+    "ok": true,
+    "ipa": "ʔɓəːj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to swim (move through water)",
+    "example": "tôi đang bơi trong đống giấy tờ"
+  },
+  "vợ": {
+    "ok": true,
+    "ipa": "vəː˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "wife",
+    "example": "Cưới vợ."
+  },
+  "hạn": {
+    "ok": true,
+    "ipa": "haːn˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "drought; dryness",
+    "example": "hạn ba ngày phải làm xong"
+  },
+  "ngược lại": {
+    "ok": true,
+    "ipa": "ŋɨək̚˧˨ʔ laːj˧˨ʔ",
+    "pos": "Từ phụ trợ / khác",
+    "zh": [],
+    "en": "on the contrary; conversely; instead",
+    "example": "đã không phạt, ngược lại còn trọng thưởng"
+  },
+  "vai": {
+    "ok": true,
+    "ipa": "vaːj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "肩膀",
+      "等级",
+      "级别",
+      "阶层"
+    ],
+    "en": "shoulder",
+    "example": "áo sờn vai"
+  },
+  "giày": {
+    "ok": true,
+    "ipa": "zaj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a non-sock, non-stockings piece of footwear that gives full coverage to the foot; a shoe, a boot, etc.",
+    "example": "Giày da."
+  },
+  "lây lan": {
+    "ok": true,
+    "ipa": "ləj˧˧ laːn˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to spread",
+    "example": ""
+  },
+  "phát minh": {
+    "ok": true,
+    "ipa": "faːt̚˧˦ mïŋ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to invent",
+    "example": "ông phát minh ra máy chạy bằng năng lượng"
+  },
+  "bông": {
+    "ok": true,
+    "ipa": "ʔɓəwŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "花"
+    ],
+    "en": "bloom; flower",
+    "example": "Ruộng bông."
+  },
+  "trại": {
+    "ok": true,
+    "ipa": "t͡ɕaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "barrack; outpost",
+    "example": "''hoàng'' nói trại thành ''huỳnh''"
+  },
+  "sắp xếp": {
+    "ok": true,
+    "ipa": "sap̚˧˦ sep̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to arrange, to organize",
+    "example": "Sắp xếp công việc."
+  },
+  "xác định": {
+    "ok": true,
+    "ipa": "saːk̚˧˦ ʔɗïŋ˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "to decide, to determine",
+    "example": "Các thành viên trong đội bóng đã xác định được vai trò của mình."
+  },
+  "chín": {
+    "ok": true,
+    "ipa": "t͡ɕin˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "nine",
+    "example": "lứa tằm vừa chín"
+  },
+  "sinh": {
+    "ok": true,
+    "ipa": "sïŋ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to produce; to yield",
+    "example": "Sinh rằng: Phác họa vừa rồi, phẩm đề xin một vài lời thêm hoa (Truyện Kiều)."
+  },
+  "lít": {
+    "ok": true,
+    "ipa": "lit̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "liter/litre",
+    "example": "Một lít nước."
+  },
+  "xe tải": {
+    "ok": true,
+    "ipa": "sɛ˧˧ taːj˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "truck/lorry",
+    "example": ""
+  },
+  "cơ hội": {
+    "ok": true,
+    "ipa": "kəː˧˧ hoj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "opportunity",
+    "example": "Chúng ta có cơ hội để xây dựng lại nước nhà. (Hồ Chí Minh)"
+  },
+  "căng ra": {
+    "ok": false,
+    "reason": "404"
+  },
+  "ném": {
+    "ok": true,
+    "ipa": "nɛm˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to throw, fling, cast, chuck",
+    "example": "Ném lựu đạn."
+  },
+  "tỏa sáng": {
+    "ok": true,
+    "ipa": "twaː˧˩ saːŋ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "alternative spelling of toả sáng",
+    "example": "Hạnh phúc sẽ tỏa sáng trong gia đình không có bạo lực."
+  },
+  "tài sản": {
+    "ok": true,
+    "ipa": "taːj˨˩ saːn˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "財産"
+    ],
+    "en": "property; assets; wealth",
+    "example": "Bảo vệ tài sản của nhân dân."
+  },
+  "tiếng ồn": {
+    "ok": true,
+    "ipa": "tiəŋ˧˦ ʔon˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "noise",
+    "example": ""
+  },
+  "mức": {
+    "ok": true,
+    "ipa": "mɨk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "level; degree; extent; measure; standard",
+    "example": "Người thợ dùng gỗ cây mức để khắc những con dấu triện tinh xảo."
+  },
+  "cột": {
+    "ok": true,
+    "ipa": "kot̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "pillar, column, pole",
+    "example": "con cái đã cột chặt cô vào công việc gia đình"
+  },
+  "phân tử": {
+    "ok": true,
+    "ipa": "fən˧˧ tɨ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a molecule",
+    "example": "Mỗi phân tử nước được cấu tạo từ hai nguyên tử hydrogen và một nguyên tử oxygen."
+  },
+  "sai": {
+    "ok": true,
+    "ipa": "saːj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "not right, correct or proper; wrong, incorrect, improper, inaccurate, imprecise, erroneous, etc.",
+    "example": "xương bị sai khớp"
+  },
+  "màu xám": {
+    "ok": false,
+    "reason": "404"
+  },
+  "chuẩn bị": {
+    "ok": true,
+    "ipa": "t͡ɕwən˧˩ ʔɓi˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to prepare",
+    "example": "Chuẩn bị lên đường."
+  },
+  "lặp lại": {
+    "ok": true,
+    "ipa": "lap̚˧˨ʔ laːj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "repeat; redo; reiterate",
+    "example": "lặp đi lặp lại"
+  },
+  "muối": {
+    "ok": true,
+    "ipa": "muəj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "salt (sodium chloride)",
+    "example": "\"Muối ba năm muối hãy còn mặn, Gừng chín tháng gừng hãy còn cay.\" (Cdao)"
+  },
+  "mui": {
+    "ok": true,
+    "ipa": "muj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "covering roof (for car, boat, etc.); hood",
+    "example": "Mui xe cụp xuống (Nguyên Hồng)"
+  },
+  "yêu cầu": {
+    "ok": true,
+    "ipa": "ʔiəw˧˧ kəw˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to demand",
+    "example": "Đối với tác phẩm phải là yêu cầu cao về tư tưởng, yêu cầu về nghệ thuật (Phạm Văn Đồng)"
+  },
+  "số nhiều": {
+    "ok": true,
+    "ipa": "so˧˦ ɲiəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the plural",
+    "example": "danh từ số nhiều trong tiếng Anh"
+  },
+  "tức giận": {
+    "ok": true,
+    "ipa": "tɨk̚˧˦ zən˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to be angry; to be furious",
+    "example": "nó đang tức giận"
+  },
+  "lục": {
+    "ok": true,
+    "ipa": "lʊwk͡p̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "green",
+    "example": "Phẩm lục."
+  },
+  "nghìn": {
+    "ok": true,
+    "ipa": "ŋin˨˩",
+    "pos": "Lượng từ",
+    "zh": [],
+    "en": "thousand",
+    "example": "Sáng mẹ cho 5 nghìn, chiều mẹ cho 5 nghìn nữa là 10 nghìn."
+  },
+  "thứ nhất": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ ɲət̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "first",
+    "example": ""
+  },
+  "thứ năm": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ nam˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "fifth",
+    "example": "Mọi người hối hả chuẩn bị cho buổi họp quan trọng sẽ diễn ra vào sáng thứ năm tới."
+  },
+  "thứ sáu": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ saw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sixth",
+    "example": "Cả văn phòng cùng nhau đi ăn liên hoan vào ngày thứ sáu cuối tuần."
+  },
+  "thứ tư": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ tɨ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "fourth",
+    "example": ""
+  },
+  "thứ bảy": {
+    "ok": true,
+    "ipa": "tʰɨ˧˦ ʔɓaj˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "Saturday",
+    "example": ""
+  },
+  "chủ nhật": {
+    "ok": true,
+    "ipa": "t͡ɕu˧˩ ɲət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "星期日"
+    ],
+    "en": "alternative letter-case form of chủ nhật",
+    "example": "Chủ nhật cả nhà đều vui vì bé ngoan suốt tuần."
+  },
+  "tháng hai": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ haːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "February (second month of the Gregorian calendar)",
+    "example": ""
+  },
+  "tháng tư": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ tɨ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "April",
+    "example": ""
+  },
+  "tháng sáu": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ saw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "June",
+    "example": ""
+  },
+  "tháng giêng": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ ziəŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "the first lunar month of a year",
+    "example": "Tháng giêng là tháng ăn chơi."
+  },
+  "tháng năm": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ nam˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "May",
+    "example": "Tháng năm chưa nằm đã sáng, tháng mười chưa cười đã tối. (tục ngữ)"
+  },
+  "tháng tám": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ taːm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "August",
+    "example": ""
+  },
+  "tháng ba": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ ʔɓaː˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "三月",
+      "tam",
+      "nguyệt"
+    ],
+    "en": "March (third month of the Gregorian calendar)",
+    "example": "\"Thanh minh trong tiết tháng Ba.\nLễ là tảo mộ hội là đạp thanh\""
+  },
+  "tháng bảy": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ ʔɓaj˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "七月"
+    ],
+    "en": "July (seventh month of the Gregorian calendar)",
+    "example": ""
+  },
+  "tháng chín": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ t͡ɕin˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "September",
+    "example": ""
+  },
+  "tháng mười": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ mɨəj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "October",
+    "example": ""
+  },
+  "bố": {
+    "ok": true,
+    "ipa": "ʔɓo˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "father",
+    "example": "lựa chọn cá bố, cá mẹ"
+  },
+  "tháng mười một": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ mɨəj˨˩ mot̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "November",
+    "example": ""
+  },
+  "bố mẹ": {
+    "ok": true,
+    "ipa": "ʔɓo˧˦ mɛ˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "parents",
+    "example": "Bố mẹ luôn lo lắng cho con cái."
+  },
+  "chị gái": {
+    "ok": true,
+    "ipa": "t͡ɕi˧˨ʔ ɣaːj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "elder sister",
+    "example": "quý chị dâu như chị gái"
+  },
+  "em trai": {
+    "ok": true,
+    "ipa": "ʔɛm˧˧ t͡ɕaːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "younger brother",
+    "example": "Em trai tôi đang học lớp mười."
+  },
+  "tháng mười hai": {
+    "ok": true,
+    "ipa": "tʰaːŋ˧˦ mɨəj˨˩ haːj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "December",
+    "example": ""
+  },
+  "bà nội": {
+    "ok": true,
+    "ipa": "ʔɓaː˨˩ noj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a paternal grandmother",
+    "example": "Sang nhà bà nội ăn cơm."
+  },
+  "ông ngoại": {
+    "ok": true,
+    "ipa": "ʔəwŋ͡m˧˧ ŋwaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "maternal grandfather",
+    "example": "Về quê ngoại thăm ông ngoại, bà ngoại."
+  },
+  "bà ngoại": {
+    "ok": true,
+    "ipa": "ʔɓaː˨˩ ŋwaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "maternal grandmother",
+    "example": "Tết sang thăm bà ngoại."
+  },
+  "chồng": {
+    "ok": true,
+    "ipa": "t͡ɕəwŋ͡m˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "husband",
+    "example": "Chuyện chồng con."
+  },
+  "con gái": {
+    "ok": true,
+    "ipa": "kɔn˧˧ ɣaːj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "girl (young female)",
+    "example": "lúa đang thì con gái"
+  },
+  "chú": {
+    "ok": true,
+    "ipa": "t͡ɕu˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "paternal uncle, father's younger brother",
+    "example": "chị báo cho chú biết tin này"
+  },
+  "ông nội": {
+    "ok": true,
+    "ipa": "ʔəwŋ͡m˧˧ noj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a sarcastic way of addressing a young boy or man who you're annoyed with",
+    "example": "Về quê thăm ông nội."
+  },
+  "cháu": {
+    "ok": true,
+    "ipa": "t͡ɕaw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "grandchild",
+    "example": "anh chị được mấy cháu?"
+  },
+  "bác": {
+    "ok": true,
+    "ipa": "ʔɓaːk̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an older adult; senior; elder",
+    "example": "Anh ấy là bác cả trong gia đình."
+  },
+  "dì": {
+    "ok": true,
+    "ipa": "zi˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "maternal aunt, mother's sister",
+    "example": "sẩy cha còn chú, sẩy mẹ bú dì (tng)"
+  },
+  "mợ": {
+    "ok": true,
+    "ipa": "məː˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "maternal aunt-in-law, mother's younger brother's wife",
+    "example": "Mợ tôi nấu món canh chua cá lóc vô cùng thơm ngon và hấp dẫn."
+  },
+  "chị họ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "em họ": {
+    "ok": true,
+    "ipa": "ɛm˧˧ hɔ̰ʔ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": "Cô ta là em họ nhưng chúng tôi xem như là em ruột."
+  },
+  "cậu": {
+    "ok": true,
+    "ipa": "kəw˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a maternal uncle (mother's brother)",
+    "example": "Cậu tôi là một kỹ sư xây dựng rất giỏi."
+  },
+  "anh họ": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bạn": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a friend, mate, buddy, ally, etc.",
+    "example": "Bạn nghèo với nhau."
+  },
+  "bạn bè": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˨ʔ ʔɓɛ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "friends (generally speaking)",
+    "example": "nó bạn bè với bọn lưu manh"
+  },
+  "sếp": {
+    "ok": true,
+    "ipa": "sep̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "chief; boss",
+    "example": "Sếp cứ đùa hoài!"
+  },
+  "nhân viên": {
+    "ok": true,
+    "ipa": "ɲən˧˧ viən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an employee",
+    "example": "nhân viên đánh máy bậc 2"
+  },
+  "người yêu": {
+    "ok": true,
+    "ipa": "ŋɨəj˨˩ ʔiəw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "non-marital romantic partner",
+    "example": "người yêu cũ"
+  },
+  "học sinh": {
+    "ok": true,
+    "ipa": "hawk͡p̚˧˨ʔ sïŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "學生"
+    ],
+    "en": "a student",
+    "example": "Học sinh trung học."
+  },
+  "kỹ sư": {
+    "ok": true,
+    "ipa": "ki˦ˀ˥ sɨ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an engineer",
+    "example": ""
+  },
+  "công nhân": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ ɲən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "blue-collar worker",
+    "example": "Công nhân khai thác khoáng sản."
+  },
+  "đồng nghiệp": {
+    "ok": true,
+    "ipa": "ʔɗəwŋ͡m˨˩ ŋiəp̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "working together",
+    "example": "bạn đồng nghiệp"
+  },
+  "y tá": {
+    "ok": true,
+    "ipa": "ʔi˧˧ taː˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a medical assistant",
+    "example": "Y tá đang cẩn thận thay băng cho bệnh nhân theo chỉ định của bác sĩ."
+  },
+  "tài xế": {
+    "ok": true,
+    "ipa": "taːj˨˩ se˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "driver; chauffeur",
+    "example": "tài xế ô tô"
+  },
+  "cảnh sát": {
+    "ok": true,
+    "ipa": "kajŋ̟˧˩ saːt̚˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "警",
+      "警察"
+    ],
+    "en": "the police",
+    "example": "Cảnh sát giao thông."
+  },
+  "luật sư": {
+    "ok": true,
+    "ipa": "lwət̚˧˨ʔ sɨ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a lawyer",
+    "example": ""
+  },
+  "thư ký": {
+    "ok": true,
+    "ipa": "tʰɨ˧˧ ki˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a non-communist secretary",
+    "example": ""
+  },
+  "ca sĩ": {
+    "ok": true,
+    "ipa": "kaː˧˧ si˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a singer (person who sings)",
+    "example": ""
+  },
+  "kế toán": {
+    "ok": true,
+    "ipa": "ke˧˦ twaːn˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "accounting",
+    "example": "tuyển kế toán"
+  },
+  "đầu bếp": {
+    "ok": true,
+    "ipa": "ʔɗəw˨˩ ʔɓep̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cook (person)",
+    "example": "tuyển đầu bếp"
+  },
+  "nông dân": {
+    "ok": true,
+    "ipa": "nəwŋ͡m˧˧ zən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a peasant (member of the agriculture low class)",
+    "example": ""
+  },
+  "diễn viên": {
+    "ok": true,
+    "ipa": "ziən˦ˀ˥ viən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "an actor (person who performs in a theatrical play or film)",
+    "example": "Diễn viên điện ảnh."
+  },
+  "nhà văn": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ van˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "writer",
+    "example": "Hội nhà văn"
+  },
+  "nhà báo": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ ʔɓaːw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a journalist",
+    "example": "Vị nhà báo tận tâm đang tác nghiệp tại vùng lũ lụt."
+  },
+  "mặt": {
+    "ok": true,
+    "ipa": "mat̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "face (geometry: bounding surface of a polyhedron)",
+    "example": "Mặt mụ ta dài như mặt ngựa."
+  },
+  "tóc": {
+    "ok": true,
+    "ipa": "tawk͡p̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "headhair",
+    "example": "bóng đèn đứt tóc"
+  },
+  "mũi": {
+    "ok": true,
+    "ipa": "muj˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "prow, bow",
+    "example": "Phát hiện có mũi lẫn trong phân là dấu hiệu cảnh báo bệnh đường ruột."
+  },
+  "bụng": {
+    "ok": true,
+    "ipa": "ʔɓʊwŋ͡m˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "belly",
+    "example": "Bụng no tròn ."
+  },
+  "lưỡi": {
+    "ok": true,
+    "ipa": "lɨəj˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [
+      "舌"
+    ],
+    "en": "tongue",
+    "example": "Lưỡi không xương lắm đường lắt léo. (tục ngữ)"
+  },
+  "lưng": {
+    "ok": true,
+    "ipa": "lɨŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "back (the rear of the body)",
+    "example": "nhét lựu đạn ở lưng quần"
+  },
+  "ngực": {
+    "ok": true,
+    "ipa": "ŋɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "chest",
+    "example": "thẩm mĩ nâng ngực"
+  },
+  "cơm": {
+    "ok": true,
+    "ipa": "kəːm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cooked non-glutinous rice",
+    "example": "khế cơm"
+  },
+  "phở": {
+    "ok": true,
+    "ipa": "fəː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "pho (a soup made with bánh phở noodles, usually served with beef, pork, or chicken, similar to ramen).",
+    "example": "Có lẽ đánh bạc không mong được, mà chỉ thức đêm ăn nhục-phở?"
+  },
+  "bún": {
+    "ok": true,
+    "ipa": "ʔɓun˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "rice vermicelli",
+    "example": "Mềm như bún. (tục ngữ)"
+  },
+  "rau": {
+    "ok": true,
+    "ipa": "zaw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "leafy greens, leaf vegetable",
+    "example": "Nhau thai (rau) cung cấp dưỡng chất thiết yếu cho thai nhi phát triển."
+  },
+  "quả": {
+    "ok": true,
+    "ipa": "kwaː˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "piece of fruit",
+    "example": "quan hệ nhân quả"
+  },
+  "cà phê": {
+    "ok": true,
+    "ipa": "kaː˨˩ fe˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "coffee",
+    "example": "trồng cà phê"
+  },
+  "cháo": {
+    "ok": true,
+    "ipa": "t͡ɕaːw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "rice congee; rice porridge",
+    "example": "Ăn một bát cháo chạy ba quãng đồng. (tục ngữ)"
+  },
+  "bia": {
+    "ok": true,
+    "ipa": "ʔɓiə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "beer",
+    "example": "Cánh đàn ông thường uống bia khi tụ tập trò chuyện."
+  },
+  "tiêu": {
+    "ok": true,
+    "ipa": "tiəw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "clipping of tiêu hoá (“to digest”) (to separate food in the alimentary canal)",
+    "example": "muối tiêu"
+  },
+  "trà": {
+    "ok": true,
+    "ipa": "t͡ɕaː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "one's spectrum of age",
+    "example": "Ấm trà ngon."
+  },
+  "tỏi": {
+    "ok": true,
+    "ipa": "tɔj˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "garlic",
+    "example": "Mấy thằng lưu manh tỏi cả rồi."
+  },
+  "nước mắm": {
+    "ok": true,
+    "ipa": "nɨək̚˧˦ mam˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "A light brown, watery fish sauce used in Vietnamese cookery.",
+    "example": "Chén nước mắm ớt thơm lừng làm tăng vị đậm đà cho món cá kho tộ."
+  },
+  "ớt": {
+    "ok": true,
+    "ipa": "ʔəːt̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "tailed pepper, cubeb (Piper cubeba)",
+    "example": "Quả ớt này có vị rất cay."
+  },
+  "hành": {
+    "ok": true,
+    "ipa": "hajŋ̟˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "green onion",
+    "example": "học phải đi đôi với hành"
+  },
+  "chanh": {
+    "ok": true,
+    "ipa": "t͡ɕajŋ̟˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "lime",
+    "example": "Vắt một lát chanh tươi vào bát nước mắm sẽ giúp gia vị thêm phần thơm ngon."
+  },
+  "sữa": {
+    "ok": true,
+    "ipa": "sɨə˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "milk (white liquid produced by female mammals)",
+    "example": "Hương hoa sữa nồng nàn lan toả trong đêm thu Hà Nội."
+  },
+  "chuối": {
+    "ok": true,
+    "ipa": "t͡ɕuəj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "banana",
+    "example": "buồng chuối"
+  },
+  "cam": {
+    "ok": true,
+    "ipa": "kaːm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "orange, such as Citrus × sinensis or Citrus aurantium (bitter orange)",
+    "example": "trục cam"
+  },
+  "xoài": {
+    "ok": true,
+    "ipa": "swaːj˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "mango",
+    "example": "Những trái xoài cát Hoà Lộc chín vàng ươm, toả mùi hương thơm nức đặc trưng."
+  },
+  "dưa hấu": {
+    "ok": true,
+    "ipa": "zɨə˧˧ həw˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "watermelon",
+    "example": "Bổ quả dưa hấu đỏ mọng để cả nhà cùng giải khát."
+  },
+  "thịt gà": {
+    "ok": false,
+    "reason": "404"
+  },
+  "thịt bò": {
+    "ok": false,
+    "reason": "404"
+  },
+  "thịt heo": {
+    "ok": true,
+    "ipa": "tʰḭʔt˨˩ hɛw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": ""
+  },
+  "hải sản": {
+    "ok": true,
+    "ipa": "haːj˧˩ saːn˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "seafood",
+    "example": "bào ngư là hải sản quý"
+  },
+  "tôm": {
+    "ok": true,
+    "ipa": "tom˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "shrimp, prawn",
+    "example": "Con tôm bật nhảy lách tách trong rổ của người đi chài."
+  },
+  "mực": {
+    "ok": true,
+    "ipa": "mɨk̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "ink (coloured fluid used for writing)",
+    "example": "nẩy mực"
+  },
+  "cua": {
+    "ok": true,
+    "ipa": "kuə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "crab (a crustacean of the infraorder Brachyura)",
+    "example": "mò cua bắt ốc"
+  },
+  "kẹo": {
+    "ok": true,
+    "ipa": "kɛw˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "becoming thick or concentrated through evaporation",
+    "example": "Kẹo lạc, kẹo vừng chỉ để bán cho khách qua đường (Nguyên Hồng)"
+  },
+  "kem": {
+    "ok": true,
+    "ipa": "kɛm˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cream",
+    "example": "tục cúng kem"
+  },
+  "màu đen": {
+    "ok": false,
+    "reason": "404"
+  },
+  "bánh": {
+    "ok": true,
+    "ipa": "ʔɓajŋ̟˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a broad, vaguely defined term, mostly used by collocation or intuition, for foods that come in a specific shape or solid (a flat piece, a block, a ball, a loaf, etc.) and that are often made from grain or legume flour or plain rice, by size often larger than and contrasted with what is known as kẹo (“candy”)",
+    "example": "Đồng quà tấm bánh. (tục ngữ)"
+  },
+  "màu nâu": {
+    "ok": false,
+    "reason": "404"
+  },
+  "màu trắng": {
+    "ok": false,
+    "reason": "404"
+  },
+  "màu hồng": {
+    "ok": false,
+    "reason": "404"
+  },
+  "chó": {
+    "ok": true,
+    "ipa": "t͡ɕɔ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "dog",
+    "example": "chó cậy gần nhà, gà cậy gần chuồng (tng)"
+  },
+  "màu tím": {
+    "ok": false,
+    "reason": "404"
+  },
+  "màu cam": {
+    "ok": false,
+    "reason": "404"
+  },
+  "heo": {
+    "ok": true,
+    "ipa": "hɛw˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a pig (mammal of genus Sus)",
+    "example": "thịt heo"
+  },
+  "thỏ": {
+    "ok": true,
+    "ipa": "tʰɔ˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a leporid",
+    "example": "Ngoài hiên thỏ đã non đoài ngậm gương (Truyện Kiều)"
+  },
+  "dê": {
+    "ok": true,
+    "ipa": "ze˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "goat",
+    "example": "lão ta rất dê"
+  },
+  "chuột": {
+    "ok": true,
+    "ipa": "t͡ɕuət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "murid, rodent in the family Muridae",
+    "example": "Hang chuột."
+  },
+  "trâu": {
+    "ok": true,
+    "ipa": "t͡ɕəw˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "水",
+      "牛"
+    ],
+    "en": "water buffalo",
+    "example": "Khoẻ như trâu."
+  },
+  "rắn": {
+    "ok": true,
+    "ipa": "zan˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "non-constricting snake, as opposed to a trăn (“constricting snake”)",
+    "example": "Rắn độc."
+  },
+  "hổ": {
+    "ok": true,
+    "ipa": "ho˧˩",
+    "pos": "Danh từ",
+    "zh": [
+      "虎"
+    ],
+    "en": "tiger (Panthera tigris)",
+    "example": "Họ bắn hổ để lấy xương nấu cao."
+  },
+  "voi": {
+    "ok": true,
+    "ipa": "vɔj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "大象"
+    ],
+    "en": "elephant (mammal)",
+    "example": "khoẻ như voi"
+  },
+  "ong": {
+    "ok": true,
+    "ipa": "ʔawŋ͡m˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bee",
+    "example": "Bị ong đốt."
+  },
+  "kiến": {
+    "ok": true,
+    "ipa": "kiən˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "ant",
+    "example": ""
+  },
+  "khỉ": {
+    "ok": true,
+    "ipa": "xi˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "monkey (primate)",
+    "example": "Đàn khỉ leo trèo thoăn thoắt trên những vách đá cheo leo ở đảo Cát Bà."
+  },
+  "cá voi": {
+    "ok": true,
+    "ipa": "kaː˧˦ vɔj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "whale",
+    "example": "Con cá voi khổng lồ phun cột nước trắng xoá giữa đại dương."
+  },
+  "tủ": {
+    "ok": true,
+    "ipa": "tu˧˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cabinet; cupboard; wardrobe; chest; safe",
+    "example": "Giấu tủ."
+  },
+  "nhà tắm": {
+    "ok": true,
+    "ipa": "ɲa̤ː˨˩ tam˧˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": "Về mùa hè, các nhà tắm công cộng thường có đông người đến."
+  },
+  "bàn": {
+    "ok": true,
+    "ipa": "ʔɓaːn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "table",
+    "example": "Bàn viết."
+  },
+  "mái nhà": {
+    "ok": true,
+    "ipa": "maːj˧˥ ɲa̤ː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "",
+    "example": "Mái nhà lợp tôn."
+  },
+  "cầu thang": {
+    "ok": true,
+    "ipa": "kəw˨˩ tʰaːŋ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a staircase; flight of stairs",
+    "example": "cầu thang gỗ"
+  },
+  "quạt": {
+    "ok": true,
+    "ipa": "kwaːt̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a fan (hand-held or electrical device)",
+    "example": "anh quạt mạnh mái chèo"
+  },
+  "máy tính": {
+    "ok": true,
+    "ipa": "maj˧˦ tïŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [
+      "電子計算機",
+      "điện tử",
+      "kế toán",
+      "ky"
+    ],
+    "en": "calculator (electronic device that performs mathematical calculations)",
+    "example": "thí sinh được phép mang máy tính vào phòng thi"
+  },
+  "bếp": {
+    "ok": true,
+    "ipa": "ʔɓep̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "stove, cooker",
+    "example": "Bếp lò."
+  },
+  "đèn": {
+    "ok": true,
+    "ipa": "ʔɗɛn˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a light; a lamp, an oil lamp, a light bulb, an incandescent light, a fluorescent light, a flashlight, etc.",
+    "example": "Để chiếc đài cũ này hoạt động lại, cần tìm mua những bóng đèn điện tử để thay thế."
+  },
+  "tivi": {
+    "ok": false,
+    "reason": "404"
+  },
+  "điều hòa": {
+    "ok": true,
+    "ipa": "ʔɗiəw˨˩ hwaː˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "Traditional tone placement spelling of điều hoà.",
+    "example": "Mưa nắng điều hòa."
+  },
+  "điện thoại": {
+    "ok": true,
+    "ipa": "ʔɗiən˧˨ʔ tʰwaːj˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "telephone",
+    "example": "cô điện thoại cho mẹ"
+  },
+  "máy giặt": {
+    "ok": true,
+    "ipa": "maj˧˦ zat̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "washing machine",
+    "example": "Máy giặt thế hệ mới giúp tiết kiệm nước và điện năng đáng kể cho người sử dụng."
+  },
+  "xe đạp": {
+    "ok": true,
+    "ipa": "sɛ˧˧ ʔɗaːp̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bicycle",
+    "example": "Tôi đạp xe đạp đi học mỗi ngày."
+  },
+  "ô tô": {
+    "ok": true,
+    "ipa": "ʔo˧˧ to˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "car",
+    "example": "Chiếc ô tô chạy êm trên đường."
+  },
+  "tủ lạnh": {
+    "ok": true,
+    "ipa": "tu˧˩ lajŋ̟˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "refrigerator",
+    "example": "Bảo quản thực phẩm trong tủ lạnh."
+  },
+  "cầu": {
+    "ok": true,
+    "ipa": "kəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "jianzi shuttlecock",
+    "example": "chơi đá cầu"
+  },
+  "xe máy": {
+    "ok": true,
+    "ipa": "sɛ˧˧ maj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a vehicle that is either a mô tô (“high capacity motorcycle”) or a xe gắn máy (“low capacity motorcycle”)",
+    "example": "Chạy xe máy đi chơi."
+  },
+  "phố": {
+    "ok": true,
+    "ipa": "fo˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "street, with houses and buildings on both sides",
+    "example": "Ra phố mua hàng."
+  },
+  "sân bay": {
+    "ok": true,
+    "ipa": "sən˧˧ ʔɓaj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "airport",
+    "example": "Sân bay quốc tế Nội Bài luôn tấp nập khách du lịch và các chuyến bay đi khắp thế giới."
+  },
+  "nhà hàng": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ haːŋ˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a restaurant that accommodates large numbers of people, is often swanky, but is not necessarily for fine dining",
+    "example": "nhà hàng chiều khách"
+  },
+  "khách sạn": {
+    "ok": true,
+    "ipa": "xajk̟̚˧˦ saːn˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "hotel",
+    "example": "khách sạn năm sao (khách sạn đạt tiêu chuẩn cao nhất)"
+  },
+  "trường học": {
+    "ok": true,
+    "ipa": "t͡ɕɨəŋ˨˩ hawk͡p̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "學校"
+    ],
+    "en": "a school (an educational institution)",
+    "example": "môi trường quân đội là trường học lớn của thanh niên"
+  },
+  "ga": {
+    "ok": true,
+    "ipa": "ɣaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "train station",
+    "example": "còn ba ga nữa mới đến nơi"
+  },
+  "công viên": {
+    "ok": true,
+    "ipa": "kəwŋ͡m˧˧ viən˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a park (ground for recreation)",
+    "example": "Công viên là nơi thư giãn lý tưởng."
+  },
+  "bưu điện": {
+    "ok": true,
+    "ipa": "ʔɓiw˧˧ ʔɗiən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "邮局"
+    ],
+    "en": "posts and telecommunications",
+    "example": "nghiệp vụ bưu điện"
+  },
+  "thư viện": {
+    "ok": true,
+    "ipa": "tʰɨ˧˧ viən˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [
+      "图书馆",
+      "圖書館"
+    ],
+    "en": "library (institution which holds books etc.)",
+    "example": "đọc sách ở thư viện"
+  },
+  "siêu thị": {
+    "ok": true,
+    "ipa": "siəw˧˧ tʰi˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "a supermarket",
+    "example": "Siêu thị GO!."
+  },
+  "nhà ga": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ ɣaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "railway station",
+    "example": "ngồi đợi tàu ở nhà ga"
+  },
+  "trạm xe buýt": {
+    "ok": true,
+    "ipa": "t͡ɕaːm˧˨ʔ sɛ˧˧ ʔɓwit̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "bus stop",
+    "example": ""
+  },
+  "hôm qua": {
+    "ok": true,
+    "ipa": "hom˧˧ kwaː˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "yesterday",
+    "example": "vừa nói hôm qua, hôm nay đã quên"
+  },
+  "ngày mai": {
+    "ok": true,
+    "ipa": "ŋaj˨˩ maːj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "明",
+      "天",
+      "minh",
+      "thiên",
+      "日",
+      "nhật"
+    ],
+    "en": "tomorrow",
+    "example": "hôm nay là thứ hai, ngày mai là thứ ba"
+  },
+  "buổi trưa": {
+    "ok": true,
+    "ipa": "ʔɓuəj˧˩ t͡ɕɨə˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "noon; noontime; midday",
+    "example": ""
+  },
+  "buổi chiều": {
+    "ok": true,
+    "ipa": "ʔɓuəj˧˩ t͡ɕiəw˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "afternoon",
+    "example": ""
+  },
+  "giây": {
+    "ok": true,
+    "ipa": "zəj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "second (SI unit of time)",
+    "example": "Chỉ còn vài giây nữa thôi là đến thời khắc chuyển giao giữa năm cũ và năm mới."
+  },
+  "ban đêm": {
+    "ok": true,
+    "ipa": "ʔɓaːn˧˧ ʔɗem˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "night",
+    "example": "Ban đêm là thời gian để nghỉ ngơi."
+  },
+  "hôm nay": {
+    "ok": true,
+    "ipa": "hom˧˧ naj˧˧",
+    "pos": "Danh từ",
+    "zh": [
+      "今",
+      "天"
+    ],
+    "en": "today (on the current day)",
+    "example": "Ai về đường ấy hôm nay. (ca dao)"
+  },
+  "cuối tuần": {
+    "ok": true,
+    "ipa": "kuəj˧˦ twən˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "weekend",
+    "example": "Đi chơi công viên vào cuối tuần."
+  },
+  "sinh nhật": {
+    "ok": true,
+    "ipa": "sïŋ˧˧ ɲət̚˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "birthday",
+    "example": "Ngày vừa sinh nhật ngoại gia (Truyện Kiều)"
+  },
+  "ngày lễ": {
+    "ok": true,
+    "ipa": "ŋaj˨˩ le˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "feast day",
+    "example": "Ngày lễ quốc khánh."
+  },
+  "mùa thu": {
+    "ok": true,
+    "ipa": "muə˨˩ tʰu˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "autumn, fall",
+    "example": ""
+  },
+  "mùa hạ": {
+    "ok": true,
+    "ipa": "muə˨˩ haː˧˨ʔ",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "summer",
+    "example": ""
+  },
+  "bão": {
+    "ok": true,
+    "ipa": "ʔɓaːw˦ˀ˥",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "storm",
+    "example": "đau bão"
+  },
+  "mây": {
+    "ok": true,
+    "ipa": "məj˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cloud",
+    "example": "Mây đen kéo mù trời."
+  },
+  "trời": {
+    "ok": true,
+    "ipa": "t͡ɕəːj˨˩",
+    "pos": "Danh từ",
+    "zh": [
+      "天",
+      "thiên"
+    ],
+    "en": "sky",
+    "example": "trời, sao lại đến nông nỗi này?"
+  },
+  "sấm": {
+    "ok": true,
+    "ipa": "səm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "thunder",
+    "example": "Tiếng sấm rền vang."
+  },
+  "nắng": {
+    "ok": true,
+    "ipa": "naŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "sunny",
+    "example": "thóc mới phơi được một nắng"
+  },
+  "ấm": {
+    "ok": true,
+    "ipa": "ʔəm˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "warm",
+    "example": "Bếp đun một ấm đất nấu nước mưa (Nguyên Hồng)"
+  },
+  "lá": {
+    "ok": true,
+    "ipa": "laː˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "leaf",
+    "example": "Lá chuối."
+  },
+  "mát": {
+    "ok": true,
+    "ipa": "maːt̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "cool",
+    "example": "cái quạt bị mát điện"
+  },
+  "nằm": {
+    "ok": true,
+    "ipa": "nam˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to lie (be in a horizontal position on a surface)",
+    "example": "nó đang nằm trong bệnh viện"
+  },
+  "chớp": {
+    "ok": true,
+    "ipa": "t͡ɕəːp̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "lightning",
+    "example": "ánh chớp lửa hàn"
+  },
+  "nhìn": {
+    "ok": true,
+    "ipa": "ɲin˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to look at",
+    "example": "Bé nhìn mẹ cười âu yếm."
+  },
+  "thức dậy": {
+    "ok": true,
+    "ipa": "tʰɨk̚˧˦ zəj˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to wake up",
+    "example": "Thằng bé hễ thức dậy là khóc."
+  },
+  "bóng tối": {
+    "ok": true,
+    "ipa": "ʔɓawŋ͡m˧˦ toj˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "darkness",
+    "example": "Dò dẫm trong bóng tối."
+  },
+  "hiểu": {
+    "ok": true,
+    "ipa": "hiəw˧˩",
+    "pos": "Động từ",
+    "zh": [
+      "明白",
+      "minh bạch"
+    ],
+    "en": "to understand, to know",
+    "example": "Hiểu vấn đề."
+  },
+  "đóng": {
+    "ok": true,
+    "ipa": "ʔɗawŋ͡m˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to shut tight",
+    "example": "bộ đội đóng ở làng"
+  },
+  "lấy": {
+    "ok": true,
+    "ipa": "ləj˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to take, to seize",
+    "example": "tôi lấy rẻ chị cái áo này"
+  },
+  "thích": {
+    "ok": true,
+    "ipa": "tʰïk̟̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to like",
+    "example": "thích chữ vào tay"
+  },
+  "trả tiền": {
+    "ok": false,
+    "reason": "404"
+  },
+  "yêu": {
+    "ok": true,
+    "ipa": "ʔiəw˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to love",
+    "example": "tôi yêu mẹ"
+  },
+  "cầm": {
+    "ok": true,
+    "ipa": "kəm˨˩",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to hold, to keep",
+    "example": "\"Phòng loan dìu dặt phím cầm, Chật nhà lan huệ, đầy sân quế hoè.\" (PCCH)"
+  },
+  "khóc": {
+    "ok": true,
+    "ipa": "xawk͡p̚˧˦",
+    "pos": "Động từ",
+    "zh": [
+      "哭",
+      "khốc"
+    ],
+    "en": "to cry, to weep",
+    "example": "em bé đang khóc"
+  },
+  "quên": {
+    "ok": true,
+    "ipa": "kwen˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to forget",
+    "example": ""
+  },
+  "cởi": {
+    "ok": true,
+    "ipa": "kəːj˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to take off",
+    "example": "Cởi trói."
+  },
+  "giặt": {
+    "ok": true,
+    "ipa": "zat̚˧˨ʔ",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to wash (clothes, bedding, or other fabric)",
+    "example": "giặt quần áo"
+  },
+  "nấu": {
+    "ok": true,
+    "ipa": "nəw˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to cook",
+    "example": "Nấu canh."
+  },
+  "lái xe": {
+    "ok": true,
+    "ipa": "laːj˧˦ sɛ˧˧",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "to drive a car (or any vehicle)",
+    "example": "tuyển lái xe cho cơ quan"
+  },
+  "nghỉ ngơi": {
+    "ok": true,
+    "ipa": "ŋi˧˩ ŋəːj˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to rest",
+    "example": "Nghỉ ngơi cho đỡ mệt."
+  },
+  "đi du lịch": {
+    "ok": false,
+    "reason": "404"
+  },
+  "chụp ảnh": {
+    "ok": true,
+    "ipa": "t͡ɕup̚˧˨ʔ ʔajŋ̟˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to take a picture",
+    "example": "Đi chụp ảnh ở đền Hùng."
+  },
+  "nghe nhạc": {
+    "ok": false,
+    "reason": "404"
+  },
+  "xem phim": {
+    "ok": false,
+    "reason": "404"
+  },
+  "buồn": {
+    "ok": true,
+    "ipa": "ʔɓuən˨˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "sad",
+    "example": "tôi chẳng buồn ăn"
+  },
+  "mệt": {
+    "ok": true,
+    "ipa": "met̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "tired, fatigued, weary",
+    "example": "bà cụ mệt đã mấy hôm rồi"
+  },
+  "hẹp": {
+    "ok": true,
+    "ipa": "hɛp̚˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "narrow or tight; compare chật (of space and clothing)",
+    "example": "ăn ở hẹp với hàng xóm"
+  },
+  "đắt": {
+    "ok": true,
+    "ipa": "ʔɗat̚˧˦",
+    "pos": "Tính từ",
+    "zh": [
+      "昂贵"
+    ],
+    "en": "apt; well-chosen",
+    "example": "có cho không cũng không đắt"
+  },
+  "đọc sách": {
+    "ok": false,
+    "reason": "404"
+  },
+  "dài": {
+    "ok": true,
+    "ipa": "zaːj˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "long (having much distance in space from one end to the other)",
+    "example": "Độ dài."
+  },
+  "ngon": {
+    "ok": true,
+    "ipa": "ŋɔn˧˧",
+    "pos": "Tính từ",
+    "zh": [
+      "可",
+      "口",
+      "khả",
+      "khẩu"
+    ],
+    "en": "delicious; tasty; succulent",
+    "example": "ngủ ngon"
+  },
+  "nhẹ": {
+    "ok": true,
+    "ipa": "ɲɛ˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "light",
+    "example": "cày ruộng nhẹ"
+  },
+  "dở": {
+    "ok": true,
+    "ipa": "zəː˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "unfinished",
+    "example": "Vở kịch dở."
+  },
+  "bẩn": {
+    "ok": true,
+    "ipa": "ʔɓən˧˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "dirty; unclean; filthy",
+    "example": "Tay bẩn."
+  },
+  "thông minh": {
+    "ok": true,
+    "ipa": "tʰəwŋ͡m˧˧ mïŋ˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "clever, intelligent, smart",
+    "example": "thằng bé rất thông minh"
+  },
+  "quan trọng": {
+    "ok": true,
+    "ipa": "kwaːn˧˧ t͡ɕawŋ͡m˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "important; significant",
+    "example": "Vai trò quan trọng."
+  },
+  "khó": {
+    "ok": true,
+    "ipa": "xɔ˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "difficult; tough",
+    "example": "tiền vào nhà khó như gió vào nhà trống (tng)"
+  },
+  "lo lắng": {
+    "ok": true,
+    "ipa": "lɔ˧˧ laŋ˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to be worried; to worry; to be anxious",
+    "example": "vẻ mặt đầy lo lắng"
+  },
+  "ngốc": {
+    "ok": true,
+    "ipa": "ŋəwk͡p̚˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "foolish; doltish",
+    "example": "Thằng ngốc."
+  },
+  "nghèo": {
+    "ok": true,
+    "ipa": "ŋɛw˨˩",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "poor",
+    "example": "Con nhà nghèo."
+  },
+  "dễ": {
+    "ok": true,
+    "ipa": "ze˦ˀ˥",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "easy (requiring little skill or effort)",
+    "example": "tính anh ấy dễ"
+  },
+  "thú vị": {
+    "ok": true,
+    "ipa": "tʰu˧˦ vi˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "enjoyable; interesting",
+    "example": "Một trò chơi thú vị."
+  },
+  "may mắn": {
+    "ok": true,
+    "ipa": "maj˧˧ man˧˦",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "lucky; fortunate",
+    "example": ""
+  },
+  "buồn chán": {
+    "ok": false,
+    "reason": "404"
+  },
+  "khỏe mạnh": {
+    "ok": true,
+    "ipa": "xwɛ˧˩ majŋ̟˧˨ʔ",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "healthy",
+    "example": ""
+  },
+  "ốm": {
+    "ok": true,
+    "ipa": "ʔom˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "ill; sick",
+    "example": "con bé trông ốm quá!"
+  },
+  "sốt": {
+    "ok": true,
+    "ipa": "sot̚˧˦",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "steaming hot",
+    "example": "cháu bé đang sốt"
+  },
+  "ho": {
+    "ok": true,
+    "ipa": "hɔ˧˧",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to cough",
+    "example": "thằng bé đang ho"
+  },
+  "đau": {
+    "ok": true,
+    "ipa": "ʔɗaw˧˧",
+    "pos": "Tính từ",
+    "zh": [],
+    "en": "to be hurt; to be wounded",
+    "example": "Đau tay."
+  },
+  "dị ứng": {
+    "ok": true,
+    "ipa": "zi˧˨ʔ ʔɨŋ˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "allergy",
+    "example": ""
+  },
+  "cảm": {
+    "ok": true,
+    "ipa": "kaːm˧˩",
+    "pos": "Động từ",
+    "zh": [],
+    "en": "to feel",
+    "example": "bài thơ cảm được người đọc"
+  },
+  "thuốc": {
+    "ok": true,
+    "ipa": "tʰuək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "medicine; medicament; drug",
+    "example": "Viên thuốc cảm."
+  },
+  "bác sĩ gia đình": {
+    "ok": false,
+    "reason": "404"
+  },
+  "nhà thuốc": {
+    "ok": true,
+    "ipa": "ɲaː˨˩ tʰuək̚˧˦",
+    "pos": "Danh từ",
+    "zh": [],
+    "en": "pharmacy; drugstore; chemist (shop)",
+    "example": "nhà thuốc tây y"
+  }
+}

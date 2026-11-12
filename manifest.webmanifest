@@ -1,0 +1,53 @@
+{
+  "id": "./",
+  "name": "越词 · 每日越南语",
+  "short_name": "越词",
+  "description": "1016 个越南语单词，每天推荐几个；含河内音 IPA、中文释义、谐音、例句和标准发音。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#F7F2E8",
+  "theme_color": "#A80F28",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "今日单词",
+      "short_name": "今日",
+      "description": "打开今天推荐的越南语单词",
+      "url": "./?view=today",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "词库",
+      "short_name": "词库",
+      "description": "浏览全部越南语单词",
+      "url": "./?view=library",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
