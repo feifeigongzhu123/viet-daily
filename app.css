@@ -1887,8 +1887,8 @@ svg.icon {
   z-index: 60;
   display: grid;
   width: min(100%, var(--max));
-  grid-template-columns: repeat(3, 1fr);
-  padding: 7px 16px calc(7px + env(safe-area-inset-bottom));
+  grid-template-columns: repeat(4, 1fr);
+  padding: 7px 10px calc(7px + env(safe-area-inset-bottom));
   border-top: 1px solid rgba(218, 205, 182, 0.7);
   background: rgba(255, 253, 248, 0.92);
   backdrop-filter: blur(22px);
@@ -2348,5 +2348,589 @@ body.sheet-open {
     animation-duration: 0.001ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.001ms !important;
+  }
+}
+
+/* ---------- User-selectable UI size ---------- */
+html[data-ui-size="compact"] {
+  --max: 480px;
+}
+
+html[data-ui-size="large"] {
+  --max: 580px;
+}
+
+html[data-ui-size="xlarge"] {
+  --max: 640px;
+}
+
+html[data-ui-size="compact"] .topbar {
+  min-height: 56px;
+  padding: calc(6px + env(safe-area-inset-top)) 14px 6px;
+}
+
+html[data-ui-size="compact"] .brand-mark {
+  width: 36px;
+  height: 36px;
+  border-radius: 12px;
+}
+
+html[data-ui-size="compact"] .brand-copy strong {
+  font-size: 17px;
+}
+
+html[data-ui-size="compact"] .brand-copy small {
+  font-size: 7.5px;
+}
+
+html[data-ui-size="compact"] .streak-pill {
+  min-height: 33px;
+  padding: 5px 10px;
+  font-size: 11px;
+}
+
+html[data-ui-size="compact"] .main {
+  padding-right: 12px;
+  padding-left: 12px;
+  padding-bottom: calc(98px + env(safe-area-inset-bottom));
+}
+
+html[data-ui-size="compact"] .hero {
+  gap: 10px;
+  padding: 9px 2px 8px;
+}
+
+html[data-ui-size="compact"] .hero h1 {
+  font-size: clamp(21px, 6.4vw, 26px);
+}
+
+html[data-ui-size="compact"] .hero-sub {
+  margin-top: 4px;
+  font-size: 11px;
+}
+
+html[data-ui-size="compact"] .eyebrow {
+  margin-bottom: 4px;
+  font-size: 9px;
+}
+
+html[data-ui-size="compact"] .progress-ring,
+html[data-ui-size="compact"] .progress-ring svg {
+  width: 60px;
+  height: 60px;
+}
+
+html[data-ui-size="compact"] .ring-label strong {
+  font-size: 12.5px;
+}
+
+html[data-ui-size="compact"] .plan-rail {
+  gap: 6px;
+  margin-bottom: 9px;
+  padding-bottom: 2px;
+}
+
+html[data-ui-size="compact"] .plan-dot {
+  width: 30px;
+  height: 30px;
+  font-size: 10.5px;
+}
+
+html[data-ui-size="compact"] .word-card {
+  padding: 14px 15px 12px;
+  border-radius: 24px;
+}
+
+html[data-ui-size="compact"] .card-head {
+  margin-bottom: 10px;
+}
+
+html[data-ui-size="compact"] .source-chip,
+html[data-ui-size="compact"] .pos-chip {
+  min-height: 23px;
+  padding: 3px 7px;
+  font-size: 9.5px;
+}
+
+html[data-ui-size="compact"] .word {
+  font-size: clamp(34px, 10.5vw, 48px);
+}
+
+html[data-ui-size="compact"] .word.is-long {
+  font-size: clamp(25px, 7.4vw, 34px);
+}
+
+html[data-ui-size="compact"] .word.is-very-long {
+  font-size: clamp(21px, 6.5vw, 29px);
+}
+
+html[data-ui-size="compact"] .ipa {
+  gap: 5px;
+  margin-top: 6px;
+  font-size: 12.5px;
+}
+
+html[data-ui-size="compact"] .audio-main {
+  width: 46px;
+  height: 46px;
+}
+
+html[data-ui-size="compact"] .audio-main .icon {
+  width: 21px;
+  height: 21px;
+}
+
+html[data-ui-size="compact"] .homophone {
+  gap: 7px;
+  margin-top: 10px;
+  padding: 8px 10px;
+  border-radius: 12px;
+}
+
+html[data-ui-size="compact"] .homophone .label {
+  font-size: 8.5px;
+}
+
+html[data-ui-size="compact"] .homophone .value {
+  font-size: 12px;
+}
+
+html[data-ui-size="compact"] .meaning {
+  margin-top: 10px;
+  font-size: 17px;
+}
+
+html[data-ui-size="compact"] .pron-tip {
+  margin-top: 8px;
+  padding: 7px 9px;
+  font-size: 10.5px;
+}
+
+html[data-ui-size="compact"] .example {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+html[data-ui-size="compact"] .example-head {
+  margin-bottom: 4px;
+}
+
+html[data-ui-size="compact"] .example-vi {
+  font-size: 15px;
+}
+
+html[data-ui-size="compact"] .example-zh {
+  font-size: 11px;
+}
+
+html[data-ui-size="compact"] .card-foot {
+  margin-top: 9px;
+  font-size: 8.5px;
+}
+
+html[data-ui-size="compact"] .grade-row {
+  gap: 7px;
+  margin-top: 9px;
+}
+
+html[data-ui-size="compact"] .btn {
+  min-height: 43px;
+  font-size: 12.5px;
+  border-radius: 12px;
+}
+
+html[data-ui-size="compact"] .grade-hint {
+  margin-top: 5px;
+  font-size: 9.5px;
+}
+
+html[data-ui-size="compact"] .info-strip {
+  margin-top: 10px;
+  padding: 9px 10px;
+  font-size: 10.5px;
+}
+
+html[data-ui-size="compact"] .tabbar {
+  padding: 5px 12px calc(5px + env(safe-area-inset-bottom));
+}
+
+html[data-ui-size="compact"] .nav-btn {
+  min-height: 42px;
+  font-size: 9px;
+}
+
+html[data-ui-size="compact"] .nav-btn .icon {
+  width: 20px;
+  height: 20px;
+}
+
+html[data-ui-size="large"] .hero h1 {
+  font-size: clamp(27px, 7.8vw, 34px);
+}
+
+html[data-ui-size="large"] .word {
+  font-size: clamp(47px, 14vw, 67px);
+}
+
+html[data-ui-size="large"] .word.is-long {
+  font-size: clamp(32px, 9.2vw, 45px);
+}
+
+html[data-ui-size="large"] .meaning {
+  font-size: 22px;
+}
+
+html[data-ui-size="large"] .example-vi {
+  font-size: 18px;
+}
+
+html[data-ui-size="large"] .example-zh {
+  font-size: 13.5px;
+}
+
+html[data-ui-size="large"] .btn {
+  font-size: 15px;
+}
+
+html[data-ui-size="large"] .lib-word {
+  font-size: 18px;
+}
+
+html[data-ui-size="large"] .lib-meaning {
+  font-size: 12.5px;
+}
+
+html[data-ui-size="xlarge"] .hero h1 {
+  font-size: clamp(30px, 8.6vw, 38px);
+}
+
+html[data-ui-size="xlarge"] .word {
+  font-size: clamp(54px, 16vw, 76px);
+}
+
+html[data-ui-size="xlarge"] .word.is-long {
+  font-size: clamp(36px, 10.5vw, 50px);
+}
+
+html[data-ui-size="xlarge"] .meaning {
+  font-size: 24px;
+}
+
+html[data-ui-size="xlarge"] .example-vi {
+  font-size: 20px;
+}
+
+html[data-ui-size="xlarge"] .example-zh {
+  font-size: 14.5px;
+}
+
+html[data-ui-size="xlarge"] .btn {
+  min-height: 56px;
+  font-size: 16.5px;
+}
+
+html[data-ui-size="xlarge"] .ipa {
+  font-size: 15.5px;
+}
+
+@media (max-height: 700px) {
+  html[data-ui-size="standard"] .topbar {
+    min-height: 56px;
+    padding-top: calc(6px + env(safe-area-inset-top));
+    padding-bottom: 6px;
+  }
+
+  html[data-ui-size="standard"] .hero {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  html[data-ui-size="standard"] .hero h1 {
+    font-size: 24px;
+  }
+
+  html[data-ui-size="standard"] .word-card {
+    padding-top: 14px;
+    padding-bottom: 12px;
+  }
+
+  html[data-ui-size="standard"] .word {
+    font-size: clamp(36px, 11vw, 50px);
+  }
+
+  html[data-ui-size="standard"] .word.is-long {
+    font-size: clamp(27px, 8vw, 36px);
+  }
+
+  html[data-ui-size="standard"] .example {
+    margin-top: 10px;
+    padding: 10px;
+  }
+
+  html[data-ui-size="standard"] .btn {
+    min-height: 46px;
+  }
+
+  html[data-ui-size="standard"] .tabbar {
+    padding-top: 5px;
+    padding-bottom: calc(5px + env(safe-area-inset-bottom));
+  }
+}
+
+@media (max-width: 380px) {
+  .setting-row {
+    flex-wrap: wrap;
+  }
+
+  .setting-copy {
+    flex: 1 0 100%;
+  }
+
+  .segmented {
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
+/* Short screens: keep the two grade actions reachable without scrolling. */
+.grade-dock {
+  position: fixed;
+  bottom: calc(70px + env(safe-area-inset-bottom));
+  left: 50%;
+  z-index: 55;
+  display: none;
+  width: min(100%, var(--max));
+  grid-template-columns: 1fr 1.2fr;
+  gap: 8px;
+  padding: 8px 16px;
+  background: linear-gradient(180deg, rgba(247, 242, 232, 0) 0%, rgba(247, 242, 232, 0.94) 34%, rgba(247, 242, 232, 0.98) 100%);
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+
+.grade-dock .btn {
+  min-height: 46px;
+  pointer-events: auto;
+  box-shadow: 0 8px 24px rgba(86, 54, 23, 0.12);
+}
+
+@media (max-height: 760px) {
+  .grade-dock:not([hidden]) {
+    display: grid;
+  }
+
+  .main {
+    padding-bottom: calc(190px + env(safe-area-inset-bottom));
+  }
+}
+
+/* ---------- Phonetics ---------- */
+.phonetic-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  margin: 0 0 16px;
+  padding: 10px 12px;
+  border: 1px solid rgba(227, 174, 73, 0.35);
+  border-radius: var(--radius-md);
+  background: #fdf7e8;
+  color: #6f5b31;
+  font-size: 11px;
+  line-height: 1.55;
+}
+
+.phonetic-note .info-dot {
+  flex: 0 0 auto;
+  display: grid;
+  width: 19px;
+  height: 19px;
+  margin-top: 1px;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--gold-soft);
+  color: var(--gold-ink);
+  font-size: 9px;
+  font-weight: 900;
+}
+
+.phonetic-section {
+  margin-bottom: 22px;
+}
+
+.phonetic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 9px;
+}
+
+.phonetic-card {
+  position: relative;
+  min-width: 0;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 17px;
+  background: rgba(255, 253, 248, 0.76);
+}
+
+.phonetic-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.phonetic-symbol {
+  color: var(--ink);
+  font-size: 38px;
+  font-weight: 780;
+  letter-spacing: -0.04em;
+  line-height: 1;
+}
+
+.phonetic-symbol-text {
+  font-size: 28px;
+}
+
+.phonetic-ipa {
+  margin-top: 5px;
+  color: var(--red-dark);
+  font-size: 11px;
+  font-weight: 650;
+}
+
+.phonetic-example {
+  margin-top: 7px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.phonetic-example span {
+  color: var(--muted);
+  font-size: 10.5px;
+  font-weight: 500;
+}
+
+.phonetic-tip {
+  margin: 5px 0 0;
+  color: var(--muted);
+  font-size: 10px;
+  line-height: 1.5;
+}
+
+.phonetic-card .audio-round {
+  width: 32px;
+  height: 32px;
+  flex: 0 0 auto;
+  background: var(--red-soft);
+  color: var(--red);
+  box-shadow: none;
+}
+
+.tone-list {
+  display: grid;
+  gap: 8px;
+}
+
+.tone-card {
+  padding: 11px 13px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(255, 253, 248, 0.76);
+}
+
+.tone-head {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.tone-mark {
+  display: grid;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 auto;
+  place-items: center;
+  border-radius: 12px;
+  background: var(--surface-soft);
+  color: var(--red);
+  font-size: 19px;
+  font-weight: 800;
+}
+
+.tone-head strong {
+  display: block;
+  font-size: 13.5px;
+  font-weight: 780;
+}
+
+.tone-head small {
+  display: block;
+  margin-top: 1px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.tone-head .audio-round {
+  width: 34px;
+  height: 34px;
+  margin-left: auto;
+  flex: 0 0 auto;
+  background: var(--red-soft);
+  color: var(--red);
+  box-shadow: none;
+}
+
+.tone-example {
+  margin-top: 8px;
+  color: var(--ink);
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.tone-example span {
+  color: var(--muted);
+  font-size: 10.5px;
+  font-weight: 500;
+}
+
+html[data-ui-size="compact"] .phonetic-card {
+  padding: 9px;
+  border-radius: 14px;
+}
+
+html[data-ui-size="compact"] .phonetic-symbol {
+  font-size: 31px;
+}
+
+html[data-ui-size="compact"] .phonetic-tip {
+  display: none;
+}
+
+html[data-ui-size="large"] .phonetic-symbol {
+  font-size: 44px;
+}
+
+html[data-ui-size="large"] .phonetic-example {
+  font-size: 16px;
+}
+
+html[data-ui-size="xlarge"] .phonetic-symbol {
+  font-size: 50px;
+}
+
+html[data-ui-size="xlarge"] .phonetic-example {
+  font-size: 18px;
+}
+
+html[data-ui-size="xlarge"] .phonetic-tip {
+  font-size: 11.5px;
+}
+
+@media (min-width: 620px) {
+  .phonetic-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }

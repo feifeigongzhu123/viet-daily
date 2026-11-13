@@ -5,6 +5,7 @@ import esprima
 
 ROOT = Path(__file__).resolve().parents[1]
 words = json.loads((ROOT / "data/words.json").read_text(encoding="utf-8"))
+phonetics = json.loads((ROOT / "data/phonetics.json").read_text(encoding="utf-8"))
 json.loads((ROOT / "manifest.webmanifest").read_text(encoding="utf-8"))
 index = json.loads((ROOT / "audio/index.json").read_text(encoding="utf-8"))
 
@@ -31,6 +32,14 @@ for item in words:
 for entry in index["files"]:
     if not (ROOT / entry).exists():
         missing.append(f"index points to missing file: {entry}")
+
+for section in ("vowels", "consonants", "tones"):
+    for item in phonetics.get(section, []):
+        phonetic_path = ROOT / "audio" / "phonetics" / f"{item['id']}.mp3"
+        if not phonetic_path.exists() or phonetic_path.stat().st_size < 1000:
+            missing.append(str(phonetic_path))
+        if f"audio/phonetics/{item['id']}.mp3" not in index["files"]:
+            missing.append(f"index missing phonetics/{item['id']}")
 
 print(f"words: {len(words)}, audio indexed: {len(index['files'])}, missing: {len(missing)}")
 if missing:

@@ -18,9 +18,11 @@ import edge_tts
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "words.json"
+PHONETICS_FILE = ROOT / "data" / "phonetics.json"
 AUDIO_DIR = ROOT / "audio"
 WORD_DIR = AUDIO_DIR / "words"
 EXAMPLE_DIR = AUDIO_DIR / "examples"
+PHONETIC_DIR = AUDIO_DIR / "phonetics"
 INDEX_FILE = AUDIO_DIR / "index.json"
 VOICE = "vi-VN-HoaiMyNeural"
 
@@ -41,15 +43,19 @@ async def synthesize(text: str, target: Path, rate: str) -> None:
     raise RuntimeError(f"Could not synthesize {text!r}: {last_error}")
 
 
-async def generate(words: list[dict], force: bool, include_examples: bool, workers: int) -> None:
+async def generate(words: list[dict], phonetics: dict, force: bool, include_examples: bool, workers: int) -> None:
     WORD_DIR.mkdir(parents=True, exist_ok=True)
     EXAMPLE_DIR.mkdir(parents=True, exist_ok=True)
+    PHONETIC_DIR.mkdir(parents=True, exist_ok=True)
 
     jobs: list[tuple[str, Path, str]] = []
     for item in words:
         jobs.append((item["word"], WORD_DIR / f"{item['id']}.mp3", "-10%"))
         if include_examples:
             jobs.append((item["example"], EXAMPLE_DIR / f"{item['id']}.mp3", "-7%"))
+    for section in ("vowels", "consonants", "tones"):
+        for item in phonetics.get(section, []):
+            jobs.append((item["example"], PHONETIC_DIR / f"{item['id']}.mp3", "-7%"))
 
     pending = [job for job in jobs if force or not job[1].exists()]
     print(f"{len(jobs)} audio files selected, {len(pending)} to generate, workers={workers}.")
@@ -78,8 +84,8 @@ async def generate(words: list[dict], force: bool, include_examples: bool, worke
         raise SystemExit(1)
 
 
-def write_index(words: list[dict]) -> None:
-    paths = ["audio/words", "audio/examples"]
+def write_index(words: list[dict], phonetics: dict) -> None:
+    paths = ["audio/words", "audio/examples", "audio/phonetics"]
     files = []
     for item in words:
         word_file = f"audio/words/{item['id']}.mp3"
@@ -88,6 +94,11 @@ def write_index(words: list[dict]) -> None:
             files.append(word_file)
         if (ROOT / example_file).exists():
             files.append(example_file)
+    for section in ("vowels", "consonants", "tones"):
+        for item in phonetics.get(section, []):
+            phonetic_file = f"audio/phonetics/{item['id']}.mp3"
+            if (ROOT / phonetic_file).exists():
+                files.append(phonetic_file)
     INDEX_FILE.write_text(
         json.dumps({"directories": paths, "files": files}, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -102,8 +113,9 @@ def main() -> None:
     args = parser.parse_args()
 
     words = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    asyncio.run(generate(words, args.force, not args.no_examples, max(1, args.workers)))
-    write_index(words)
+    phonetics = json.loads(PHONETICS_FILE.read_text(encoding="utf-8"))
+    asyncio.run(generate(words, phonetics, args.force, not args.no_examples, max(1, args.workers)))
+    write_index(words, phonetics)
 
     all_mp3 = list(AUDIO_DIR.rglob("*.mp3"))
     total_bytes = sum(path.stat().st_size for path in all_mp3)

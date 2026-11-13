@@ -14,6 +14,8 @@ from PIL import Image, ImageDraw, ImageFont
 ROOT = Path(__file__).resolve().parents[1]
 DATA_FILE = ROOT / "data" / "words.json"
 OUT_JS = ROOT / "data" / "words.js"
+PHONETICS_FILE = ROOT / "data" / "phonetics.json"
+PHONETICS_JS = ROOT / "data" / "phonetics.js"
 ICON_DIR = ROOT / "icons"
 
 REQUIRED = {
@@ -40,6 +42,30 @@ def write_words_js(words: list[dict]) -> None:
     OUT_JS.write_text(
         "/* Generated from words.json by scripts/build.py. */\n"
         f"window.VOCAB = {payload};\n",
+        encoding="utf-8",
+    )
+
+
+def load_phonetics() -> dict:
+    data = json.loads(PHONETICS_FILE.read_text(encoding="utf-8"))
+    ids = set()
+    for section in ("vowels", "consonants", "tones"):
+        if not isinstance(data.get(section), list):
+            raise ValueError(f"phonetics.json missing list: {section}")
+        for item in data[section]:
+            if not item.get("id") or item["id"] in ids:
+                raise ValueError(f"Duplicate/missing phonetics id in {section}: {item.get('id')}")
+            ids.add(item["id"])
+            if not item.get("example"):
+                raise ValueError(f"Phonetics {item['id']} missing example")
+    return data
+
+
+def write_phonetics_js(data: dict) -> None:
+    payload = json.dumps(data, ensure_ascii=False, indent=2)
+    PHONETICS_JS.write_text(
+        "/* Generated from phonetics.json by scripts/build.py. */\n"
+        f"window.PHONETICS = {payload};\n",
         encoding="utf-8",
     )
 
@@ -153,11 +179,17 @@ def write_icons() -> None:
 def main() -> None:
     words = load_words()
     write_words_js(words)
+    phonetics = load_phonetics()
+    write_phonetics_js(phonetics)
     write_icons()
     lessons = sorted({item["lesson"] for item in words})
     topics = sorted({item["topic"] for item in words})
     print(f"OK: {len(words)} words, lessons={lessons}, topics={topics}")
-    print(f"Wrote {OUT_JS.relative_to(ROOT)} and {ICON_DIR.relative_to(ROOT)}/")
+    print(
+        f"OK: phonetics vowels={len(phonetics['vowels'])}, "
+        f"consonants={len(phonetics['consonants'])}, tones={len(phonetics['tones'])}"
+    )
+    print(f"Wrote {OUT_JS.relative_to(ROOT)}, {PHONETICS_JS.relative_to(ROOT)} and {ICON_DIR.relative_to(ROOT)}/")
 
 
 if __name__ == "__main__":

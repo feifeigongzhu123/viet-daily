@@ -1,0 +1,371 @@
+/* Generated from phonetics.json by scripts/build.py. */
+window.PHONETICS = {
+  "version": "1.0.0",
+  "author": "安得半日闲",
+  "vowels": [
+    {
+      "id": "v-a",
+      "symbol": "a",
+      "ipa": "aː",
+      "example": "ba",
+      "meaning": "三；爸爸",
+      "tip": "嘴张大，声音拉长。"
+    },
+    {
+      "id": "v-a-breve",
+      "symbol": "ă",
+      "ipa": "a",
+      "example": "ăn",
+      "meaning": "吃",
+      "tip": "短促的 a，不要拖长。"
+    },
+    {
+      "id": "v-a-circ",
+      "symbol": "â",
+      "ipa": "ə",
+      "example": "cân",
+      "meaning": "公斤；秤",
+      "tip": "中央元音，嘴巴放松。"
+    },
+    {
+      "id": "v-e",
+      "symbol": "e",
+      "ipa": "ɛ",
+      "example": "me",
+      "meaning": "妈妈",
+      "tip": "嘴角向两边展开。"
+    },
+    {
+      "id": "v-e-circ",
+      "symbol": "ê",
+      "ipa": "e",
+      "example": "mê",
+      "meaning": "着迷；入迷",
+      "tip": "比 e 更紧、更靠前。"
+    },
+    {
+      "id": "v-i",
+      "symbol": "i",
+      "ipa": "i",
+      "example": "mi",
+      "meaning": "面条",
+      "tip": "嘴角拉开，舌位高。"
+    },
+    {
+      "id": "v-y",
+      "symbol": "y",
+      "ipa": "i",
+      "example": "ly",
+      "meaning": "玻璃杯",
+      "tip": "y 作元音时与 i 相同。"
+    },
+    {
+      "id": "v-o",
+      "symbol": "o",
+      "ipa": "ɔ",
+      "example": "cò",
+      "meaning": "鹭；白鹭",
+      "tip": "嘴唇圆，开口较大。"
+    },
+    {
+      "id": "v-o-circ",
+      "symbol": "ô",
+      "ipa": "o",
+      "example": "cô",
+      "meaning": "老师；阿姨",
+      "tip": "嘴唇圆而紧。"
+    },
+    {
+      "id": "v-o-horn",
+      "symbol": "ơ",
+      "ipa": "əː",
+      "example": "mơ",
+      "meaning": "梦；做梦",
+      "tip": "嘴唇放松，舌位居中。"
+    },
+    {
+      "id": "v-u",
+      "symbol": "u",
+      "ipa": "u",
+      "example": "mù",
+      "meaning": "雾；盲",
+      "tip": "嘴唇收圆，舌位高。"
+    },
+    {
+      "id": "v-u-horn",
+      "symbol": "ư",
+      "ipa": "ɨ",
+      "example": "tư",
+      "meaning": "私人的；四",
+      "tip": "不圆唇的 u，舌位高而靠后。"
+    }
+  ],
+  "consonants": [
+    {
+      "id": "c-b",
+      "symbol": "b",
+      "ipa": "ɓ",
+      "example": "ba",
+      "meaning": "三；爸爸",
+      "tip": "内爆音，喉部先闭合。"
+    },
+    {
+      "id": "c-c",
+      "symbol": "c",
+      "ipa": "k",
+      "example": "cá",
+      "meaning": "鱼",
+      "tip": "不送气的 k。"
+    },
+    {
+      "id": "c-ch",
+      "symbol": "ch",
+      "ipa": "tɕ",
+      "example": "chó",
+      "meaning": "狗",
+      "tip": "舌面音，不卷舌。"
+    },
+    {
+      "id": "c-d",
+      "symbol": "d",
+      "ipa": "z",
+      "example": "da",
+      "meaning": "皮肤",
+      "tip": "河内音接近 z。"
+    },
+    {
+      "id": "c-dd",
+      "symbol": "đ",
+      "ipa": "ɗ",
+      "example": "đá",
+      "meaning": "石头；踢",
+      "tip": "内爆音，喉部先闭合。"
+    },
+    {
+      "id": "c-g",
+      "symbol": "g",
+      "ipa": "ɣ",
+      "example": "gà",
+      "meaning": "鸡",
+      "tip": "浊软腭擦音。"
+    },
+    {
+      "id": "c-gh",
+      "symbol": "gh",
+      "ipa": "ɣ",
+      "example": "ghế",
+      "meaning": "椅子",
+      "tip": "只用于 e、ê、i 前。"
+    },
+    {
+      "id": "c-gi",
+      "symbol": "gi",
+      "ipa": "z",
+      "example": "giày",
+      "meaning": "鞋",
+      "tip": "河内音接近 z。"
+    },
+    {
+      "id": "c-h",
+      "symbol": "h",
+      "ipa": "h",
+      "example": "ho",
+      "meaning": "咳嗽",
+      "tip": "轻哈气。"
+    },
+    {
+      "id": "c-k",
+      "symbol": "k",
+      "ipa": "k",
+      "example": "kem",
+      "meaning": "冰淇淋",
+      "tip": "只用于 e、ê、i、y 前。"
+    },
+    {
+      "id": "c-kh",
+      "symbol": "kh",
+      "ipa": "x",
+      "example": "khô",
+      "meaning": "干",
+      "tip": "像哈气，不是 k。"
+    },
+    {
+      "id": "c-l",
+      "symbol": "l",
+      "ipa": "l",
+      "example": "lá",
+      "meaning": "叶子",
+      "tip": "舌尖抵上齿龈。"
+    },
+    {
+      "id": "c-m",
+      "symbol": "m",
+      "ipa": "m",
+      "example": "mèo",
+      "meaning": "猫",
+      "tip": "双唇闭合。"
+    },
+    {
+      "id": "c-n",
+      "symbol": "n",
+      "ipa": "n",
+      "example": "nước",
+      "meaning": "水；国家",
+      "tip": "舌尖鼻音。"
+    },
+    {
+      "id": "c-ng",
+      "symbol": "ng",
+      "ipa": "ŋ",
+      "example": "ngựa",
+      "meaning": "马",
+      "tip": "后鼻音，像“嗯”的尾音。"
+    },
+    {
+      "id": "c-ngh",
+      "symbol": "ngh",
+      "ipa": "ŋ",
+      "example": "nghỉ",
+      "meaning": "休息",
+      "tip": "只用于 e、ê、i 前。"
+    },
+    {
+      "id": "c-nh",
+      "symbol": "nh",
+      "ipa": "ɲ",
+      "example": "nhà",
+      "meaning": "家",
+      "tip": "舌面鼻音，像“泥”的声母。"
+    },
+    {
+      "id": "c-p",
+      "symbol": "p",
+      "ipa": "p",
+      "example": "pin",
+      "meaning": "电池",
+      "tip": "多用于外来词；词尾 p 不爆破。"
+    },
+    {
+      "id": "c-ph",
+      "symbol": "ph",
+      "ipa": "f",
+      "example": "phở",
+      "meaning": "河粉",
+      "tip": "读 f，不读 p+h。"
+    },
+    {
+      "id": "c-qu",
+      "symbol": "qu",
+      "ipa": "kw",
+      "example": "quả",
+      "meaning": "水果；果实",
+      "tip": "q 后接 w 音。"
+    },
+    {
+      "id": "c-r",
+      "symbol": "r",
+      "ipa": "z",
+      "example": "rau",
+      "meaning": "蔬菜",
+      "tip": "河内音接近 z。"
+    },
+    {
+      "id": "c-s",
+      "symbol": "s",
+      "ipa": "s",
+      "example": "sách",
+      "meaning": "书",
+      "tip": "河内音读 s，不卷舌。"
+    },
+    {
+      "id": "c-t",
+      "symbol": "t",
+      "ipa": "t",
+      "example": "táo",
+      "meaning": "苹果",
+      "tip": "不送气的 t。"
+    },
+    {
+      "id": "c-th",
+      "symbol": "th",
+      "ipa": "tʰ",
+      "example": "thỏ",
+      "meaning": "兔子",
+      "tip": "送气 t。"
+    },
+    {
+      "id": "c-tr",
+      "symbol": "tr",
+      "ipa": "ʈ",
+      "example": "trâu",
+      "meaning": "水牛",
+      "tip": "卷舌音，河内有时与 ch 混。"
+    },
+    {
+      "id": "c-v",
+      "symbol": "v",
+      "ipa": "v",
+      "example": "và",
+      "meaning": "和；与",
+      "tip": "上齿轻触下唇。"
+    },
+    {
+      "id": "c-x",
+      "symbol": "x",
+      "ipa": "s",
+      "example": "xe",
+      "meaning": "车",
+      "tip": "河内音与 s 接近。"
+    }
+  ],
+  "tones": [
+    {
+      "id": "t-ngang",
+      "name": "平声",
+      "mark": "˧",
+      "example": "ma",
+      "meaning": "鬼；幽灵",
+      "tip": "中平，声音保持平稳。"
+    },
+    {
+      "id": "t-huyen",
+      "name": "玄声",
+      "mark": "˨˩",
+      "example": "mà",
+      "meaning": "但是；而",
+      "tip": "低降，声音从低处往下。"
+    },
+    {
+      "id": "t-sac",
+      "name": "锐声",
+      "mark": "˧˥",
+      "example": "má",
+      "meaning": "脸颊；妈妈",
+      "tip": "高升，声音往上抬。"
+    },
+    {
+      "id": "t-hoi",
+      "name": "问声",
+      "mark": "˧˩˧",
+      "example": "mả",
+      "meaning": "坟墓",
+      "tip": "先降后升，像中文三声。"
+    },
+    {
+      "id": "t-nga",
+      "name": "跌声",
+      "mark": "˧ˀ˥",
+      "example": "mã",
+      "meaning": "马；代码",
+      "tip": "紧升，喉部略收紧。"
+    },
+    {
+      "id": "t-nang",
+      "name": "重声",
+      "mark": "˧ˀ˩",
+      "example": "mạ",
+      "meaning": "稻秧",
+      "tip": "低短，喉部收紧。"
+    }
+  ]
+};

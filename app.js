@@ -1,11 +1,15 @@
+/* 越词 · VietDaily · © 2026 安得半日闲 · v1.0.0 */
 (() => {
   "use strict";
 
   const WORDS = Array.isArray(window.VOCAB) ? window.VOCAB : [];
+  const PHONETIC_DATA = window.PHONETICS || { vowels: [], consonants: [], tones: [] };
+  const APP_VERSION = "1.0.0";
+  const APP_AUTHOR = "安得半日闲";
   const BY_ID = new Map(WORDS.map((word) => [word.id, word]));
   const STORAGE_KEY = "vietdaily.v1";
   const DAY_MS = 86400000;
-  const DEFAULT_SETTINGS = { dailyTarget: 5, speed: 1, showHomophone: true };
+  const DEFAULT_SETTINGS = { dailyTarget: 5, speed: 1, showHomophone: true, uiSize: "standard" };
   const INTERVALS = [3, 7, 15, 30, 60, 120, 240];
   const VN_WEEKDAYS = ["CHỦ NHẬT", "THỨ HAI", "THỨ BA", "THỨ TƯ", "THỨ NĂM", "THỨ SÁU", "THỨ BẢY"];
   const TOPICS = [...new Set(WORDS.map((word) => word.topic))];
@@ -133,6 +137,9 @@
       };
       if (![3, 5, 8].includes(result.settings.dailyTarget)) result.settings.dailyTarget = 5;
       if (![0.75, 1, 1.25].includes(Number(result.settings.speed))) result.settings.speed = 1;
+      if (!["compact", "standard", "large", "xlarge"].includes(result.settings.uiSize)) {
+        result.settings.uiSize = "standard";
+      }
       result.settings.showHomophone = result.settings.showHomophone !== false;
       return result;
     } catch (error) {
@@ -410,6 +417,24 @@
         </div>`;
 
     view.innerHTML = hero + rail + lower;
+    renderGradeDock(record, complete);
+  }
+
+  function renderGradeDock(record, complete) {
+    const dock = $("#grade-dock");
+    if (!dock) return;
+    if (state.view !== "today" || complete || !record || !record.ids.length) {
+      dock.hidden = true;
+      return;
+    }
+    const id = record.ids[state.index] || record.ids[0];
+    const result = record.results[id];
+    dock.hidden = false;
+    $$("button", dock).forEach((button) => {
+      const active = button.dataset.result === result;
+      button.classList.toggle("is-selected", active);
+      button.setAttribute("aria-pressed", String(active));
+    });
   }
 
   function renderPlanRail(record, complete) {
@@ -687,6 +712,124 @@
     }
   }
 
+  function renderPhonetics() {
+    const view = $("#view-phonetics");
+    if (!view) return;
+
+    const vowelCards = PHONETIC_DATA.vowels
+      .map(
+        (item) => `
+          <article class="phonetic-card">
+            <div class="phonetic-top">
+              <span class="phonetic-symbol">${escapeHtml(item.symbol)}</span>
+              <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
+                item.example,
+              )}">${icon("volume")}</button>
+            </div>
+            <div class="phonetic-ipa">/${escapeHtml(item.ipa)}/</div>
+            <div class="phonetic-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
+            <p class="phonetic-tip">${escapeHtml(item.tip)}</p>
+          </article>`,
+      )
+      .join("");
+
+    const consonantCards = PHONETIC_DATA.consonants
+      .map(
+        (item) => `
+          <article class="phonetic-card">
+            <div class="phonetic-top">
+              <span class="phonetic-symbol phonetic-symbol-text">${escapeHtml(item.symbol)}</span>
+              <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
+                item.example,
+              )}">${icon("volume")}</button>
+            </div>
+            <div class="phonetic-ipa">/${escapeHtml(item.ipa)}/</div>
+            <div class="phonetic-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
+            <p class="phonetic-tip">${escapeHtml(item.tip)}</p>
+          </article>`,
+      )
+      .join("");
+
+    const toneCards = PHONETIC_DATA.tones
+      .map(
+        (item) => `
+          <article class="tone-card">
+            <div class="tone-head">
+              <span class="tone-mark">${escapeHtml(item.mark)}</span>
+              <div><strong>${escapeHtml(item.name)}</strong><small>${escapeHtml(item.mark)}</small></div>
+              <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
+                item.example,
+              )}">${icon("volume")}</button>
+            </div>
+            <div class="tone-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
+            <p class="phonetic-tip">${escapeHtml(item.tip)}</p>
+          </article>`,
+      )
+      .join("");
+
+    view.innerHTML = `
+      <div class="page-head">
+        <p class="eyebrow">PHÁT ÂM · 发音</p>
+        <h1>语音基础</h1>
+        <p>先听示例词，再记字母名。元音、辅音和 6 个声调。</p>
+      </div>
+      <div class="phonetic-note">
+        <span class="info-dot">i</span>
+        <span>越南语有 6 个声调。声调不同，词义会完全不同，请以音频和 IPA 为准。</span>
+      </div>
+      <section class="phonetic-section">
+        <div class="section-heading"><h2>元音</h2><p>${PHONETIC_DATA.vowels.length} 个</p></div>
+        <div class="phonetic-grid">${vowelCards}</div>
+      </section>
+      <section class="phonetic-section">
+        <div class="section-heading"><h2>辅音</h2><p>${PHONETIC_DATA.consonants.length} 个</p></div>
+        <div class="phonetic-grid">${consonantCards}</div>
+      </section>
+      <section class="phonetic-section">
+        <div class="section-heading"><h2>声调</h2><p>以 ma 为例</p></div>
+        <div class="tone-list">${toneCards}</div>
+      </section>
+      <p class="footnote">© 2026 ${APP_AUTHOR} · v${APP_VERSION} · 保留所有权利</p>`;
+  }
+
+  function findPhonetic(id) {
+    return [...PHONETIC_DATA.vowels, ...PHONETIC_DATA.consonants, ...PHONETIC_DATA.tones].find(
+      (item) => item.id === id,
+    );
+  }
+
+  function playPhonetic(id) {
+    const item = findPhonetic(id);
+    if (!item) return;
+    const player = state.player || $("#player");
+    if (!player) return;
+    state.player = player;
+    const source = `audio/phonetics/${id}.mp3`;
+    player.pause();
+    player.onended = null;
+    player.onerror = null;
+    player.src = source;
+    player.currentTime = 0;
+    player.playbackRate = Number(store.settings.speed) || 1;
+    player.onended = clearPlayingState;
+    player.onerror = () => {
+      clearPlayingState();
+      speakFallback(item.example, Number(store.settings.speed) || 1);
+    };
+    clearPlayingState();
+    $$(`[data-action="play-phonetic"][data-id="${id}"]`).forEach((button) =>
+      button.classList.add("is-playing"),
+    );
+    const promise = player.play();
+    if (promise && typeof promise.catch === "function") {
+      promise.catch((error) => {
+        if (error && error.name === "AbortError") return;
+        clearPlayingState();
+        speakFallback(item.example, Number(store.settings.speed) || 1);
+      });
+    }
+  }
+
   function renderMe() {
     const view = $("#view-me");
     if (!view) return;
@@ -729,6 +872,18 @@
       .map(
         ([value, label]) =>
           `<button class="${Number(store.settings.speed) === value ? "is-active" : ""}" type="button" data-action="set-speed" data-value="${value}">${label}</button>`,
+      )
+      .join("");
+
+    const uiSizeButtons = [
+      ["compact", "紧凑"],
+      ["standard", "标准"],
+      ["large", "大"],
+      ["xlarge", "特大"],
+    ]
+      .map(
+        ([value, label]) =>
+          `<button class="${store.settings.uiSize === value ? "is-active" : ""}" type="button" data-action="set-ui-size" data-value="${value}">${label}</button>`,
       )
       .join("");
 
@@ -775,6 +930,10 @@
           <div class="segmented" aria-label="播放速度">${speedButtons}</div>
         </div>
         <div class="setting-row">
+          <div class="setting-copy"><strong>显示大小</strong><span>小屏用紧凑；视力不便用特大</span></div>
+          <div class="segmented" aria-label="显示大小">${uiSizeButtons}</div>
+        </div>
+        <div class="setting-row">
           <div class="setting-copy"><strong>显示中文谐音</strong><span>谐音只作辅助，建议以 IPA 为准</span></div>
           <button class="switch ${store.settings.showHomophone ? "is-on" : ""}" type="button" role="switch" aria-checked="${
             store.settings.showHomophone
@@ -795,6 +954,8 @@
           <p><strong>IPA 调符：</strong>˧ 平声 · ˨˩ 玄声 · ˧˥ 锐声 · ˧˩˧ 问声 · ˧ˀ˥ 跌声 · ˧ˀ˩ 重声。</p>
           <p><strong>例句：</strong>教材词为教材/公开页面例句；通用词大部分来自 Tatoeba 真实例句（中文为机器翻译），少数为按词性生成的简单句，不是教材原句。</p>
           <p><strong>音频：</strong>由 Microsoft Edge 神经网络语音 vi-VN-HoaiMyNeural 预生成；1016 个单词和 1016 条例句都有离线音频，共约 20 MB。</p>
+          <p><strong>版权：</strong>© 2026 ${APP_AUTHOR}。保留所有权利。第三方词表、例句和语音服务的许可见仓库 THIRD_PARTY_NOTICES.md。</p>
+          <p><strong>版本：</strong>v${APP_VERSION} · 作者：${APP_AUTHOR}</p>
           <p><strong>隐私：</strong>学习进度只保存在本机浏览器，不上传服务器，也不需要登录。</p>
         </div>
       </details>
@@ -805,7 +966,7 @@
           <button class="danger-btn" type="button" data-action="reset-progress">清除</button>
         </div>
       </div>
-      <p class="footnote">越词 · Việt Từ 1.0 · 数据保存在本机</p>`;
+      <p class="footnote">© 2026 ${APP_AUTHOR} · 越词 Việt Từ v${APP_VERSION} · 保留所有权利</p>`;
   }
 
   function renderInstallCard() {
@@ -1058,6 +1219,25 @@
     showToast(`播放速度：${value}×`);
   }
 
+  function applyUiSize() {
+    const value = ["compact", "standard", "large", "xlarge"].includes(store.settings.uiSize)
+      ? store.settings.uiSize
+      : "standard";
+    document.documentElement.dataset.uiSize = value;
+  }
+
+  function setUiSize(value) {
+    if (!["compact", "standard", "large", "xlarge"].includes(value)) return;
+    store.settings.uiSize = value;
+    saveStore();
+    applyUiSize();
+    renderMe();
+    if (state.view === "today") renderToday();
+    if (state.sheetWordId) renderSheet();
+    const labels = { compact: "紧凑", standard: "标准", large: "大", xlarge: "特大" };
+    showToast(`显示大小：${labels[value]}`);
+  }
+
   function toggleHomophone() {
     store.settings.showHomophone = !store.settings.showHomophone;
     saveStore();
@@ -1077,6 +1257,7 @@
     state.autoIndex = true;
     saveStore();
     closeConfirm();
+    applyUiSize();
     ensureTodayPlan();
     renderChrome();
     if (state.view === "today") renderToday();
@@ -1194,7 +1375,7 @@
   }
 
   function switchView(name, { scroll = true } = {}) {
-    if (!["today", "library", "me"].includes(name)) name = "today";
+    if (!["today", "library", "phonetics", "me"].includes(name)) name = "today";
     state.view = name;
     $$(".view").forEach((view) => {
       view.hidden = view.dataset.view !== name;
@@ -1208,8 +1389,13 @@
 
     if (name === "today") renderToday();
     if (name === "library") renderLibrary();
+    if (name === "phonetics") renderPhonetics();
     if (name === "me") renderMe();
     renderChrome();
+    if (name !== "today") {
+      const dock = $("#grade-dock");
+      if (dock) dock.hidden = true;
+    }
 
     if (scroll) {
       const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1275,6 +1461,10 @@
         event.preventDefault();
         playAudio(actionElement.dataset.id, "example");
         break;
+      case "play-phonetic":
+        event.preventDefault();
+        playPhonetic(actionElement.dataset.id);
+        break;
       case "grade":
         event.preventDefault();
         applyGrade(actionElement.dataset.id || (state.plan && state.plan.ids[state.index]), actionElement.dataset.result, {
@@ -1324,6 +1514,9 @@
         break;
       case "set-speed":
         setSpeed(Number(actionElement.dataset.value));
+        break;
+      case "set-ui-size":
+        setUiSize(actionElement.dataset.value);
         break;
       case "toggle-homophone":
         toggleHomophone();
@@ -1408,11 +1601,12 @@
       renderToday();
       return;
     }
+    applyUiSize();
     ensureTodayPlan();
 
     const params = new URLSearchParams(window.location.search);
     const requested = params.get("view");
-    const initialView = ["today", "library", "me"].includes(requested) ? requested : "today";
+    const initialView = ["today", "library", "phonetics", "me"].includes(requested) ? requested : "today";
     state.view = initialView;
     $$(".view").forEach((view) => {
       view.hidden = view.dataset.view !== initialView;
@@ -1426,6 +1620,7 @@
 
     if (initialView === "today") renderToday();
     if (initialView === "library") renderLibrary();
+    if (initialView === "phonetics") renderPhonetics();
     if (initialView === "me") renderMe();
     renderChrome();
 
