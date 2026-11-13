@@ -9,7 +9,8 @@ window.PHONETICS = {
       "ipa": "aː",
       "example": "ba",
       "meaning": "三；爸爸",
-      "tip": "嘴张大，声音拉长。"
+      "tip": "嘴张大，声音拉长。",
+      "soundText": "a"
     },
     {
       "id": "v-a-breve",
@@ -17,7 +18,8 @@ window.PHONETICS = {
       "ipa": "a",
       "example": "ăn",
       "meaning": "吃",
-      "tip": "短促的 a，不要拖长。"
+      "tip": "短促的 a，不要拖长。",
+      "soundText": "ă"
     },
     {
       "id": "v-a-circ",
@@ -25,7 +27,8 @@ window.PHONETICS = {
       "ipa": "ə",
       "example": "cân",
       "meaning": "公斤；秤",
-      "tip": "中央元音，嘴巴放松。"
+      "tip": "中央元音，嘴巴放松。",
+      "soundText": "â"
     },
     {
       "id": "v-e",
@@ -33,7 +36,8 @@ window.PHONETICS = {
       "ipa": "ɛ",
       "example": "me",
       "meaning": "妈妈",
-      "tip": "嘴角向两边展开。"
+      "tip": "嘴角向两边展开。",
+      "soundText": "e"
     },
     {
       "id": "v-e-circ",
@@ -41,7 +45,8 @@ window.PHONETICS = {
       "ipa": "e",
       "example": "mê",
       "meaning": "着迷；入迷",
-      "tip": "比 e 更紧、更靠前。"
+      "tip": "比 e 更紧、更靠前。",
+      "soundText": "ê"
     },
     {
       "id": "v-i",
@@ -49,7 +54,8 @@ window.PHONETICS = {
       "ipa": "i",
       "example": "mi",
       "meaning": "面条",
-      "tip": "嘴角拉开，舌位高。"
+      "tip": "嘴角拉开，舌位高。",
+      "soundText": "i"
     },
     {
       "id": "v-y",
@@ -57,7 +63,8 @@ window.PHONETICS = {
       "ipa": "i",
       "example": "ly",
       "meaning": "玻璃杯",
-      "tip": "y 作元音时与 i 相同。"
+      "tip": "y 作元音时与 i 相同。",
+      "soundText": "y"
     },
     {
       "id": "v-o",
@@ -65,7 +72,8 @@ window.PHONETICS = {
       "ipa": "ɔ",
       "example": "cò",
       "meaning": "鹭；白鹭",
-      "tip": "嘴唇圆，开口较大。"
+      "tip": "嘴唇圆，开口较大。",
+      "soundText": "o"
     },
     {
       "id": "v-o-circ",
@@ -73,7 +81,8 @@ window.PHONETICS = {
       "ipa": "o",
       "example": "cô",
       "meaning": "老师；阿姨",
-      "tip": "嘴唇圆而紧。"
+      "tip": "嘴唇圆而紧。",
+      "soundText": "ô"
     },
     {
       "id": "v-o-horn",
@@ -81,7 +90,8 @@ window.PHONETICS = {
       "ipa": "əː",
       "example": "mơ",
       "meaning": "梦；做梦",
-      "tip": "嘴唇放松，舌位居中。"
+      "tip": "嘴唇放松，舌位居中。",
+      "soundText": "ơ"
     },
     {
       "id": "v-u",
@@ -89,7 +99,8 @@ window.PHONETICS = {
       "ipa": "u",
       "example": "mù",
       "meaning": "雾；盲",
-      "tip": "嘴唇收圆，舌位高。"
+      "tip": "嘴唇收圆，舌位高。",
+      "soundText": "u"
     },
     {
       "id": "v-u-horn",
@@ -97,7 +108,8 @@ window.PHONETICS = {
       "ipa": "ɨ",
       "example": "tư",
       "meaning": "私人的；四",
-      "tip": "不圆唇的 u，舌位高而靠后。"
+      "tip": "不圆唇的 u，舌位高而靠后。",
+      "soundText": "ư"
     }
   ],
   "consonants": [
@@ -107,7 +119,8 @@ window.PHONETICS = {
       "ipa": "ɓ",
       "example": "ba",
       "meaning": "三；爸爸",
-      "tip": "内爆音，喉部先闭合。"
+      "tip": "内爆音，喉部先闭合。",
+      "soundText": "bờ"
     },
     {
       "id": "c-c",
@@ -115,7 +128,8 @@ window.PHONETICS = {
       "ipa": "k",
       "example": "cá",
       "meaning": "鱼",
-      "tip": "不送气的 k。"
+      "tip": "不送气的 k。",
+      "soundText": "cờ"
     },
     {
       "id": "c-ch",
@@ -123,7 +137,8 @@ window.PHONETICS = {
       "ipa": "tɕ",
       "example": "chó",
       "meaning": "狗",
-      "tip": "舌面音，不卷舌。"
+      "tip": "舌面音，不卷舌。",
+      "soundText": "chờ"
     },
     {
       "id": "c-d",
@@ -131,7 +146,8 @@ window.PHONETICS = {
       "ipa": "z",
       "example": "da",
       "meaning": "皮肤",
-      "tip": "河内音接近 z。"
+      "tip": "河内音接近 z。",
+      "soundText": "dờ"
     },
     {
       "id": "c-dd",
@@ -139,7 +155,8 @@ window.PHONETICS = {
       "ipa": "ɗ",
       "example": "đá",
       "meaning": "石头；踢",
-      "tip": "内爆音，喉部先闭合。"
+      "tip": "内爆音，喉部先闭合。",
+      "soundText": "đờ"
     },
     {
       "id": "c-g",
@@ -147,7 +164,8 @@ window.PHONETICS = {
       "ipa": "ɣ",
       "example": "gà",
       "meaning": "鸡",
-      "tip": "浊软腭擦音。"
+      "tip": "浊软腭擦音。",
+      "soundText": "gờ"
     },
     {
       "id": "c-gh",
@@ -155,7 +173,8 @@ window.PHONETICS = {
       "ipa": "ɣ",
       "example": "ghế",
       "meaning": "椅子",
-      "tip": "只用于 e、ê、i 前。"
+      "tip": "只用于 e、ê、i 前。",
+      "soundText": "ghờ"
     },
     {
       "id": "c-gi",
@@ -163,7 +182,8 @@ window.PHONETICS = {
       "ipa": "z",
       "example": "giày",
       "meaning": "鞋",
-      "tip": "河内音接近 z。"
+      "tip": "河内音接近 z。",
+      "soundText": "giờ"
     },
     {
       "id": "c-h",
@@ -171,7 +191,8 @@ window.PHONETICS = {
       "ipa": "h",
       "example": "ho",
       "meaning": "咳嗽",
-      "tip": "轻哈气。"
+      "tip": "轻哈气。",
+      "soundText": "hờ"
     },
     {
       "id": "c-k",
@@ -179,7 +200,8 @@ window.PHONETICS = {
       "ipa": "k",
       "example": "kem",
       "meaning": "冰淇淋",
-      "tip": "只用于 e、ê、i、y 前。"
+      "tip": "只用于 e、ê、i、y 前。",
+      "soundText": "kờ"
     },
     {
       "id": "c-kh",
@@ -187,7 +209,8 @@ window.PHONETICS = {
       "ipa": "x",
       "example": "khô",
       "meaning": "干",
-      "tip": "像哈气，不是 k。"
+      "tip": "像哈气，不是 k。",
+      "soundText": "khờ"
     },
     {
       "id": "c-l",
@@ -195,7 +218,8 @@ window.PHONETICS = {
       "ipa": "l",
       "example": "lá",
       "meaning": "叶子",
-      "tip": "舌尖抵上齿龈。"
+      "tip": "舌尖抵上齿龈。",
+      "soundText": "lờ"
     },
     {
       "id": "c-m",
@@ -203,7 +227,8 @@ window.PHONETICS = {
       "ipa": "m",
       "example": "mèo",
       "meaning": "猫",
-      "tip": "双唇闭合。"
+      "tip": "双唇闭合。",
+      "soundText": "mờ"
     },
     {
       "id": "c-n",
@@ -211,7 +236,8 @@ window.PHONETICS = {
       "ipa": "n",
       "example": "nước",
       "meaning": "水；国家",
-      "tip": "舌尖鼻音。"
+      "tip": "舌尖鼻音。",
+      "soundText": "nờ"
     },
     {
       "id": "c-ng",
@@ -219,7 +245,8 @@ window.PHONETICS = {
       "ipa": "ŋ",
       "example": "ngựa",
       "meaning": "马",
-      "tip": "后鼻音，像“嗯”的尾音。"
+      "tip": "后鼻音，像“嗯”的尾音。",
+      "soundText": "ngờ"
     },
     {
       "id": "c-ngh",
@@ -227,7 +254,8 @@ window.PHONETICS = {
       "ipa": "ŋ",
       "example": "nghỉ",
       "meaning": "休息",
-      "tip": "只用于 e、ê、i 前。"
+      "tip": "只用于 e、ê、i 前。",
+      "soundText": "nghờ"
     },
     {
       "id": "c-nh",
@@ -235,7 +263,8 @@ window.PHONETICS = {
       "ipa": "ɲ",
       "example": "nhà",
       "meaning": "家",
-      "tip": "舌面鼻音，像“泥”的声母。"
+      "tip": "舌面鼻音，像“泥”的声母。",
+      "soundText": "nhờ"
     },
     {
       "id": "c-p",
@@ -243,7 +272,8 @@ window.PHONETICS = {
       "ipa": "p",
       "example": "pin",
       "meaning": "电池",
-      "tip": "多用于外来词；词尾 p 不爆破。"
+      "tip": "多用于外来词；词尾 p 不爆破。",
+      "soundText": "pờ"
     },
     {
       "id": "c-ph",
@@ -251,7 +281,8 @@ window.PHONETICS = {
       "ipa": "f",
       "example": "phở",
       "meaning": "河粉",
-      "tip": "读 f，不读 p+h。"
+      "tip": "读 f，不读 p+h。",
+      "soundText": "phờ"
     },
     {
       "id": "c-qu",
@@ -259,7 +290,8 @@ window.PHONETICS = {
       "ipa": "kw",
       "example": "quả",
       "meaning": "水果；果实",
-      "tip": "q 后接 w 音。"
+      "tip": "q 后接 w 音。",
+      "soundText": "quờ"
     },
     {
       "id": "c-r",
@@ -267,7 +299,8 @@ window.PHONETICS = {
       "ipa": "z",
       "example": "rau",
       "meaning": "蔬菜",
-      "tip": "河内音接近 z。"
+      "tip": "河内音接近 z。",
+      "soundText": "rờ"
     },
     {
       "id": "c-s",
@@ -275,7 +308,8 @@ window.PHONETICS = {
       "ipa": "s",
       "example": "sách",
       "meaning": "书",
-      "tip": "河内音读 s，不卷舌。"
+      "tip": "河内音读 s，不卷舌。",
+      "soundText": "sờ"
     },
     {
       "id": "c-t",
@@ -283,7 +317,8 @@ window.PHONETICS = {
       "ipa": "t",
       "example": "táo",
       "meaning": "苹果",
-      "tip": "不送气的 t。"
+      "tip": "不送气的 t。",
+      "soundText": "tờ"
     },
     {
       "id": "c-th",
@@ -291,7 +326,8 @@ window.PHONETICS = {
       "ipa": "tʰ",
       "example": "thỏ",
       "meaning": "兔子",
-      "tip": "送气 t。"
+      "tip": "送气 t。",
+      "soundText": "thờ"
     },
     {
       "id": "c-tr",
@@ -299,7 +335,8 @@ window.PHONETICS = {
       "ipa": "ʈ",
       "example": "trâu",
       "meaning": "水牛",
-      "tip": "卷舌音，河内有时与 ch 混。"
+      "tip": "卷舌音，河内有时与 ch 混。",
+      "soundText": "trờ"
     },
     {
       "id": "c-v",
@@ -307,7 +344,8 @@ window.PHONETICS = {
       "ipa": "v",
       "example": "và",
       "meaning": "和；与",
-      "tip": "上齿轻触下唇。"
+      "tip": "上齿轻触下唇。",
+      "soundText": "vờ"
     },
     {
       "id": "c-x",
@@ -315,7 +353,8 @@ window.PHONETICS = {
       "ipa": "s",
       "example": "xe",
       "meaning": "车",
-      "tip": "河内音与 s 接近。"
+      "tip": "河内音与 s 接近。",
+      "soundText": "xờ"
     }
   ],
   "tones": [
@@ -325,7 +364,8 @@ window.PHONETICS = {
       "mark": "˧",
       "example": "ma",
       "meaning": "鬼；幽灵",
-      "tip": "中平，声音保持平稳。"
+      "tip": "中平，声音保持平稳。",
+      "soundText": "ma"
     },
     {
       "id": "t-huyen",
@@ -333,7 +373,8 @@ window.PHONETICS = {
       "mark": "˨˩",
       "example": "mà",
       "meaning": "但是；而",
-      "tip": "低降，声音从低处往下。"
+      "tip": "低降，声音从低处往下。",
+      "soundText": "mà"
     },
     {
       "id": "t-sac",
@@ -341,7 +382,8 @@ window.PHONETICS = {
       "mark": "˧˥",
       "example": "má",
       "meaning": "脸颊；妈妈",
-      "tip": "高升，声音往上抬。"
+      "tip": "高升，声音往上抬。",
+      "soundText": "má"
     },
     {
       "id": "t-hoi",
@@ -349,7 +391,8 @@ window.PHONETICS = {
       "mark": "˧˩˧",
       "example": "mả",
       "meaning": "坟墓",
-      "tip": "先降后升，像中文三声。"
+      "tip": "先降后升，像中文三声。",
+      "soundText": "mả"
     },
     {
       "id": "t-nga",
@@ -357,7 +400,8 @@ window.PHONETICS = {
       "mark": "˧ˀ˥",
       "example": "mã",
       "meaning": "马；代码",
-      "tip": "紧升，喉部略收紧。"
+      "tip": "紧升，喉部略收紧。",
+      "soundText": "mã"
     },
     {
       "id": "t-nang",
@@ -365,7 +409,8 @@ window.PHONETICS = {
       "mark": "˧ˀ˩",
       "example": "mạ",
       "meaning": "稻秧",
-      "tip": "低短，喉部收紧。"
+      "tip": "低短，喉部收紧。",
+      "soundText": "mạ"
     }
   ]
 };

@@ -98,7 +98,7 @@ https://YOUR_NAME.github.io/viet-daily/
 com.yourname.vietdaily
 ```
 
-5. 应用名填「越词」，生成并下载 Android 包。
+5. 应用名填「越词通」，生成并下载 Android 包。
 6. 下载内容里通常包含：
    - APK / AAB
    - 签名密钥（务必保存好）

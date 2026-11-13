@@ -2357,11 +2357,7 @@ html[data-ui-size="compact"] {
 }
 
 html[data-ui-size="large"] {
-  --max: 580px;
-}
-
-html[data-ui-size="xlarge"] {
-  --max: 640px;
+  --max: 720px;
 }
 
 html[data-ui-size="compact"] .topbar {
@@ -2565,73 +2561,20 @@ html[data-ui-size="compact"] .nav-btn .icon {
   height: 20px;
 }
 
-html[data-ui-size="large"] .hero h1 {
-  font-size: clamp(27px, 7.8vw, 34px);
-}
+@media (min-width: 700px) {
+  html[data-ui-size="large"] .word-card {
+    max-width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+  }
 
-html[data-ui-size="large"] .word {
-  font-size: clamp(47px, 14vw, 67px);
-}
+  html[data-ui-size="large"] .library-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 
-html[data-ui-size="large"] .word.is-long {
-  font-size: clamp(32px, 9.2vw, 45px);
-}
-
-html[data-ui-size="large"] .meaning {
-  font-size: 22px;
-}
-
-html[data-ui-size="large"] .example-vi {
-  font-size: 18px;
-}
-
-html[data-ui-size="large"] .example-zh {
-  font-size: 13.5px;
-}
-
-html[data-ui-size="large"] .btn {
-  font-size: 15px;
-}
-
-html[data-ui-size="large"] .lib-word {
-  font-size: 18px;
-}
-
-html[data-ui-size="large"] .lib-meaning {
-  font-size: 12.5px;
-}
-
-html[data-ui-size="xlarge"] .hero h1 {
-  font-size: clamp(30px, 8.6vw, 38px);
-}
-
-html[data-ui-size="xlarge"] .word {
-  font-size: clamp(54px, 16vw, 76px);
-}
-
-html[data-ui-size="xlarge"] .word.is-long {
-  font-size: clamp(36px, 10.5vw, 50px);
-}
-
-html[data-ui-size="xlarge"] .meaning {
-  font-size: 24px;
-}
-
-html[data-ui-size="xlarge"] .example-vi {
-  font-size: 20px;
-}
-
-html[data-ui-size="xlarge"] .example-zh {
-  font-size: 14.5px;
-}
-
-html[data-ui-size="xlarge"] .btn {
-  min-height: 56px;
-  font-size: 16.5px;
-}
-
-html[data-ui-size="xlarge"] .ipa {
-  font-size: 15.5px;
+  html[data-ui-size="large"] .phonetic-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
 
 @media (max-height: 700px) {
@@ -2715,14 +2658,12 @@ html[data-ui-size="xlarge"] .ipa {
   box-shadow: 0 8px 24px rgba(86, 54, 23, 0.12);
 }
 
-@media (max-height: 760px) {
-  .grade-dock:not([hidden]) {
-    display: grid;
-  }
+.grade-dock:not([hidden]) {
+  display: grid;
+}
 
-  .main {
-    padding-bottom: calc(190px + env(safe-area-inset-bottom));
-  }
+.grade-dock-visible .main {
+  padding-bottom: calc(190px + env(safe-area-inset-bottom));
 }
 
 /* ---------- Phonetics ---------- */
@@ -2907,26 +2848,6 @@ html[data-ui-size="compact"] .phonetic-symbol {
 
 html[data-ui-size="compact"] .phonetic-tip {
   display: none;
-}
-
-html[data-ui-size="large"] .phonetic-symbol {
-  font-size: 44px;
-}
-
-html[data-ui-size="large"] .phonetic-example {
-  font-size: 16px;
-}
-
-html[data-ui-size="xlarge"] .phonetic-symbol {
-  font-size: 50px;
-}
-
-html[data-ui-size="xlarge"] .phonetic-example {
-  font-size: 18px;
-}
-
-html[data-ui-size="xlarge"] .phonetic-tip {
-  font-size: 11.5px;
 }
 
 @media (min-width: 620px) {

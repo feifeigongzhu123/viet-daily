@@ -1,10 +1,11 @@
-/* 越词 · VietDaily · © 2026 安得半日闲 · v1.0.0 */
+/* 越词通 · VietDaily · © 2026 安得半日闲 · v1.1.0 */
 (() => {
   "use strict";
 
   const WORDS = Array.isArray(window.VOCAB) ? window.VOCAB : [];
   const PHONETIC_DATA = window.PHONETICS || { vowels: [], consonants: [], tones: [] };
-  const APP_VERSION = "1.0.0";
+  const APP_VERSION = "1.1.0";
+  const APP_NAME = "越词通";
   const APP_AUTHOR = "安得半日闲";
   const BY_ID = new Map(WORDS.map((word) => [word.id, word]));
   const STORAGE_KEY = "vietdaily.v1";
@@ -137,7 +138,8 @@
       };
       if (![3, 5, 8].includes(result.settings.dailyTarget)) result.settings.dailyTarget = 5;
       if (![0.75, 1, 1.25].includes(Number(result.settings.speed))) result.settings.speed = 1;
-      if (!["compact", "standard", "large", "xlarge"].includes(result.settings.uiSize)) {
+      if (result.settings.uiSize === "xlarge") result.settings.uiSize = "large";
+      if (!["compact", "standard", "large"].includes(result.settings.uiSize)) {
         result.settings.uiSize = "standard";
       }
       result.settings.showHomophone = result.settings.showHomophone !== false;
@@ -423,18 +425,28 @@
   function renderGradeDock(record, complete) {
     const dock = $("#grade-dock");
     if (!dock) return;
-    if (state.view !== "today" || complete || !record || !record.ids.length) {
-      dock.hidden = true;
-      return;
-    }
+    const show =
+      state.view === "today" &&
+      !complete &&
+      record &&
+      record.ids.length > 0 &&
+      window.scrollY > 80;
+    dock.hidden = !show;
+    document.body.classList.toggle("grade-dock-visible", show);
+    if (!show) return;
     const id = record.ids[state.index] || record.ids[0];
     const result = record.results[id];
-    dock.hidden = false;
     $$("button", dock).forEach((button) => {
       const active = button.dataset.result === result;
       button.classList.toggle("is-selected", active);
       button.setAttribute("aria-pressed", String(active));
     });
+  }
+
+  function updateGradeDock() {
+    if (!state.plan) return;
+    const done = planDoneCount(state.plan);
+    renderGradeDock(state.plan, done >= state.plan.ids.length);
   }
 
   function renderPlanRail(record, complete) {
@@ -723,8 +735,8 @@
             <div class="phonetic-top">
               <span class="phonetic-symbol">${escapeHtml(item.symbol)}</span>
               <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
-                item.example,
-              )}">${icon("volume")}</button>
+                item.symbol,
+              )} 的发音">${icon("volume")}</button>
             </div>
             <div class="phonetic-ipa">/${escapeHtml(item.ipa)}/</div>
             <div class="phonetic-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
@@ -740,8 +752,8 @@
             <div class="phonetic-top">
               <span class="phonetic-symbol phonetic-symbol-text">${escapeHtml(item.symbol)}</span>
               <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
-                item.example,
-              )}">${icon("volume")}</button>
+                item.symbol,
+              )} 的发音">${icon("volume")}</button>
             </div>
             <div class="phonetic-ipa">/${escapeHtml(item.ipa)}/</div>
             <div class="phonetic-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
@@ -758,8 +770,8 @@
               <span class="tone-mark">${escapeHtml(item.mark)}</span>
               <div><strong>${escapeHtml(item.name)}</strong><small>${escapeHtml(item.mark)}</small></div>
               <button class="audio-round" type="button" data-action="play-phonetic" data-id="${item.id}" aria-label="播放 ${escapeHtml(
-                item.example,
-              )}">${icon("volume")}</button>
+                item.symbol,
+              )} 的发音">${icon("volume")}</button>
             </div>
             <div class="tone-example">${escapeHtml(item.example)} <span>${escapeHtml(item.meaning)}</span></div>
             <p class="phonetic-tip">${escapeHtml(item.tip)}</p>
@@ -771,11 +783,11 @@
       <div class="page-head">
         <p class="eyebrow">PHÁT ÂM · 发音</p>
         <h1>语音基础</h1>
-        <p>先听示例词，再记字母名。元音、辅音和 6 个声调。</p>
+        <p>元音、辅音和 6 个声调。按钮播放的是字母音，不是示例词。</p>
       </div>
       <div class="phonetic-note">
         <span class="info-dot">i</span>
-        <span>越南语有 6 个声调。声调不同，词义会完全不同，请以音频和 IPA 为准。</span>
+        <span>元音播放字母音；辅音播放“辅音 + ơ”的读法（如 bờ、cờ），不是例词。声调仍以 ma 系列示范。</span>
       </div>
       <section class="phonetic-section">
         <div class="section-heading"><h2>元音</h2><p>${PHONETIC_DATA.vowels.length} 个</p></div>
@@ -878,8 +890,7 @@
     const uiSizeButtons = [
       ["compact", "紧凑"],
       ["standard", "标准"],
-      ["large", "大"],
-      ["xlarge", "特大"],
+      ["large", "宽屏"],
     ]
       .map(
         ([value, label]) =>
@@ -930,7 +941,7 @@
           <div class="segmented" aria-label="播放速度">${speedButtons}</div>
         </div>
         <div class="setting-row">
-          <div class="setting-copy"><strong>显示大小</strong><span>小屏用紧凑；视力不便用特大</span></div>
+          <div class="setting-copy"><strong>显示大小</strong><span>紧凑适合小屏；宽屏用于平板/桌面</span></div>
           <div class="segmented" aria-label="显示大小">${uiSizeButtons}</div>
         </div>
         <div class="setting-row">
@@ -966,7 +977,7 @@
           <button class="danger-btn" type="button" data-action="reset-progress">清除</button>
         </div>
       </div>
-      <p class="footnote">© 2026 ${APP_AUTHOR} · 越词 Việt Từ v${APP_VERSION} · 保留所有权利</p>`;
+      <p class="footnote">© 2026 ${APP_AUTHOR} · ${APP_NAME} Việt Từ v${APP_VERSION} · 保留所有权利</p>`;
   }
 
   function renderInstallCard() {
@@ -981,7 +992,7 @@
       return `
         <div class="install-card">
           <div class="install-icon">${icon("download")}</div>
-          <div class="install-copy"><strong>把越词装到手机</strong><p>添加到主屏幕，像普通 App 一样使用。</p></div>
+          <div class="install-copy"><strong>把越词通装到手机</strong><p>添加到主屏幕，像普通 App 一样使用。</p></div>
           <button class="install-btn" type="button" data-action="install-app" ${
             state.installing ? "disabled" : ""
           }>${state.installing ? "安装中" : "安装"}</button>
@@ -1220,21 +1231,21 @@
   }
 
   function applyUiSize() {
-    const value = ["compact", "standard", "large", "xlarge"].includes(store.settings.uiSize)
+    const value = ["compact", "standard", "large"].includes(store.settings.uiSize)
       ? store.settings.uiSize
       : "standard";
     document.documentElement.dataset.uiSize = value;
   }
 
   function setUiSize(value) {
-    if (!["compact", "standard", "large", "xlarge"].includes(value)) return;
+    if (!["compact", "standard", "large"].includes(value)) return;
     store.settings.uiSize = value;
     saveStore();
     applyUiSize();
     renderMe();
     if (state.view === "today") renderToday();
     if (state.sheetWordId) renderSheet();
-    const labels = { compact: "紧凑", standard: "标准", large: "大", xlarge: "特大" };
+    const labels = { compact: "紧凑", standard: "标准", large: "宽屏" };
     showToast(`显示大小：${labels[value]}`);
   }
 
@@ -1395,6 +1406,7 @@
     if (name !== "today") {
       const dock = $("#grade-dock");
       if (dock) dock.hidden = true;
+      document.body.classList.remove("grade-dock-visible");
     }
 
     if (scroll) {
@@ -1627,6 +1639,20 @@
     document.addEventListener("click", onDocumentClick);
     document.addEventListener("input", onDocumentInput);
     document.addEventListener("keydown", onDocumentKeydown);
+
+    let dockTicking = false;
+    window.addEventListener(
+      "scroll",
+      () => {
+        if (dockTicking) return;
+        dockTicking = true;
+        requestAnimationFrame(() => {
+          updateGradeDock();
+          dockTicking = false;
+        });
+      },
+      { passive: true },
+    );
 
     document.addEventListener("visibilitychange", () => {
       if (!document.hidden) {
