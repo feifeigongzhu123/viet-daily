@@ -157,7 +157,7 @@ python -m pip install edge-tts
 python scripts/generate_audio.py
 ```
 
-最后把 `sw.js` 里的 `CACHE` 版本号改一下（例如 `vietdaily-v1.9.0`），否则已经安装过的用户会继续用旧缓存。
+最后把 `sw.js` 里的 `CACHE` 版本号改一下（例如 `vietdaily-v1.9.1`），否则已经安装过的用户会继续用旧缓存。
 
 ### 重新生成通用词包
 

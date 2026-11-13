@@ -55,7 +55,7 @@ async def generate(words: list[dict], phonetics: dict, force: bool, include_exam
             jobs.append((item["example"], EXAMPLE_DIR / f"{item['id']}.mp3", "-7%"))
     for section in ("vowels", "consonants", "tones"):
         for item in phonetics.get(section, []):
-            jobs.append((item["example"], PHONETIC_DIR / f"{item['id']}.mp3", "-7%"))
+            jobs.append((item.get("soundText") or item["example"], PHONETIC_DIR / f"{item['id']}.mp3", "-7%"))
 
     pending = [job for job in jobs if force or not job[1].exists()]
     print(f"{len(jobs)} audio files selected, {len(pending)} to generate, workers={workers}.")
