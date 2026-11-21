@@ -4,7 +4,9 @@
 
 - `index.html` 在仓库根目录，适合 GitHub Pages 直接部署
 - `.nojekyll`，避免 GitHub Pages 用 Jekyll 处理静态资源
-- `manifest.webmanifest`、Service Worker、1016 个词、2032 条音频
+- `manifest.webmanifest`、Service Worker、1016 个词、2077 条音频
+
+> 上架文案、截图、功能图和数据安全表单见 [store/README.md](store/README.md)。
 
 > 本机目前没有安装 `git` 和 `gh`。下面第一步会安装 Git；上传时需要登录你的 GitHub 账号。
 

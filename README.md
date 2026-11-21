@@ -1,6 +1,6 @@
 # 越词通 · VietDaily
 
-> 作者：**安得半日闲** · 当前版本：**1.2.0**
+> 作者：**安得半日闲** · 当前版本：**1.2.1**
 
 每天学几个越南语单词的安卓可用 PWA。当前词库 **1016 个词**：
 
@@ -31,6 +31,7 @@
 - **离线**：Service Worker 缓存应用和全部 2077 条音频
 - **进度**：连续学习天数、已学/已掌握/待复习、最近 7 天柱状图
 - **安装**：Chrome 安卓端可添加到主屏幕，独立窗口运行
+- **隐私**：不登录、不上传学习记录，独立隐私政策页面
 
 ## 最快的安卓使用方法
 
@@ -79,6 +80,8 @@ PWA 本身已经能安装到安卓桌面。如果一定要 APK：
 
 从零上传 GitHub、开启 Pages、用 PWABuilder/Bubblewrap 打 APK 的完整步骤见：[GITHUB_APK_GUIDE.md](GITHUB_APK_GUIDE.md)。
 
+商店文案、截图、功能图、数据安全表单和发布清单见：[store/README.md](store/README.md)。
+
 ## 项目结构
 
 ```text
@@ -91,6 +94,7 @@ vocab-daily/
 ├── CHANGELOG.md
 ├── VERSION
 ├── index.html
+├── privacy.html               # 独立隐私政策页
 ├── app.css
 ├── app.js
 ├── manifest.webmanifest
@@ -109,11 +113,13 @@ vocab-daily/
 │   ├── phonetics/              # 45 条语音基础示例 MP3
 │   └── index.json              # 离线缓存清单
 ├── icons/                      # PWA 图标
+├── store/                      # 商店文案、截图、功能图、上架清单
 ├── scripts/
 │   ├── build.py                # 校验词表、生成 words.js 和图标
 │   ├── build_general_pack.py   # 生成通用高频词包
 │   ├── generate_audio.py       # 用 Edge TTS 生成越南语音频
 │   ├── check.py                # 检查 JS 语法和音频完整性
+│   ├── test_library_ui.py      # 词库分类与自动播放的无头浏览器测试
 │   ├── check_tones.py          # 检查教材词声调与 IPA 是否一致
 │   ├── audio_report.py         # 检查全部 MP3 的时长和可读性
 │   └── serve.py                # 本地预览服务器
@@ -229,7 +235,7 @@ python scripts/build_general_pack.py --target 1050
 ## 版权与许可
 
 - 作者：**安得半日闲**
-- 当前版本：**1.2.0**（见 `VERSION`、`CHANGELOG.md`）
+- 当前版本：**1.2.1**（见 `VERSION`、`CHANGELOG.md`）
 - 原创代码、界面、原创文字和编排：© 2026 安得半日闲，保留所有权利。详见 [COPYRIGHT.md](COPYRIGHT.md)。
 - 第三方词表、Tatoeba 例句、开放词典数据和 Edge 语音服务的许可与署名：详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
 
@@ -257,4 +263,4 @@ python scripts/build_general_pack.py --target 1050
 
 ## 隐私
 
-所有学习进度保存在浏览器 `localStorage`，不上传到任何服务器；应用没有后端、没有统计脚本、没有账号系统。
+所有学习进度保存在浏览器 `localStorage`，不上传到任何服务器；应用没有后端、没有统计脚本、没有账号系统。完整说明见 [privacy.html](privacy.html)。

@@ -1,10 +1,10 @@
-/* 越词通 · VietDaily · © 2026 安得半日闲 · v1.2.0 */
+/* 越词通 · VietDaily · © 2026 安得半日闲 · v1.2.1 */
 (() => {
   "use strict";
 
   const WORDS = Array.isArray(window.VOCAB) ? window.VOCAB : [];
   const PHONETIC_DATA = window.PHONETICS || { vowels: [], consonants: [], tones: [] };
-  const APP_VERSION = "1.2.0";
+  const APP_VERSION = "1.2.1";
   const APP_NAME = "越词通";
   const APP_AUTHOR = "安得半日闲";
   const BY_ID = new Map(WORDS.map((word) => [word.id, word]));
@@ -1106,7 +1106,7 @@
 
       <div class="section-heading"><h2>关于</h2><p>词表与发音说明</p></div>
       <details class="panel about-card">
-        <summary>词表、音标和音频的出处</summary>
+        <summary>词表、音标、隐私与版权</summary>
         <div class="about-body">
           <p><strong>词表：</strong>${WORDS.filter((word) => !word.source.startsWith("通用")).length} 个《越南语123》入门词（第 1、2、3、4、5、10、12、13、14 课主题）+ ${WORDS.filter((word) => word.source.startsWith("通用")).length} 个通用高频词（1000mostcommonwords.com 常用词去重，并补充日常词）。通用词不是教材原词表。</p>
           <p><strong>通用词释义：</strong>中文释义由开放词典与机器翻译整理；IPA 来自 dict.minhqnd.com（CC BY-SA 4.0），部分为自动生成；通用词的中文谐音是自动拼音近似，教材词为人工标注。</p>
@@ -1116,7 +1116,7 @@
           <p><strong>音频：</strong>由 Microsoft Edge 神经网络语音 vi-VN-HoaiMyNeural 预生成；1016 个单词和 1016 条例句都有离线音频，共约 20 MB。</p>
           <p><strong>版权：</strong>© 2026 ${APP_AUTHOR}。保留所有权利。第三方词表、例句和语音服务的许可见仓库 THIRD_PARTY_NOTICES.md。</p>
           <p><strong>版本：</strong>v${APP_VERSION} · 作者：${APP_AUTHOR}</p>
-          <p><strong>隐私：</strong>学习进度只保存在本机浏览器，不上传服务器，也不需要登录。</p>
+          <p><strong>隐私：</strong>学习进度只保存在本机浏览器，不上传服务器，也不需要登录。<a href="./privacy.html">查看隐私政策</a></p>
         </div>
       </details>
 
