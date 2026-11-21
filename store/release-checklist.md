@@ -2,7 +2,7 @@
 
 ## 0. 提交前确认
 
-- [ ] `https://feifeigongzhu123.github.io/viet-daily/` 能打开，页面底部版本为 v1.2.1
+- [ ] `https://feifeigongzhu123.github.io/viet-daily/` 能打开，页面底部版本为 v1.2.2
 - [ ] `https://feifeigongzhu123.github.io/viet-daily/privacy.html` 能打开
 - [ ] 手机上测试：今日学习、词库分类、自动播放、语音页、清除记录
 - [ ] 断网后重新打开，确认应用外壳和已缓存音频可用
@@ -17,7 +17,7 @@
 | --- | --- |
 | 包名 | `io.github.feifeigongzhu123.vietdaily` |
 | 应用名 | 越词通 |
-| 版本名 | 1.2.1 |
+| 版本名 | 1.2.2 |
 | 版本号 | 1 |
 | 起始网址 | `https://feifeigongzhu123.github.io/viet-daily/` |
 

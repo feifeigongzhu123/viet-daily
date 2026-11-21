@@ -1,6 +1,6 @@
 # 越词通 · 上架资料
 
-本目录存放 Android 安装包与 Google Play / 应用商店上架所需的文字和图片素材。当前应用版本 **1.2.1**。
+本目录存放 Android 安装包与 Google Play / 应用商店上架所需的文字和图片素材。当前应用版本 **1.2.2**。
 
 ## 已准备好的材料
 
@@ -37,7 +37,7 @@ https://feifeigongzhu123.github.io/viet-daily/privacy.html
 
 - 包名：`io.github.feifeigongzhu123.vietdaily`
 - 应用名：`越词通`
-- 版本名：`1.2.1`
+- 版本名：`1.2.2`
 - 版本号：`1`
 - 签名密钥：自行生成并备份，丢失后无法更新已上架应用
 

@@ -1,10 +1,10 @@
-/* 越词通 · VietDaily · © 2026 安得半日闲 · v1.2.1 */
+/* 越词通 · VietDaily · © 2026 安得半日闲 · v1.2.2 */
 (() => {
   "use strict";
 
   const WORDS = Array.isArray(window.VOCAB) ? window.VOCAB : [];
   const PHONETIC_DATA = window.PHONETICS || { vowels: [], consonants: [], tones: [] };
-  const APP_VERSION = "1.2.1";
+  const APP_VERSION = "1.2.2";
   const APP_NAME = "越词通";
   const APP_AUTHOR = "安得半日闲";
   const BY_ID = new Map(WORDS.map((word) => [word.id, word]));
@@ -160,6 +160,7 @@
     libraryFilter: "all",
     libraryQuery: "",
     libraryLimit: 60,
+    libraryAnchorId: null,
     autoplay: null,
     sheetWordId: null,
     sheetTimer: null,
@@ -627,6 +628,7 @@
       ["textbook", "教材", WORDS.filter((word) => !word.source.startsWith("通用")).length],
       ["general", "通用", WORDS.filter((word) => word.source.startsWith("通用")).length],
       ["again", "不熟", WORDS.filter(isAgain).length],
+      ["learned", "已学会", WORDS.filter(isLearned).length],
     ];
     const chips = filters
       .map(
@@ -639,7 +641,7 @@
       <div class="page-head">
         <p class="eyebrow">TỪ VỰNG</p>
         <h1>词库</h1>
-        <p>教材词按课次归类，通用词按首字母归类；不熟的词单独集中。</p>
+        <p>教材词按课次归类，通用词按首字母归类；不熟和已学会的词单独集中。</p>
       </div>
       <div class="search-box">
         ${icon("search")}
@@ -667,6 +669,11 @@
     return Boolean(progress && progress.seen > 0 && (progress.stage || 0) === 0);
   }
 
+  function isLearned(word) {
+    const progress = progressFor(word.id);
+    return Boolean(progress && progress.seen > 0 && (progress.stage || 0) >= 1);
+  }
+
   function filteredLibraryWords() {
     const query = normalize(state.libraryQuery.trim());
     return WORDS.filter((word) => {
@@ -674,6 +681,7 @@
       if (state.libraryFilter === "textbook" && general) return false;
       if (state.libraryFilter === "general" && !general) return false;
       if (state.libraryFilter === "again" && !isAgain(word)) return false;
+      if (state.libraryFilter === "learned" && !isLearned(word)) return false;
       if (!query) return true;
       return normalize(
         [
@@ -707,6 +715,8 @@
     const textbook = words.filter((word) => !word.source.startsWith("通用"));
     const general = words.filter((word) => word.source.startsWith("通用"));
     const groups = [];
+    const textbookPrefix = filter === "all" ? "教材词 · " : filter === "learned" ? "已学会 · " : "";
+    const generalPrefix = filter === "learned" ? "已学会 · " : "";
 
     if (filter !== "general" && textbook.length) {
       const byLesson = new Map();
@@ -717,7 +727,7 @@
       for (const [lesson, items] of [...byLesson.entries()].sort((a, b) => a[0] - b[0])) {
         groups.push({
           key: `lesson-${lesson}`,
-          title: `${filter === "all" ? "教材词 · " : ""}第 ${lesson} 课 · ${items[0].topic}`,
+          title: `${textbookPrefix}第 ${lesson} 课 · ${items[0].topic}`,
           words: items,
         });
       }
@@ -731,7 +741,7 @@
         byLetter.get(letter).push(word);
       }
       for (const [letter, items] of [...byLetter.entries()].sort((a, b) => a[0].localeCompare(b[0], "vi"))) {
-        groups.push({ key: `letter-${letter}`, title: `通用词 · ${letter}`, words: items });
+        groups.push({ key: `letter-${letter}`, title: `${generalPrefix}通用词 · ${letter}`, words: items });
       }
     }
     return groups;
@@ -766,17 +776,24 @@
     const filtered = filteredLibraryWords();
     const count = $("#library-count");
     if (count) {
-      count.innerHTML = `<strong>${filtered.length}</strong> 个词 · 已学 ${learnedCount()} · 不熟 ${WORDS.filter(isAgain).length}`;
+      count.innerHTML = `<strong>${filtered.length}</strong> 个词 · 已学会 ${WORDS.filter(isLearned).length} · 不熟 ${WORDS.filter(isAgain).length}`;
     }
     const clearButton = $("#clear-search");
     if (clearButton) clearButton.hidden = !state.libraryQuery;
 
     if (!filtered.length) {
-      const emptyTitle = state.libraryFilter === "again" ? "还没有不熟的词" : "没有找到这个词";
+      const emptyTitle =
+        state.libraryFilter === "again"
+          ? "还没有不熟的词"
+          : state.libraryFilter === "learned"
+            ? "还没有已学会的词"
+            : "没有找到这个词";
       const emptyText =
         state.libraryFilter === "again"
           ? "在今日学习里点“还不熟”，这些词会集中到这里，方便自动播放加强。"
-          : "试试中文释义、越南语拼写，或者换一个类别。";
+          : state.libraryFilter === "learned"
+            ? "在今日学习里点“记住了”，这些词会集中到这里，也可以自动播放复习。"
+            : "试试中文释义、越南语拼写，或者换一个类别。";
       list.innerHTML = `
         <div class="empty-state">
           <div class="empty-icon">⌕</div>
@@ -817,15 +834,23 @@
     }
   }
 
-  function startAutoplay() {
-    const words = filteredLibraryWords();
+  function autoplayQueue() {
+    return libraryGroups(filteredLibraryWords()).flatMap((group) => group.words);
+  }
+
+  function startAutoplay(startId = null) {
+    const words = autoplayQueue();
     if (!words.length) {
       showToast("当前分类没有可播放的词");
       return;
     }
     stopAutoplay(false);
     if (state.player) state.player.pause();
-    state.autoplay = { list: words, index: 0, timer: null };
+    const anchorId = startId || state.libraryAnchorId;
+    let index = anchorId ? words.findIndex((word) => word.id === anchorId) : 0;
+    if (index < 0) index = 0;
+    state.libraryAnchorId = words[index].id;
+    state.autoplay = { list: words, index, timer: null };
     renderLibraryList();
     playAutoplayCurrent();
   }
@@ -834,12 +859,14 @@
     const autoplay = state.autoplay;
     if (!autoplay) return;
     if (autoplay.index >= autoplay.list.length) {
+      state.libraryAnchorId = null;
       stopAutoplay(false);
       updateAutoplayButton();
       showToast("自动播放完成");
       return;
     }
     const word = autoplay.list[autoplay.index];
+    state.libraryAnchorId = word.id;
     $$(".lib-row.is-autoplay").forEach((row) => row.classList.remove("is-autoplay"));
     const row = document.querySelector(`.lib-row[data-id="${word.id}"]`);
     if (row) {
@@ -1558,7 +1585,10 @@
     if (name === "phonetics") renderPhonetics();
     if (name === "me") renderMe();
     renderChrome();
-    if (name !== "library") stopAutoplay(false);
+    if (name !== "library") {
+      stopAutoplay(false);
+      state.libraryAnchorId = null;
+    }
     if (name !== "today") {
       const dock = $("#grade-dock");
       if (dock) dock.hidden = true;
@@ -1619,6 +1649,10 @@
       }
       case "play-word":
         event.preventDefault();
+        if (state.view === "library" && actionElement.closest(".lib-row")) {
+          startAutoplay(actionElement.dataset.id);
+          break;
+        }
         if (state.autoplay) stopAutoplay(false);
         playAudio(actionElement.dataset.id, "word");
         break;
@@ -1648,6 +1682,7 @@
         break;
       case "open-word":
         event.preventDefault();
+        if (state.view === "library") state.libraryAnchorId = actionElement.dataset.id;
         if (state.autoplay) stopAutoplay(false);
         openSheet(actionElement.dataset.id);
         break;
@@ -1657,6 +1692,7 @@
       case "filter-library": {
         const filter = actionElement.dataset.filter || "all";
         stopAutoplay(false);
+        state.libraryAnchorId = null;
         state.libraryFilter = filter;
         $$("#filter-chips .chip").forEach((chip) => {
           chip.classList.toggle("is-active", chip.dataset.filter === filter);
@@ -1670,6 +1706,7 @@
         break;
       case "clear-search": {
         stopAutoplay(false);
+        state.libraryAnchorId = null;
         state.libraryQuery = "";
         const input = $("#library-search");
         if (input) {
@@ -1717,6 +1754,7 @@
   function onDocumentInput(event) {
     if (event.target && event.target.id === "library-search") {
       stopAutoplay(false);
+      state.libraryAnchorId = null;
       state.libraryQuery = event.target.value;
       renderLibraryList();
     }
