@@ -4,7 +4,7 @@
   "short_name": "越词通",
   "description": "1016 个越南语单词，每天推荐几个；含河内音 IPA、中文释义、谐音、例句和标准发音。",
   "author": "安得半日闲",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "lang": "zh-CN",
   "dir": "ltr",
   "start_url": "./",

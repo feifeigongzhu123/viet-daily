@@ -1,5 +1,5 @@
 /* Offline cache for the VietDaily PWA. */
-const CACHE = "vietdaily-v1.9.1";
+const CACHE = "vietdaily-v2.0.0";
 const CORE = [
   "./",
   "./index.html",
